@@ -1,0 +1,31 @@
+---
+const { lang = "en" } = Astro.props;
+
+const isEN = lang === "en";
+const homeHref = isEN ? "/en" : "/yo";
+const glossaryHref = isEN ? "/en/glossary" : "/yo/glossary";
+
+function swapLang(pathname: string) {
+  if (pathname.startsWith("/en/")) return pathname.replace("/en/", "/yo/");
+  if (pathname === "/en") return "/yo";
+  if (pathname.startsWith("/yo/")) return pathname.replace("/yo/", "/en/");
+  if (pathname === "/yo") return "/en";
+  return "/en";
+}
+
+const currentPath = Astro.url.pathname;
+const toggleHref = swapLang(currentPath);
+---
+
+<div class="nav">
+  <div class="nav-left">
+    <a href={homeHref} class="pill"><strong>imoifa</strong></a>
+    <a href={glossaryHref} class="pill">Glossary</a>
+  </div>
+
+  <div class="nav-right">
+    <a href={toggleHref} class="pill">
+      {isEN ? "Yorùbá" : "English"}
+    </a>
+  </div>
+</div>

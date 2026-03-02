@@ -1,0 +1,42 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import TopNav from "../../../components/TopNav.astro";
+import { getCollection } from "astro:content";
+
+const entries = await getCollection("yo_glossary");
+entries.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout title="Ìtúmọ̀ Ọ̀rọ̀ — Yorùbá | imoifa.com" lang="yo">
+  <TopNav lang="yo" />
+
+  <div class="card">
+    <div class="h1">Ìtúmọ̀ Ọ̀rọ̀</div>
+    <p class="muted">Àwọn ọ̀rọ̀ pàtàkì ní Yorùbá.</p>
+    <div class="divider"></div>
+
+    <div class="grid">
+      {entries.map((e) => (
+        <div class="card">
+          <div class="h2">{e.data.title}</div>
+
+          {e.data.pronunciation && (
+            <div class="muted">Ìsọ̀rọ̀: {e.data.pronunciation}</div>
+          )}
+
+          <div style="margin-top: 8px;">
+            <a href={`/yo/glossary/${e.slug}`}>→ Kà á</a>
+          </div>
+
+          {e.data.tags?.length ? (
+            <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px;">
+              {e.data.tags.slice(0, 6).map((t) => (
+                <span class="tag">{t}</span>
+              ))}
+            </div>
+          ) : null}
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

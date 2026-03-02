@@ -1,0 +1,9 @@
+services:
+  imoifa:
+    build: .
+    container_name: imoifa
+    restart: unless-stopped
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro

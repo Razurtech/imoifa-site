@@ -1,0 +1,48 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import TopNav from "../../../components/TopNav.astro";
+import { getCollection, getEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("en_glossary");
+  return entries.map((e) => ({
+    params: { slug: e.slug },
+  }));
+}
+
+const { slug } = Astro.params;
+
+const entry = await getEntry("en_glossary", slug);
+if (!entry) throw new Error(`Entry not found: en_glossary/${slug}`);
+
+const { Content } = await entry.render();
+const yoHref = `/yo/glossary/${entry.slug}`;
+---
+
+<BaseLayout title={`${entry.data.title} — Glossary | imoifa.com`} lang="en">
+  <TopNav lang="en" />
+
+  <div class="card">
+    <div class="h1">{entry.data.title}</div>
+
+    {entry.data.pronunciation && (
+      <p class="muted">Pronunciation: {entry.data.pronunciation}</p>
+    )}
+
+    <p class="muted">
+      Yorùbá version: <a href={yoHref}>→ Open</a>
+    </p>
+
+    <div class="divider"></div>
+
+    <article>
+      <Content />
+    </article>
+
+    <div class="divider"></div>
+
+    {entry.data.updated && (
+      <div class="muted">Updated: {entry.data.updated}</div>
+    )}
+  </div>
+</BaseLayout>

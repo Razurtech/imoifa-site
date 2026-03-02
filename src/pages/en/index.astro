@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import TopNav from "../../components/TopNav.astro";
+---
+
+<BaseLayout title="imoifa.com — English" lang="en">
+  <TopNav lang="en" />
+
+  <div class="card">
+    <div class="h1">imoifa.com</div>
+    <p class="muted">
+      A respectful cultural archive for Yorùbá spirituality and Ifá traditions — definitions, history, and learning paths.
+    </p>
+    <div class="divider"></div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="h2">Start with the Glossary</div>
+        <p class="muted">Core terms with careful explanations and references.</p>
+        <a href="/en/glossary">→ Browse glossary</a>
+      </div>
+
+      <div class="card">
+        <div class="h2">Traditional aesthetics</div>
+        <p class="muted">Minimal design now. Cultural motifs later. Meaning over noise.</p>
+        <span class="muted">Next: articles + learning paths</span>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

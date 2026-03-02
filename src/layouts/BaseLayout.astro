@@ -1,0 +1,60 @@
+---
+const { title = "imoifa.com", lang = "en" } = Astro.props;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+
+    <style>
+      :root {
+        --bg: #0b0b0c;
+        --fg: #f2f2f2;
+        --muted: #b8b8b8;
+        --border: rgba(255,255,255,.12);
+        --card: rgba(255,255,255,.04);
+      }
+
+      html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); }
+      body { font-family: ui-serif, Georgia, serif; }
+
+      .wrap { max-width: 980px; margin: 0 auto; padding: 48px 18px; }
+      .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 16px; }
+      .grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+      @media (min-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } }
+
+      .footer { margin-top: 28px; color: var(--muted); font-size: 14px; }
+      .h1 { font-size: 34px; margin: 6px 0 10px; letter-spacing: 0.2px; }
+      .h2 { font-size: 20px; margin: 0 0 10px; }
+      .muted { color: var(--muted); }
+      .divider { height: 1px; background: var(--border); margin: 14px 0; }
+
+      .tag {
+        display: inline-flex;
+        align-items: center;
+        font-size: 12px;
+        padding: 4px 10px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        color: var(--muted);
+        white-space: nowrap;
+      }
+
+      .nav a { display: inline-block; }
+      .nav .pill { background: rgba(255,255,255,0.02); }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrap">
+      <slot />
+      <div class="footer">
+        <div class="divider"></div>
+        <div>imoifa.com — a cultural &amp; educational archive. Built with respect.</div>
+      </div>
+    </div>
+  </body>
+</html>
