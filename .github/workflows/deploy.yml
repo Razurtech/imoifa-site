@@ -15,8 +15,32 @@ jobs:
           username: ${{ secrets.DEPLOY_USER }}
           key: ${{ secrets.DEPLOY_KEY }}
           script: |
-            set -e
+            set -euxo pipefail
+            echo "=== Who/where ==="
+            whoami
+            hostname
+            pwd
+
+            echo "=== Go to deploy path ==="
             cd ${{ secrets.DEPLOY_PATH }}
-            git pull --ff-only
+            pwd
+            ls -la
+
+            echo "=== Git status ==="
+            git remote -v
+            git status || true
+
+            echo "=== Sync to origin/main (deterministic) ==="
+            git fetch origin main
+            git reset --hard origin/main
+
+            echo "=== Docker versions ==="
+            docker --version
+            docker compose version || true
+            docker-compose --version || true
+
+            echo "=== Deploy ==="
             docker compose up -d --build
-            curl -fsS -I http://127.0.0.1:8081/en/glossary/ | head -n 5
+
+            echo "=== Health check ==="
+            curl -fsS -I http://127.0.0.1:8081/en/glossary/ | head -n 10
