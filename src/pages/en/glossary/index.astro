@@ -5,6 +5,10 @@ import { getCollection } from "astro:content";
 
 const entries = await getCollection("en_glossary");
 entries.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+const allTags = Array.from(
+  new Set(entries.flatMap(e => e.data.tags || []))
+).sort();
 ---
 
 <BaseLayout title="Glossary — English | imoifa.com" lang="en">
@@ -15,28 +19,91 @@ entries.sort((a, b) => a.data.title.localeCompare(b.data.title));
     <p class="muted">Core terms in English.</p>
     <div class="divider"></div>
 
-    <div class="grid">
+    <!-- SEARCH -->
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Search terms..."
+      style="width:100%; padding:10px; margin-bottom:14px; border:1px solid var(--border); border-radius:8px; background:transparent; color:inherit;"
+    />
+
+    <!-- TAG FILTER -->
+    <div style="margin-bottom:16px; display:flex; flex-wrap:wrap; gap:8px;">
+      {allTags.map(tag => (
+        <button class="tag filter-tag" data-tag={tag}>{tag}</button>
+      ))}
+    </div>
+
+    <div class="grid" id="glossaryGrid">
       {entries.map((e) => (
-        <div class="card">
+        <div
+          class="card glossary-item"
+          data-title={e.data.title.toLowerCase()}
+          data-tags={(e.data.tags || []).join(",").toLowerCase()}
+        >
           <div class="h2">{e.data.title}</div>
 
           {e.data.pronunciation && (
-            <div class="muted">Pronunciation: {e.data.pronunciation}</div>
+            <div class="muted">
+              Pronunciation: {e.data.pronunciation}
+            </div>
           )}
 
           <div style="margin-top: 8px;">
             <a href={`/en/glossary/${e.slug}`}>→ Read</a>
           </div>
 
-          {e.data.tags?.length ? (
-            <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px;">
-              {e.data.tags.slice(0, 6).map((t) => (
+          {e.data.tags?.length > 0 && (
+            <div style="margin-top: 10px; display:flex; flex-wrap:wrap; gap:8px;">
+              {e.data.tags.map((t) => (
                 <span class="tag">{t}</span>
               ))}
             </div>
-          ) : null}
+          )}
         </div>
       ))}
     </div>
   </div>
+
+  <script>
+    const searchInput = document.getElementById("searchInput");
+    const items = document.querySelectorAll(".glossary-item");
+    const tagButtons = document.querySelectorAll(".filter-tag");
+
+    let activeTag = null;
+
+    function filterItems() {
+      const query = searchInput.value.toLowerCase();
+
+      items.forEach(item => {
+        const title = item.dataset.title;
+        const tags = item.dataset.tags;
+
+        const matchesSearch =
+          title.includes(query) || tags.includes(query);
+
+        const matchesTag =
+          !activeTag || tags.includes(activeTag);
+
+        item.style.display =
+          matchesSearch && matchesTag ? "block" : "none";
+      });
+    }
+
+    searchInput.addEventListener("input", filterItems);
+
+    tagButtons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        if (activeTag === btn.dataset.tag) {
+          activeTag = null;
+          btn.style.background = "";
+        } else {
+          activeTag = btn.dataset.tag;
+          tagButtons.forEach(b => b.style.background = "");
+          btn.style.background = "rgba(255,255,255,0.08)";
+        }
+        filterItems();
+      });
+    });
+  </script>
 </BaseLayout>
