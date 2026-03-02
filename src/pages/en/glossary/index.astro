@@ -24,14 +24,24 @@ const allTags = Array.from(
       type="text"
       id="searchInput"
       placeholder="Search terms..."
-      style="width:100%; padding:10px; margin-bottom:14px; border:1px solid var(--border); border-radius:8px; background:transparent; color:inherit;"
+      style="width:100%; padding:10px; margin-bottom:10px; border:1px solid var(--border); border-radius:8px; background:transparent; color:inherit;"
     />
+
+    <!-- FILTER BAR -->
+    <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:12px;">
+      <div class="muted" id="resultCount"></div>
+      <button class="tag" id="clearFilters" type="button" style="display:none;">Clear</button>
+    </div>
 
     <!-- TAG FILTER -->
     <div style="margin-bottom:16px; display:flex; flex-wrap:wrap; gap:8px;">
       {allTags.map(tag => (
-        <button class="tag filter-tag" data-tag={tag}>{tag}</button>
+        <button class="tag filter-tag" type="button" data-tag={tag}>{tag}</button>
       ))}
+    </div>
+
+    <div class="muted" id="noResults" style="display:none; margin: 10px 0 16px;">
+      No matching terms.
     </div>
 
     <div class="grid" id="glossaryGrid">
@@ -39,6 +49,7 @@ const allTags = Array.from(
         <div
           class="card glossary-item"
           data-title={e.data.title.toLowerCase()}
+          data-pron={(e.data.pronunciation || "").toLowerCase()}
           data-tags={(e.data.tags || []).join(",").toLowerCase()}
         >
           <div class="h2">{e.data.title}</div>
@@ -67,43 +78,63 @@ const allTags = Array.from(
 
   <script>
     const searchInput = document.getElementById("searchInput");
-    const items = document.querySelectorAll(".glossary-item");
-    const tagButtons = document.querySelectorAll(".filter-tag");
+    const items = Array.from(document.querySelectorAll(".glossary-item"));
+    const tagButtons = Array.from(document.querySelectorAll(".filter-tag"));
+    const clearBtn = document.getElementById("clearFilters");
+    const countEl = document.getElementById("resultCount");
+    const noResults = document.getElementById("noResults");
 
     let activeTag = null;
 
+    function setActiveButton() {
+      tagButtons.forEach(b => b.classList.remove("active"));
+      if (!activeTag) return;
+      const btn = tagButtons.find(b => b.dataset.tag === activeTag);
+      if (btn) btn.classList.add("active");
+    }
+
     function filterItems() {
-      const query = searchInput.value.toLowerCase();
+      const q = (searchInput.value || "").toLowerCase().trim();
+      let shown = 0;
 
       items.forEach(item => {
-        const title = item.dataset.title;
-        const tags = item.dataset.tags;
+        const title = item.dataset.title || "";
+        const pron = item.dataset.pron || "";
+        const tags = item.dataset.tags || "";
 
         const matchesSearch =
-          title.includes(query) || tags.includes(query);
+          !q || title.includes(q) || tags.includes(q) || pron.includes(q);
 
         const matchesTag =
-          !activeTag || tags.includes(activeTag);
+          !activeTag || tags.includes(activeTag.toLowerCase());
 
-        item.style.display =
-          matchesSearch && matchesTag ? "block" : "none";
+        const ok = matchesSearch && matchesTag;
+        item.style.display = ok ? "block" : "none";
+        if (ok) shown++;
       });
+
+      countEl.textContent = `${shown} result${shown === 1 ? "" : "s"}`;
+      noResults.style.display = shown === 0 ? "block" : "none";
+      clearBtn.style.display = (activeTag || (searchInput.value || "").trim()) ? "inline-block" : "none";
+      setActiveButton();
     }
 
     searchInput.addEventListener("input", filterItems);
 
     tagButtons.forEach(btn => {
       btn.addEventListener("click", () => {
-        if (activeTag === btn.dataset.tag) {
-          activeTag = null;
-          btn.style.background = "";
-        } else {
-          activeTag = btn.dataset.tag;
-          tagButtons.forEach(b => b.style.background = "");
-          btn.style.background = "rgba(255,255,255,0.08)";
-        }
+        activeTag = (activeTag === btn.dataset.tag) ? null : btn.dataset.tag;
         filterItems();
       });
     });
+
+    clearBtn.addEventListener("click", () => {
+      activeTag = null;
+      searchInput.value = "";
+      filterItems();
+    });
+
+    // initial
+    filterItems();
   </script>
 </BaseLayout>
