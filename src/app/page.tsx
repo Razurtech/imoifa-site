@@ -1,101 +1,105 @@
-import Image from "next/image";
+import type { Metadata } from "next";
+import Link from "next/link";
+import { getAllEntries } from "@/lib/glossary";
 
-export default function Home() {
+export const metadata: Metadata = {
+  title: "Home",
+  description:
+    "Explore Ifá, Yorùbá philosophy, language, and history through the Imoifa cultural archive.",
+};
+
+export default function HomePage() {
+  const featuredEntries = getAllEntries("en").slice(0, 3);
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
-
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+    <div className="max-w-6xl mx-auto px-6">
+      {/* Hero */}
+      <section className="relative py-24 md:py-32 text-center">
+        <div className="absolute inset-0 bg-gradient-to-b from-gold/5 via-transparent to-transparent pointer-events-none rounded-b-3xl" />
+        <p className="section-label mb-4">Ifá Cultural Archive</p>
+        <h1 className="heading-serif text-4xl md:text-6xl lg:text-7xl font-bold mb-6 max-w-4xl mx-auto leading-[1.1]">
+          The Living Knowledge
+          <br />
+          <span className="text-gold">of Ifá</span>
+        </h1>
+        <p className="text-parchment-dim text-lg md:text-xl max-w-2xl mx-auto leading-relaxed mb-10">
+          An archive dedicated to preserving and illuminating the depth of Yorùbá
+          philosophy, spirituality, language, and history — rooted in the Ifá
+          oral tradition.
+        </p>
+        <div className="flex flex-wrap items-center justify-center gap-4">
+          <Link href="/glossary" className="btn-gold">
+            Explore the Glossary
+          </Link>
+          <Link href="/yo" className="btn-ghost">
+            Yorùbá Version
+          </Link>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+      </section>
+
+      {/* Divider */}
+      <div className="gold-rule my-2" />
+
+      {/* Featured Entries */}
+      <section className="py-16">
+        <div className="flex items-center justify-between mb-8">
+          <div>
+            <p className="section-label">Featured Entries</p>
+            <h2 className="heading-serif text-2xl font-semibold">
+              From the Archive
+            </h2>
+          </div>
+          <Link
+            href="/glossary"
+            className="text-gold text-sm font-mono hover:underline underline-offset-4 hidden sm:block"
+          >
+            View all →
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {featuredEntries.map((entry) => (
+            <Link
+              key={entry.slug}
+              href={`/glossary/${entry.slug}`}
+              className="block group card-base card-hover p-5"
+            >
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-gold font-serif text-lg font-semibold group-hover:text-gold-light transition-colors">
+                  {entry.term}
+                </span>
+                <span className="text-xs text-parchment-muted font-mono">{entry.partOfSpeech}</span>
+              </div>
+              <p className="text-parchment-dim text-sm leading-relaxed line-clamp-2">
+                {entry.definition}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* About section */}
+      <section className="py-16 border-t border-gold/10">
+        <div className="max-w-3xl">
+          <p className="section-label">About Imoifa</p>
+          <h2 className="heading-serif text-2xl font-semibold mb-4">
+            A Living Archive
+          </h2>
+          <p className="text-parchment-dim leading-relaxed mb-4">
+            Imoifa is a cultural and educational platform dedicated to the
+            preservation, translation, and promotion of Ifá knowledge. Drawing
+            from oral tradition, scholarly research, and the community of
+            practitioners worldwide, we aim to make this profound heritage
+            accessible to all.
+          </p>
+          <p className="text-parchment-dim leading-relaxed">
+            Available in both English and Yorùbá, each entry is carefully
+            researched, contextualised, and cross-referenced — offering a
+            rigorous yet accessible entry point into one of humanity&apos;s most
+            ancient and complete philosophical systems.
+          </p>
+        </div>
+      </section>
     </div>
   );
 }

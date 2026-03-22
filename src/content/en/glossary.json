@@ -1,0 +1,1380 @@
+[
+  {
+    "slug": "ifa",
+    "language": "en",
+    "term": "Ifá",
+    "pronunciation": "ee-FAH",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ifa.jpg",
+    "definition": "A divination system and literary corpus that forms the intellectual and spiritual backbone of Yorùbá civilization. Ifá encompasses a vast oral canon of sacred poetry, historical narratives, proverbs, and ethical teachings transmitted through trained diviners called Babaláwo.",
+    "body": [
+      {
+        "heading": "Origins",
+        "text": "Ifá is attributed to Ọ̀rúnmìlà, the Yorùbá deity of wisdom and foresight, who is said to have been present at the moment of creation and witnessed the destiny of all beings. The oral canon he transmitted forms a complete philosophical and juridical system that long predates contact with the written world."
+      },
+      {
+        "heading": "Structure",
+        "text": "The corpus is organized into 256 Odù — chapters that arose from the combination of 16 principal signs (Mẹjì) and 240 derivative signs. Each Odù contains hundreds of sacred verses (Ẹsẹ Ifá) carrying stories, prescriptions, proverbs, and moral instruction. A Babaláwo selects and interprets these verses through the cast of the Opèlè chain or palm nuts (Ikin)."
+      },
+      {
+        "heading": "Living Tradition",
+        "text": "Recognized by UNESCO in 2005 as an Intangible Cultural Heritage of Humanity, Ifá is not a relic — it remains a living, practiced tradition across West Africa and the African diaspora. In Cuba it survives as Lucumí (Santería); in Brazil as Candomblé; in Trinidad and Haiti in related forms. Millions consult Babaláwo for guidance on health, relationships, vocation, and spiritual alignment."
+      }
+    ],
+    "tags": [
+      "divination",
+      "philosophy",
+      "oral-tradition",
+      "UNESCO",
+      "Odù"
+    ],
+    "related": [
+      "babalaawo",
+      "odu",
+      "orunmila"
+    ]
+  },
+  {
+    "slug": "babalaawo",
+    "language": "en",
+    "term": "Babaláwo",
+    "pronunciation": "bah-bah-LAH-woh",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/babalawo.jpg",
+    "definition": "A priest of Ifá; literally 'father of secrets.' A Babaláwo is a trained diviner who has undergone years of initiation and study to master the 256 Odù and the art of Ifá divination.",
+    "body": [
+      {
+        "heading": "Initiation",
+        "text": "Embarking on the path of the Babaláwo demands a long apprenticeship — often spanning seven or more years — under an established priest. The initiate, called an Ológún or Aboríṣà in training, begins by learning the foundational Odù, their associated herbs, offerings, and prohibitions."
+      },
+      {
+        "heading": "Roles",
+        "text": "Within Yorùbá society, the Babaláwo serves simultaneously as diviner, healer, historian, counselor, and keeper of communal memory. They diagnose spiritual imbalances (àìsàn ẹmí), prescribe remedies (ẹbọ), mediate conflicts, and officiate at rites of passage including birth consultations, naming ceremonies, and funerary rites."
+      },
+      {
+        "heading": "Tools of Divination",
+        "text": "The Babaláwo works primarily with two instruments: the Opèlè — a divining chain of eight concave and convex seed-halves — and Ikin Ifá, sixteen sacred palm nuts. Each cast produces a binary configuration mapped to an Odù, unlocking the relevant set of Ẹsẹ Ifá for recitation and interpretation."
+      }
+    ],
+    "tags": [
+      "priesthood",
+      "divination",
+      "initiation",
+      "healer"
+    ],
+    "related": [
+      "ifa",
+      "odu",
+      "orunmila"
+    ]
+  },
+  {
+    "slug": "odu",
+    "language": "en",
+    "term": "Odù",
+    "pronunciation": "OH-doo",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/odu.jpg",
+    "definition": "One of the 256 chapters of the Ifá literary corpus, each representing a specific configuration of the divination system and containing hundreds of sacred verses, stories, prescriptions, and proverbs.",
+    "body": [
+      {
+        "heading": "The 256 Signs",
+        "text": "The Odù system originates from 16 principal signs (Mẹjì) — each doubling of a sign with itself — that then combine to generate 240 derivative Odù, yielding a total of 256 configurations. The names of the principal Odù include Ogbe, Oyeku, Iwori, Odi, Irosun, Owonrin, Obara, Okanran, Ogunda, Osa, Ika, Oturupọn, Otura, Irete, Ose, and Ofun."
+      },
+      {
+        "heading": "Spiritual Entities",
+        "text": "The Odù are not simply literary categories — they are understood as living spiritual presences with their own personalities, preferences, and taboos. Each governs particular domains of life: Ogbe is associated with light and expansion; Oyeku with death and endings; Ogunda with iron, paths, and conflict resolution. A Babaláwo must develop an intimate relationship with each Odù over years of practice."
+      },
+      {
+        "heading": "Ẹsẹ Ifá",
+        "text": "Within each Odù reside countless Ẹsẹ Ifá — individual verses that recount mythological events, animal fables, historical episodes, and ethical dilemmas. Each Ẹsẹ ends with a resolution demonstrating the power of following Ifá's guidance and the consequences of refusal. The verses are memorized orally and recited during divination sessions."
+      }
+    ],
+    "tags": [
+      "divination",
+      "oral-tradition",
+      "literature",
+      "corpus",
+      "mythology"
+    ],
+    "related": [
+      "ifa",
+      "babalaawo",
+      "orunmila"
+    ]
+  },
+  {
+    "slug": "orunmila",
+    "language": "en",
+    "term": "Ọ̀rúnmìlà",
+    "pronunciation": "oh-roon-MEE-lah",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/orunmila.jpg",
+    "definition": "The Yorùbá deity of wisdom, knowledge, and foresight; the divine custodian of Ifá. Ọ̀rúnmìlà is said to have been present at creation, witnessing the destiny assigned to every being, and serves as the principal intermediary between humanity and the divine order.",
+    "body": [
+      {
+        "heading": "Name & Meaning",
+        "text": "Ọ̀rúnmìlà is a divine name meaning 'only heaven knows who will be saved' — linking heaven (ọ̀run) and destiny (ìpín) as his twin domains. He is also known by the epithets Bọrọ̀pẹtẹ̀, meaning 'the one who redeems people from difficult situations through knowledge,' and Àgbọnnìrègún in some traditions."
+      },
+      {
+        "heading": "Role at Creation",
+        "text": "As the Yorùbá deity of omniscience, Ọ̀rúnmìlà was present when Olódùmarè (the Supreme Being) created the world. He observed the destiny allocated to each soul before incarnation, and it is this primordial knowledge that he channels through the Ifá oracle. Babaláwo revere him as the primordial teacher of the divination system."
+      },
+      {
+        "heading": "Worship & Offerings",
+        "text": "Ọ̀rúnmìlà is honored through Ikin Ifá — the sixteen sacred palm nuts central to Ifá divination. His sacred day in many Yorùbá traditions is Thursday (Ọjọ́ Ojú-Bọ́jú). Offerings made to him traditionally include palm nuts, beans (ẹ̀wà), and pure water. Devotees seeking wisdom, destiny alignment, or guidance approach him through a qualified Babaláwo."
+      }
+    ],
+    "tags": [
+      "deity",
+      "wisdom",
+      "divination",
+      "creation",
+      "philosophy"
+    ],
+    "related": [
+      "ifa",
+      "babalaawo",
+      "odu"
+    ]
+  },
+  {
+    "slug": "ase",
+    "language": "en",
+    "term": "Àṣẹ",
+    "pronunciation": "ah-SHEH",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ase.jpg",
+    "definition": "The vital life force, divine energy, and authority that permeates all things. It is the power to make things happen and produce change.",
+    "body": [
+      {
+        "heading": "Cosmic Energy",
+        "text": "Àṣẹ is often described as the fundamental life force of the universe, given by Olódùmarè (the Supreme Creator) to everything—gods, ancestors, humans, animals, plants, and even inanimate objects. It is the divine current that makes existence possible."
+      },
+      {
+        "heading": "Spiritual Authority",
+        "text": "Beyond mere energy, Àṣẹ also signifies authority and the power of the spoken word. When an elder or priest utters an invocation or blessing, they release Àṣẹ to manifest the intent into reality. Thus, speech is considered a potent vehicle for Àṣẹ."
+      }
+    ],
+    "tags": [
+      "philosophy",
+      "energy",
+      "authority"
+    ],
+    "related": [
+      "olodumare",
+      "orisa"
+    ]
+  },
+  {
+    "slug": "ebo",
+    "language": "en",
+    "term": "Ẹbọ",
+    "pronunciation": "eh-BOH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/ebo.jpg",
+    "definition": "Ritual offering or sacrifice prescribed by Ifá to restore alignment, avert misfortune, or attract blessings.",
+    "body": [
+      {
+        "heading": "Purpose of Offering",
+        "text": "Ẹbọ is the mechanism for restoring cosmic balance. Whether spiritual, emotional, or physical, when equilibrium is lost, an offering is prescribed by an Odù through divination to realign the client’s destiny."
+      },
+      {
+        "heading": "Types of Ẹbọ",
+        "text": "Offerings range from simple acts like leaving a piece of fruit or lighting a candle, to more complex ceremonies involving animals, food, herbs, or specific behavioral changes. Èṣù is always the crucial intermediary who transports the essence of the Ẹbọ to the spiritual realm."
+      }
+    ],
+    "tags": [
+      "ritual",
+      "sacrifice",
+      "alignment"
+    ],
+    "related": [
+      "esu",
+      "ase"
+    ]
+  },
+  {
+    "slug": "opele",
+    "language": "en",
+    "term": "Ọ̀pẹ̀lẹ̀",
+    "pronunciation": "aw-peh-leh",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/opele.jpg",
+    "definition": "The primary divining chain used by Babaláwo, typically featuring eight half-nuts from the ọ̀pẹ̀lẹ̀ tree, allowing for rapid casting during consultations.",
+    "body": [
+      {
+        "heading": "Design and Mechanics",
+        "text": "The ọ̀pẹ̀lẹ̀ consists of eight seed halves joined by a chain. When cast upon a mat, each seed falls either concave (open) or convex (closed). The specific arrangement of open and closed seeds corresponds directly to one of the 256 Odù Ifá."
+      },
+      {
+        "heading": "Usage",
+        "text": "Because it yields an Odù with a single cast, the ọ̀pẹ̀lẹ̀ is generally used for daily, routine, or immediate questions. It is second in authority only to the Ikin Ifá, which requires a more complex and formalized invocation."
+      }
+    ],
+    "tags": [
+      "divination",
+      "tools"
+    ],
+    "related": [
+      "ikin",
+      "babalaawo",
+      "odu"
+    ]
+  },
+  {
+    "slug": "ikin",
+    "language": "en",
+    "term": "Ikin Ifá",
+    "pronunciation": "ee-KEEN ee-FAH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/ikin.jpg",
+    "definition": "The sacred palm nuts of Ifá, considered the original manifestation of Ọ̀rúnmìlà and the most authoritative tool for divination.",
+    "body": [
+      {
+        "heading": "Symbolism",
+        "text": "According to oral tradition, when Ọ̀rúnmìlà departed the earth for heaven, his children pleaded for a way to consult him. He gave them sixteen sacred palm nuts, instructing them that the Ikin would serve as his permanent representation and conduit of his wisdom."
+      },
+      {
+        "heading": "Divination Process",
+        "text": "Divining with Ikin is complex. The Babaláwo systematically transfers the sixteen nuts between his hands. Depending on whether one or two nuts remain in the left hand, marks are traced in yellow iyèròsùn powder on the ọpọ́n Ifá (divination tray) until a complete Odù is formed."
+      }
+    ],
+    "tags": [
+      "divination",
+      "tools",
+      "authoritative"
+    ],
+    "related": [
+      "opele",
+      "orunmila"
+    ]
+  },
+  {
+    "slug": "olodumare",
+    "language": "en",
+    "term": "Olódùmarè",
+    "pronunciation": "oh-loh-doo-mah-reh",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/olodumare.jpg",
+    "definition": "The Supreme Creator in Yorùbá cosmology, the incomprehensible source of all existence and the ultimate authority over the universe.",
+    "body": [
+      {
+        "heading": "The Supreme Being",
+        "text": "Unlike the Òrìṣà, Olódùmarè has no temples, statues, or direct cultic priesthood. As the omnipresent and omnipotent architect of existence, Olódùmarè is considered too vast to be constrained by human ritual, though prayers are directly offered to Him."
+      },
+      {
+        "heading": "Names and Attributes",
+        "text": "He is known by many titles, including Ọlọ́run (Owner of Heaven) and Ẹlẹ́dàá (The Creator). It is Olódùmarè who gives the breath of life (ẹ̀mí) and ultimate destiny to every human soul before birth."
+      }
+    ],
+    "tags": [
+      "supreme",
+      "creator",
+      "cosmology"
+    ],
+    "related": [
+      "orisa",
+      "orunmila"
+    ]
+  },
+  {
+    "slug": "ori",
+    "language": "en",
+    "term": "Orí",
+    "pronunciation": "oh-REE",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ori.jpg",
+    "definition": "Literally 'head'; the inner spiritual consciousness and personal destiny chosen by an individual before birth.",
+    "body": [
+      {
+        "heading": "The Inner Guide",
+        "text": "In Yorùbá belief, the Orí is the most important deity for an individual—even more significant than the Òrìṣà. No Òrìṣà can bless a person without the consent of their own Orí. It represents human potential, consciousness, and divine destiny."
+      },
+      {
+        "heading": "Alignment",
+        "text": "Before life on earth, every soul kneels before Olódùmarè to choose their distinct destiny (Orí-inú). The goal of human life, aided by Ifá divination, is to discover, nurture, and align one's actions with that chosen destiny rather than fighting against it."
+      }
+    ],
+    "tags": [
+      "destiny",
+      "consciousness",
+      "philosophy"
+    ],
+    "related": [
+      "olodumare",
+      "iwa-pele"
+    ]
+  },
+  {
+    "slug": "egungun",
+    "language": "en",
+    "term": "Egúngún",
+    "pronunciation": "eh-goon-goon",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/egungun.jpg",
+    "definition": "The collective spirits of the ancestors, often manifested through elaborately clothed masquerades to guide, bless, and protect living descendants.",
+    "body": [
+      {
+        "heading": "Ancestral Veneration",
+        "text": "The veneration of ancestors is a cornerstone of Yorùbá spirituality. Egúngún ensures the continuity between the living and the dead. The ancestors act as moral guardians for their lineage and mediators to the divine realm."
+      },
+      {
+        "heading": "The Masquerade",
+        "text": "During festivals, specific initiated members act as vessels for the Egúngún. Elaborate multi-layered cloth masks completely conceal the dancer's body, representing the temporary return of the ancestors to earth to impart warnings, blessings, and communal justice."
+      }
+    ],
+    "tags": [
+      "ancestors",
+      "spirits",
+      "tradition"
+    ],
+    "related": [
+      "orisa"
+    ]
+  },
+  {
+    "slug": "orisa",
+    "language": "en",
+    "term": "Òrìṣà",
+    "pronunciation": "oh-ree-SHAH",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/orisa.jpg",
+    "definition": "Divine emissaries and forces of nature that intermediate between Olódùmarè and humanity, governing specific domains of the cosmos and human experience.",
+    "body": [
+      {
+        "heading": "Forces of Nature",
+        "text": "There are said to be 401 Òrìṣà, each representing distinct elements of the natural world and human character. For example, Ṣàngó embodies lightning and justice, while Ọbàtálá embodies creation and purity."
+      },
+      {
+        "heading": "Intermediaries",
+        "text": "While Olódùmarè is the ultimate creator, the Òrìṣà handle the daily administration of the universe. Devotees cultivate reciprocal relationships with them through prayer, alignment, and Ẹbọ (sacrifice) to bring balance to their personal lives and communities."
+      }
+    ],
+    "tags": [
+      "deity",
+      "nature",
+      "worship"
+    ],
+    "related": [
+      "olodumare",
+      "esu"
+    ]
+  },
+  {
+    "slug": "iwa-pele",
+    "language": "en",
+    "term": "Ìwà Pẹ̀lẹ́",
+    "pronunciation": "ee-wah peh-leh",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/iwa-pele.jpg",
+    "definition": "Gentle or good character; the highest ethical standard in Yorùbá philosophy, emphasizing patience, balance, and moral integrity.",
+    "body": [
+      {
+        "heading": "The Core Philosophy",
+        "text": "Ifá teaches that ritual and religious devotion are worthless without Ìwà Pẹ̀lẹ́. Good character is viewed as the ultimate protection against negativity and the central pillar for a successful and spiritually fulfilling life."
+      },
+      {
+        "heading": "Manifestation",
+        "text": "To possess Ìwà Pẹ̀lẹ́ is to be patient, respectful, honest, and balanced. It requires constant self-reflection and the ability to live harmoniously within the community and alignment with one’s Orí."
+      }
+    ],
+    "tags": [
+      "ethics",
+      "character",
+      "philosophy"
+    ],
+    "related": [
+      "ori"
+    ]
+  },
+  {
+    "slug": "esu",
+    "language": "en",
+    "term": "Èṣù",
+    "pronunciation": "eh-SHOO",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/esu.jpg",
+    "definition": "The divine messenger, guardian of the crossroads, and enforcer of cosmic justice who delivers sacrifices to the spiritual realm.",
+    "body": [
+      {
+        "heading": "The Messenger",
+        "text": "Èṣù is the essential paradox of the universe—the enforcer of order who uses chaos as a test of character. He stands at the crossroads of every decision. All communication between humans and the divine must pass through him."
+      },
+      {
+        "heading": "Misconceptions",
+        "text": "Due to mistranslations during earlier colonial periods, Èṣù was incorrectly synchronized with the Christian devil. In reality, Èṣù does not oppose God but works directly for Olódùmarè as an impartial cosmic inspector who rewards good character and punishes arrogance."
+      }
+    ],
+    "tags": [
+      "deity",
+      "crossroads",
+      "justice"
+    ],
+    "related": [
+      "ebo",
+      "orisa"
+    ]
+  },
+  {
+    "slug": "ogun",
+    "language": "en",
+    "term": "Ògún",
+    "pronunciation": "oh-GOON",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/ogun.jpg",
+    "definition": "The Òrìṣà of iron, warfare, technology, and pathmaking, revered for his raw energy and foundational role in civilization.",
+    "body": [
+      {
+        "heading": "The Pathmaker",
+        "text": "Ògún is the spiritual force of clearance. He is said to have cut the path through the thicket separating the spiritual realm from earth using his machete, allowing the other deities to descend to humanity."
+      },
+      {
+        "heading": "Technology and Innovation",
+        "text": "As the patron of blacksmiths, warriors, engineers, and surgeons, Ògún represents transformative technology. His energy is fierce, decisive, and protective, turning raw natural resources into tools for civilization."
+      }
+    ],
+    "tags": [
+      "deity",
+      "iron",
+      "civilization"
+    ],
+    "related": [
+      "orisa"
+    ]
+  },
+  {
+    "slug": "obatala",
+    "language": "en",
+    "term": "Ọbàtálá",
+    "pronunciation": "oh-bah-tah-lah",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/obatala.jpg",
+    "definition": "The Òrìṣà of creation, purity, and light; the sculptor of the human form who represents profound wisdom and peace.",
+    "body": [
+      {
+        "heading": "The Creator of Forms",
+        "text": "According to oral history, Olódùmarè tasked Ọbàtálá with creating the physical earth and molding human bodies from clay, before Olódùmarè breathed life into them. He is revered as the father of all Òrìṣà and humanity."
+      },
+      {
+        "heading": "Purity and Peace",
+        "text": "Ọbàtálá is deeply associated with the color white, representing ethical purity, clarity, and coolness. His devotees are expected to maintain pristine moral character (Ìwà Pẹ̀lẹ́) and a cool, patient mind (orí tútù)."
+      }
+    ],
+    "tags": [
+      "deity",
+      "creation",
+      "purity"
+    ],
+    "related": [
+      "olodumare",
+      "orisa",
+      "iwa-pele"
+    ]
+  },
+  {
+    "slug": "yemoja",
+    "language": "en",
+    "term": "Yemọja",
+    "pronunciation": "yeh-moh-JAH",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/yemoja.jpg",
+    "definition": "The mother of the Òrìṣà, patron of the Ogun river, and embodiment of maternal care, fertility, and the nurturing aspects of water.",
+    "body": [
+      {
+        "heading": "Mother of All",
+        "text": "Her name literally translates to 'Mother whose children are like fish.' Yemọja is fiercely protective, infinitely nurturing, and represents the sustaining power of life. Many Òrìṣà are considered her children."
+      },
+      {
+        "heading": "Associations",
+        "text": "Associated with rivers in Yorùbáland (and later synchronized with the ocean in the diaspora), she governs mysteries, childbirth, and profound emotional depth. Where there is water, there is life, overseen by Yemọja."
+      }
+    ],
+    "tags": [
+      "deity",
+      "maternal",
+      "water"
+    ],
+    "related": [
+      "orisa"
+    ]
+  },
+  {
+    "slug": "sango",
+    "language": "en",
+    "term": "Ṣàngó",
+    "pronunciation": "shan-GO",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/sango.jpg",
+    "definition": "The Òrìṣà of thunder, lightning, and justice; a historical Alaafin (king) of Oyo deified for his immense power.",
+    "body": [
+      {
+        "heading": "King and Deity",
+        "text": "Ṣàngó represents raw, explosive power, masculine energy, and swift justice. Historically, he was the third Alaafin of the Ọ̀yọ́ Empire, whose reign was marked by immense magical prowess and eventual deification."
+      },
+      {
+        "heading": "Thunder and Lightning",
+        "text": "He wields the osé (double-headed axe) and speaks through the roar of thunder. Ṣàngó punishes thieves, liars, and hypocrites with lightning, ensuring moral integrity and courage."
+      }
+    ],
+    "tags": [
+      "deity",
+      "justice",
+      "royalty"
+    ],
+    "related": [
+      "orisa"
+    ]
+  },
+  {
+    "slug": "osun",
+    "language": "en",
+    "term": "Ọ̀ṣun",
+    "pronunciation": "oh-SHOON",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/osun.jpg",
+    "definition": "The Òrìṣà of sweet waters, fertility, beauty, and prosperity, associated with diplomacy and the healing power of water.",
+    "body": [
+      {
+        "heading": "Power of the River",
+        "text": "Ọ̀ṣun represents the sweet waters that sustain life. Far from vanity, her association with beauty is fundamentally ties to the abundance and prosperity of civilization. She heals with her soothing waters and guards over pregnant women and young children."
+      },
+      {
+        "heading": "Diplomacy and Authority",
+        "text": "Ọ̀ṣun holds immense political and spiritual authority. According to the Odù Ọ̀ṣẹ́túrá, creation could not proceed until she, representing feminine power and esoteric knowledge (Aje), was respected and included by the male deities."
+      }
+    ],
+    "tags": [
+      "deity",
+      "fertility",
+      "prosperity"
+    ],
+    "related": [
+      "orisa"
+    ]
+  },
+  {
+    "slug": "odu-ifa",
+    "language": "en",
+    "term": "Odù Ifá",
+    "pronunciation": "OH-doo ee-FAH",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/odu-ifa.jpg",
+    "definition": "The 256 structural chapters of the Ifá literary corpus, containing the collected wisdom, stories, and prescriptions of the tradition.",
+    "body": [
+      {
+        "heading": "The Living Corpus",
+        "text": "Odù Ifá constitutes the vast canon of Yorùbá philosophy, encompassing 256 discrete matrices or 'chapters'. These are divided into the 16 primary Mẹjì (Twins) and 240 secondary Amúlù combinations. They map every conceivable eventuality of human existence."
+      },
+      {
+        "heading": "Preservation of Knowledge",
+        "text": "Through rigorous oral memorization, Babaláwos retain complex poems, mythic narratives, and herbal pharmacology linked directly to each Odù. They are considered not merely literature, but living spiritual forces."
+      }
+    ],
+    "tags": [
+      "literature",
+      "corpus",
+      "philosophy"
+    ],
+    "related": [
+      "odu",
+      "ifa"
+    ]
+  },
+  {
+    "slug": "awo",
+    "language": "en",
+    "term": "Awo",
+    "pronunciation": "ah-WOH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/awo.jpg",
+    "definition": "Secret, mystery, or the initiated keepers of esoteric knowledge; often used interchangeably with Babaláwo or dedicated practitioners.",
+    "body": [
+      {
+        "heading": "The Mystery",
+        "text": "Awo refers primarily to esoteric knowledge that is hidden from the profane or uninitiated eye. It encompasses the deep rituals, incantations, and mechanics of the spiritual world."
+      },
+      {
+        "heading": "The Keepers",
+        "text": "By extension, 'Awo' often refers to those who possess this knowledge—the initiated priests and priestesses who dedicate their lives to studying the mysteries of Ifá and the Òrìṣà."
+      }
+    ],
+    "tags": [
+      "mystery",
+      "initiation",
+      "knowledge"
+    ],
+    "related": [
+      "babalaawo",
+      "ifa"
+    ]
+  },
+  {
+    "slug": "itefa",
+    "language": "en",
+    "term": "Ìtẹ̀fá",
+    "pronunciation": "ee-teh-FAH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/itefa.jpg",
+    "definition": "The profound initiation ceremony establishing a person's lifelong pact with Ifá and revealing their guiding Odù.",
+    "body": [
+      {
+        "heading": "The Pact",
+        "text": "Ìtẹ̀fá is a critical initiation ritual stretching over several days, symbolizing rebirth. It solidifies a definitive connection between the initiate and the energies of Ọ̀rúnmìlà, unlocking their spiritual potential."
+      },
+      {
+        "heading": "Revealing the Destiny",
+        "text": "The culmination of the Ìtẹ̀fá is the revelation of the initiate's personal Odù. This specific chapter of the Ifá corpus serves as a lifelong blueprint, revealing the individual's purpose on earth, their innate strengths, and their specific taboos (èwọ̀)."
+      }
+    ],
+    "tags": [
+      "initiation",
+      "ritual",
+      "destiny"
+    ],
+    "related": [
+      "ifa",
+      "odu-ifa",
+      "ori"
+    ]
+  },
+  {
+    "slug": "adifa",
+    "language": "en",
+    "term": "Adífá",
+    "pronunciation": "ah-dee-FAH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/adifa.jpg",
+    "definition": "The act of consulting Ifá, or the client who comes for a divination session (from a-dí-fá, 'one who casts Ifá').",
+    "body": [
+      {
+        "heading": "Consultation",
+        "text": "When a person faces a crux, illness, or important life decision, they become an Adífá—one seeking the wisdom of the oracle. The process requires paying a spiritual fee and directing their whispered concerns into the divining instruments."
+      },
+      {
+        "heading": "The Narrative Bridge",
+        "text": "Many traditional Ẹsẹ Ifá (verses) begin by listing the names of ancient Babaláwos who 'cast Ifá for' (A dí fá fún) a specific mythological or historical figure, reinforcing the timeless pattern of seeking divine counsel."
+      }
+    ],
+    "tags": [
+      "divination",
+      "consultation",
+      "roles"
+    ],
+    "related": [
+      "babalaawo",
+      "ifa"
+    ]
+  },
+  {
+    "slug": "akose",
+    "language": "en",
+    "term": "Àkóṣe",
+    "pronunciation": "ah-koh-SHEH",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/akose.jpg",
+    "definition": "Practical applications of Ifá knowledge involving preparations, botanical knowledge, and incantations to manifest specific physical or spiritual results.",
+    "body": [
+      {
+        "heading": "Applied Knowledge",
+        "text": "While Ẹbọ focuses on symbolic sacrifice and realignment, Àkóṣe acts as a practical spiritual technology. It involves the compounding of roots, leaves, saps, and animal parts according to specific recipes hidden within the Odù."
+      },
+      {
+        "heading": "Intent and Incantation",
+        "text": "The physical ingredients are inert without the corresponding ọ̀fọ̀ or ọgẹ̀dẹ̀ (incantation). The priest breathes life into the medicine using their Àṣẹ, combining the raw power of nature with divine intent to heal diseases, attract wealth, or provide protection."
+      }
+    ],
+    "tags": [
+      "medicine",
+      "botany",
+      "application"
+    ],
+    "related": [
+      "ase",
+      "ebo",
+      "odu-ifa"
+    ]
+  },
+  {
+    "slug": "ire",
+    "language": "en",
+    "term": "Ire",
+    "pronunciation": "ee-REH",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ire.jpg",
+    "definition": "Ire refers to blessings, good fortune, and all forms of positive destiny in Yorùbá cosmology, representing the favorable alignment of one's path with divine will.",
+    "body": [
+      {
+        "heading": "Types of Ire",
+        "text": "Traditional Ifá wisdom identifies multiple categories of ire, including ire ajé (blessing of wealth), ire ọmọ (blessing of children), ire aíkú (blessing of longevity), and ire ogún (blessing of victory). Each category represents a fundamental dimension of human flourishing that practitioners seek through divination and proper spiritual alignment."
+      },
+      {
+        "heading": "Ire in Divination",
+        "text": "During Ifá consultation, the diviner determines whether the odù that appears carries ire or ibi (misfortune). When ire is indicated, the client learns which specific blessings are available and what offerings or actions will help secure them. The identification of ire brings relief and provides a roadmap for actualizing one's positive potential."
+      },
+      {
+        "heading": "Spiritual Significance",
+        "text": "Ire is not merely passive luck but an active state requiring cultivation through righteous living, proper veneration of orí (one's inner head), and maintenance of harmonious relationships with both the visible and invisible worlds. The pursuit of ire represents the fundamental human aspiration toward alignment with àṣẹ, the divine creative force."
+      }
+    ],
+    "tags": [
+      "blessing",
+      "fortune",
+      "divination",
+      "destiny",
+      "Ifá"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ela",
+    "language": "en",
+    "term": "Ẹlà",
+    "pronunciation": "EH-lah",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/ela.jpg",
+    "definition": "Ẹlà is the primordial spirit of purity and salvation in Yorùbá cosmology, often identified as the progenitor of the Ifá divination system and associated with moral restoration and cosmic balance.",
+    "body": [
+      {
+        "heading": "Cosmological Role",
+        "text": "Ẹlà is regarded as one of the earliest divine emissaries sent to earth by Olódùmarè, the Supreme Being, to establish order and righteousness among humanity. He is closely associated with the concept of ìwà (character) and is sometimes considered the spiritual father of Ọ̀rúnmìlà. His mission centered on teaching humanity moral principles before physical remedies, emphasizing that ethical conduct precedes ritual efficacy."
+      },
+      {
+        "heading": "Connection to Ifá",
+        "text": "In many oral traditions, Ẹlà is described as the original bearer of divine wisdom who later transmitted sacred knowledge to Ọ̀rúnmìlà. Some lineages identify Ẹlà directly with Ọ̀rúnmìlà in his most spiritually pure aspect, while others maintain them as distinct but intimately connected beings. This relationship underscores the continuity between primordial purity and the ongoing practice of Ifá divination."
+      },
+      {
+        "heading": "Ritual Significance",
+        "text": "Ẹlà is invoked in certain ceremonial contexts as a purifying force and as a witness to oaths and sacred covenants. His presence signifies the restoration of harmony between the spiritual and material worlds. Devotees may call upon Ẹlà when seeking to cleanse spaces, individuals, or situations of spiritual contamination."
+      }
+    ],
+    "tags": [
+      "primordial deity",
+      "purity",
+      "Ọ̀rúnmìlà",
+      "cosmology",
+      "salvation"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ayanmo",
+    "language": "en",
+    "term": "Àyànmọ́",
+    "pronunciation": "ah-YAHN-maw",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ayanmo.jpg",
+    "definition": "Àyànmọ́ refers to one's destiny or fate—the life path chosen by the individual soul before birth, which shapes the fundamental trajectory of earthly existence.",
+    "body": [
+      {
+        "heading": "The Choosing Before Birth",
+        "text": "In Yorùbá cosmology, each soul kneels before Olódùmarè and selects its àyànmọ́ before entering the physical world. This chosen destiny encompasses one's lifespan, character, potential achievements, and challenges. Unlike arbitrary fate, àyànmọ́ represents a conscious selection, though the memory of this choice is veiled upon birth."
+      },
+      {
+        "heading": "Relationship to Orí and Ifá",
+        "text": "Àyànmọ́ is intimately connected to Orí, the personal divine consciousness that carries the imprint of one's chosen destiny. Through Ifá divination, individuals can gain insight into their àyànmọ́ and understand how to align their actions with their predetermined path. While the broad strokes of destiny are fixed, wisdom and proper conduct can optimize how one's àyànmọ́ unfolds."
+      },
+      {
+        "heading": "Destiny and Free Will",
+        "text": "The concept of àyànmọ́ does not negate personal agency. Rather, it establishes the parameters within which free will operates. One may fulfill their destiny with grace or struggle against it fruitlessly; the wise person seeks to understand and work harmoniously with their àyànmọ́ rather than resist it."
+      }
+    ],
+    "tags": [
+      "destiny",
+      "cosmology",
+      "ori",
+      "predestination",
+      "soul"
+    ],
+    "related": []
+  },
+  {
+    "slug": "abiku",
+    "language": "en",
+    "term": "Àbíkú",
+    "pronunciation": "ah-BEE-koo",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/abiku.jpg",
+    "definition": "A spirit child believed to be born with the intention of dying young and returning repeatedly to the same mother, causing cycles of grief and loss within the family.",
+    "body": [
+      {
+        "heading": "Cosmological Understanding",
+        "text": "In Yorùbá metaphysics, àbíkú children are understood to exist in a liminal state between the spirit world and the physical realm. They are believed to belong to egbé ọ̀run, celestial peer groups with whom they maintain spiritual pacts. These agreements may compel the child to return to the spirit world at predetermined times, often before reaching adulthood."
+      },
+      {
+        "heading": "Traditional Recognition and Intervention",
+        "text": "Families and diviners employ various methods to identify àbíkú children, including distinctive facial marks, unusual birthmarks, or consultation through Ifá divination. Ritual interventions aim to sever the child's connection to their spirit companions and anchor them firmly in the physical world. These practices reflect deep cultural investment in understanding and negotiating with spiritual forces affecting human life."
+      },
+      {
+        "heading": "Names and Protective Measures",
+        "text": "Special names are given to suspected àbíkú children as protective measures and appeals. Names such as Málọmọ́ (Don't go again), Kòkúmọ́ (This one will not die), and Dúrójaiyé (Stay and enjoy life) serve as verbal charms and parental pleas. Physical marks or small incisions might also be made to help identify the child should they return in another birth."
+      }
+    ],
+    "tags": [
+      "spirit children",
+      "reincarnation",
+      "infant mortality",
+      "egbé ọ̀run",
+      "protective rituals"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ibi",
+    "language": "en",
+    "term": "Ibi",
+    "pronunciation": "ee-BEE",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ibi.jpg",
+    "definition": "Ibi refers to misfortune, negativity, or unfavorable outcomes in Yorùbá cosmology, representing the opposing force to ire (blessings) in the cosmic balance that governs human destiny.",
+    "body": [
+      {
+        "heading": "Cosmological Significance",
+        "text": "In Yorùbá thought, ibi exists as the necessary counterpart to ire, reflecting a worldview where balance between opposing forces maintains cosmic order. Ibi encompasses various forms of negativity including illness, death, loss, conflict, and spiritual obstruction. Rather than being viewed as evil in an absolute sense, ibi represents challenges and obstacles that may arise when one is out of alignment with one's orí (destiny) or has neglected proper spiritual obligations."
+      },
+      {
+        "heading": "Role in Ifá Divination",
+        "text": "During Ifá consultation, the babalawo determines whether the odù that appears comes with ibi or ire, fundamentally shaping the interpretation and prescribed remedies. When ibi is indicated, specific ẹbọ (sacrifices) and spiritual works are recommended to transform or mitigate the negative forces. The divination process itself is understood as a means of identifying approaching ibi before it manifests, allowing for preventive spiritual action."
+      },
+      {
+        "heading": "Transformation and Prevention",
+        "text": "Yorùbá spiritual practice emphasizes that ibi is not necessarily permanent or inevitable. Through proper ẹbọ, adherence to prescribed taboos, and alignment with one's orí, ibi can often be averted or transformed. This understanding reflects the Yorùbá belief in human agency within destiny—while challenges may be foreseen, conscious spiritual effort can alter outcomes."
+      }
+    ],
+    "tags": [
+      "misfortune",
+      "divination",
+      "cosmology",
+      "ire",
+      "ebo",
+      "destiny"
+    ],
+    "related": []
+  },
+  {
+    "slug": "eleda",
+    "language": "en",
+    "term": "Elédàá",
+    "pronunciation": "eh-LAY-dah",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/eleda.jpg",
+    "definition": "Elédàá refers to one's personal creator or the divine source that fashioned an individual's destiny before birth, often understood as the spiritual owner of one's head (orí).",
+    "body": [
+      {
+        "heading": "Theological Significance",
+        "text": "In Yorùbá cosmology, Elédàá represents the aspect of Olódùmarè (the Supreme Being) that personally creates each individual soul. This concept emphasizes the intimate relationship between the divine and human existence, suggesting that every person carries within them a direct connection to their spiritual origin. Elédàá is sometimes used interchangeably with orí inú (inner head), though subtle distinctions exist in various lineages."
+      },
+      {
+        "heading": "Relationship with Orí",
+        "text": "The concept of Elédàá is inseparable from the understanding of orí as personal destiny. Before birth, each soul is believed to kneel before Elédàá to receive their àyànmọ́ (chosen destiny). This primordial covenant establishes one's life path, character, and potential. Honoring one's Elédàá through prayer and ritual acknowledgment is considered essential for spiritual alignment and the fulfillment of destiny."
+      }
+    ],
+    "tags": [
+      "ori",
+      "destiny",
+      "creator",
+      "cosmology",
+      "spiritual-identity"
+    ],
+    "related": []
+  },
+  {
+    "slug": "agbara",
+    "language": "en",
+    "term": "Agbara",
+    "pronunciation": "ah-GBAH-rah",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/agbara.jpg",
+    "definition": "Agbara refers to power, strength, or spiritual force in Yorùbá cosmology—the vital energy that animates beings, empowers deities, and enables transformation in both physical and metaphysical realms.",
+    "body": [
+      {
+        "heading": "Cosmological Significance",
+        "text": "In Yorùbá thought, agbara represents the dynamic force underlying all existence. It is the power wielded by Òrìṣà, channeled through ritual, and cultivated by practitioners. Agbara can manifest as physical strength, spiritual authority, medicinal potency, or the commanding presence of sacred speech and incantation."
+      },
+      {
+        "heading": "Sources and Manifestations",
+        "text": "Agbara flows from Olódùmarè, the Supreme Being, and is distributed through the Òrìṣà to humanity and nature. Certain herbs, sacred objects, and locations are believed to possess concentrated agbara. In Ifá practice, the acquisition and proper use of agbara is essential for effective divination, healing, and the maintenance of cosmic balance."
+      }
+    ],
+    "tags": [
+      "power",
+      "àṣẹ",
+      "spiritual force",
+      "cosmology",
+      "Ifá"
+    ],
+    "related": []
+  },
+  {
+    "slug": "orun",
+    "language": "en",
+    "term": "Ọ̀run",
+    "pronunciation": "AW-roon",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/orun.jpg",
+    "definition": "The spiritual realm or heaven in Yorùbá cosmology, understood as the invisible dimension of existence where the Òrìṣà, ancestors, and unborn souls reside, existing in dynamic relationship with Ayé (the physical world).",
+    "body": [
+      {
+        "heading": "Cosmological Structure",
+        "text": "Ọ̀run represents one half of the fundamental duality in Yorùbá metaphysics, complementing Ayé, the visible earthly realm. Rather than a distant paradise, Ọ̀run is understood as an interpenetrating dimension that constantly interacts with the physical world. This realm contains multiple levels or regions, including spaces designated for different categories of spiritual beings and the souls awaiting reincarnation."
+      },
+      {
+        "heading": "Inhabitants of Ọ̀run",
+        "text": "The Òrìṣà dwell in Ọ̀run, as do the Egúngún (ancestral spirits) and the ara ọ̀run (heavenly beings). Olódùmarè, the Supreme Being, presides over this realm. Souls transition to Ọ̀run after death, where they may eventually return to Ayé through reincarnation, particularly within their lineage."
+      },
+      {
+        "heading": "Communication Between Realms",
+        "text": "Ifá divination serves as the primary means of receiving guidance from Ọ̀run. Through ritual, sacrifice, and the interpretation of Odù, practitioners maintain the essential flow of àṣẹ between the visible and invisible worlds. This communication ensures balance and allows human beings to align their lives with cosmic order."
+      }
+    ],
+    "tags": [
+      "cosmology",
+      "afterlife",
+      "spiritual realm",
+      "Yorùbá metaphysics",
+      "heaven"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ofo",
+    "language": "en",
+    "term": "Ofọ̀",
+    "pronunciation": "oh-FOH",
+    "partOfSpeech": "noun",
+    "category": "Rituals & Ceremony",
+    "thumbnail": "/images/glossary/ofo.jpg",
+    "definition": "Ofọ̀ refers to sacred incantations or power words in Yorùbá tradition, believed to carry inherent àṣẹ (spiritual authority) that can manifest intentions into reality when properly spoken.",
+    "body": [
+      {
+        "heading": "Nature and Function",
+        "text": "Ofọ̀ are not mere prayers or wishes but are understood as words encoded with primordial power dating back to creation. These incantations work through the principle that certain utterances, when combined with proper knowledge and ritual context, can directly influence spiritual and material reality. The efficacy of ofọ̀ depends on the speaker's lineage, initiation, and moral standing."
+      },
+      {
+        "heading": "Types and Applications",
+        "text": "Different categories of ofọ̀ serve various purposes including protection, healing, success in endeavors, and communication with spiritual forces. Some are transmitted within families as hereditary knowledge, while others are revealed through Ifá divination or initiatic training. The words often employ metaphor, tonal precision, and rhythmic patterns that connect to deeper cosmological truths."
+      },
+      {
+        "heading": "Relationship to Àṣẹ",
+        "text": "Ofọ̀ represents the spoken dimension of àṣẹ, the universal life force that empowers all existence. Practitioners understand that words themselves possess agency and that ofọ̀ activates dormant spiritual potentials. This belief reflects the Yorùbá understanding that the universe was spoken into being and that humans, as children of Olódùmarè, inherit this creative capacity through speech."
+      }
+    ],
+    "tags": [
+      "incantation",
+      "àṣẹ",
+      "sacred speech",
+      "ritual",
+      "spiritual power"
+    ],
+    "related": []
+  },
+  {
+    "slug": "otito",
+    "language": "en",
+    "term": "Òtítọ́",
+    "pronunciation": "oh-TEE-toh",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/otito.jpg",
+    "definition": "Truth, reality, or authenticity; a fundamental ethical principle in Yorùbá philosophy emphasizing honesty, integrity, and alignment with what is real and genuine.",
+    "body": [
+      {
+        "heading": "Philosophical Foundation",
+        "text": "Òtítọ́ represents one of the highest virtues in Yorùbá ethical thought, understood not merely as factual accuracy but as a state of being in harmony with reality itself. It encompasses truthfulness in speech, authenticity in character, and integrity in action. The concept is intimately connected to ìwàpẹ̀lẹ́ (good character), as truth-telling and genuine conduct are seen as essential expressions of moral excellence."
+      },
+      {
+        "heading": "Spiritual Significance",
+        "text": "In Ifá tradition, Òtítọ́ is considered a divine attribute that humans must cultivate to align with cosmic order. Ọ̀rúnmìlà, the deity of wisdom and divination, is particularly associated with truth, and his devotees are expected to embody this principle. The Odù Ifá repeatedly emphasizes that deception disrupts àṣẹ (spiritual power) and damages one's orí (personal destiny), while truthfulness strengthens one's spiritual path."
+      },
+      {
+        "heading": "Social Application",
+        "text": "Yorùbá proverbs frequently extol truth as superior to all forms of deception: 'Òtítọ́ ní ń gbé ẹni' (Truth sustains a person). In traditional governance and jurisprudence, truthfulness was expected in all proceedings, and oath-taking invoked spiritual consequences for dishonesty. This principle continues to inform Yorùbá social ethics and interpersonal relationships."
+      }
+    ],
+    "tags": [
+      "ethics",
+      "virtue",
+      "character",
+      "philosophy",
+      "morality"
+    ],
+    "related": []
+  },
+  {
+    "slug": "egbe",
+    "language": "en",
+    "term": "Ẹgbẹ́",
+    "pronunciation": "EH-gbeh",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/egbe.jpg",
+    "definition": "Ẹgbẹ́ refers to one's heavenly companions or spirit mates—a group of kindred souls with whom an individual shares bonds formed in the spiritual realm before birth into the physical world.",
+    "body": [
+      {
+        "heading": "Spiritual Origin and Nature",
+        "text": "In Yorùbá cosmology, each person belongs to a community of spirit companions in ọ̀run (the spiritual realm) before choosing to be born. These ẹgbẹ́ relationships are understood as profound soul-level connections that persist even after incarnation. The bonds formed with one's ẹgbẹ́ are considered as significant as earthly family ties, sometimes more so."
+      },
+      {
+        "heading": "Influence on Human Life",
+        "text": "Ẹgbẹ́ spirits are believed to influence an individual's destiny, relationships, and sense of belonging in the physical world. When a person feels unexplained longing, restlessness, or difficulty forming earthly attachments, diviners may identify unresolved ẹgbẹ́ connections requiring attention. Proper acknowledgment and ritual appeasement of one's ẹgbẹ́ can restore balance and facilitate personal fulfillment."
+      },
+      {
+        "heading": "Ritual Recognition",
+        "text": "Ifá divination often reveals the nature of a person's ẹgbẹ́ relationships and prescribes appropriate offerings or ceremonies to honor these spirit companions. Such rituals help negotiate the boundary between heavenly obligations and earthly life, ensuring that neither realm's bonds unduly constrain the individual's path."
+      }
+    ],
+    "tags": [
+      "spirit companions",
+      "cosmology",
+      "destiny",
+      "ọ̀run",
+      "spiritual relationships"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ori-inu",
+    "language": "en",
+    "term": "Orí Inú",
+    "pronunciation": "oh-REE ee-NOO",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ori-inu.jpg",
+    "definition": "Orí Inú refers to the inner consciousness or inner head within Yorùbá spiritual philosophy, representing the deeper awareness and moral intuition that guides a person toward alignment with their chosen destiny.",
+    "body": [
+      {
+        "heading": "The Seat of Inner Wisdom",
+        "text": "While Orí represents the destiny chosen before birth in Ọ̀run, Orí Inú functions as the internal compass that helps navigate that destiny in the physical world. It serves as the voice of conscience and deeper knowing, providing guidance that transcends ordinary reasoning. This inner consciousness connects the individual to their spiritual purpose and helps distinguish between choices that honor or diminish their path."
+      },
+      {
+        "heading": "Cultivating Balance and Character",
+        "text": "Orí Inú plays a central role in maintaining ìwà pẹ̀lẹ̀ (good character) and spiritual equilibrium throughout one's life. When properly nurtured through ethical living and spiritual practice, it strengthens the connection between a person and their Orí. Neglecting this inner consciousness can lead to confusion, poor decisions, and misalignment with one's destined purpose."
+      }
+    ],
+    "tags": [
+      "destiny",
+      "consciousness",
+      "wisdom",
+      "character"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ajogun",
+    "language": "en",
+    "term": "Ajogun",
+    "pronunciation": "ah-JOH-goon",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/ajogun.jpg",
+    "definition": "The Ajogun are the collective malevolent forces or spiritual adversaries in Yorùbá cosmology that wage constant war against humanity, representing the obstacles, afflictions, and negative influences that challenge human existence and spiritual development.",
+    "body": [
+      {
+        "heading": "The Eight Principal Warriors",
+        "text": "Traditional Ifá teachings identify eight primary Ajogun: Ikú (Death), Àrùn (Disease), Òfò (Loss), Ègbà (Paralysis), Òràn (Trouble), Èpè (Curse), Èwọn (Imprisonment), and Èṣe (Affliction). These forces are understood as autonomous spiritual entities rather than abstract concepts, each possessing its own character and methods of assault upon human welfare. They are sometimes called 'warriors of the left' in contrast to the benevolent Òrìṣà."
+      },
+      {
+        "heading": "Cosmological Balance and Protection",
+        "text": "The Ajogun serve an essential function within Yorùbá metaphysics, representing the necessary opposition that gives meaning to blessings and motivates human striving. Ifá divination frequently addresses the presence or threat of specific Ajogun, prescribing ẹbọ (sacrifice) and spiritual remedies to appease or deflect their influence. The Òrìṣà, particularly Ọ̀rúnmìlà through Ifá wisdom, provide humanity with the knowledge to negotiate, evade, or overcome these adversarial forces."
+      },
+      {
+        "heading": "Relationship with Destiny",
+        "text": "In Ifá philosophy, the Ajogun are understood to attack each person according to vulnerabilities inherent in their orí (inner head) and àyànmọ́ (destiny). Before birth, the soul must pass through the realm of these forces, and the choices made during that passage influence one's susceptibility to their attacks throughout life. This theological framework emphasizes that misfortune is neither random nor purely punitive but exists within a comprehensible spiritual ecology."
+      }
+    ],
+    "tags": [
+      "malevolent forces",
+      "spiritual adversaries",
+      "Ifá cosmology",
+      "ẹbọ",
+      "spiritual protection"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ire-aje",
+    "language": "en",
+    "term": "Ire Ajé",
+    "pronunciation": "ee-REH ah-JEH",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ire-aje.jpg",
+    "definition": "A specific blessing of wealth and financial prosperity within the Ifá system of blessings, representing the positive fortune of material abundance and economic well-being.",
+    "body": [
+      {
+        "heading": "Concept and Meaning",
+        "text": "Ire Ajé refers to the blessing of wealth as one of the fundamental categories of good fortune (ire) recognized in Ifá divination. Ajé encompasses not merely money but the broader concept of prosperity, including commercial success, profitable ventures, and the flow of resources. This blessing indicates that one's path is aligned with forces that bring material abundance and financial stability."
+      },
+      {
+        "heading": "Spiritual Significance",
+        "text": "In Ifá cosmology, wealth is not separate from spiritual well-being but is understood as a legitimate blessing that enables one to fulfill responsibilities to family and community. Ire Ajé is often associated with the òrìṣà Ajé Ṣàlúgá, the deity of wealth. When this blessing appears in divination, it suggests favorable conditions for economic endeavors and may indicate necessary offerings or alignments to fully receive this fortune."
+      },
+      {
+        "heading": "Manifestation and Balance",
+        "text": "The blessing of Ire Ajé manifests through opportunities, successful transactions, and the accumulation of resources that support one's purpose. Practitioners understand that wealth carries responsibility—it must circulate and benefit others to remain blessed. Ifá teaches that Ire Ajé should harmonize with other forms of blessing, as prosperity without health or peace remains incomplete."
+      }
+    ],
+    "tags": [
+      "ire",
+      "wealth",
+      "prosperity",
+      "blessing",
+      "divination",
+      "abundance"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ire-omo",
+    "language": "en",
+    "term": "Ire Ọmọ",
+    "pronunciation": "ee-REH AW-maw",
+    "partOfSpeech": "noun phrase",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ire-omo.jpg",
+    "definition": "Ire Ọmọ refers to the blessing of children, one of the fundamental categories of good fortune recognized in Ifá divination and Yorùbá spiritual thought.",
+    "body": [
+      {
+        "heading": "The Blessing of Progeny",
+        "text": "Within the Yorùbá worldview, children represent continuity of lineage, the perpetuation of ancestral memory, and the fulfillment of one's earthly purpose. Ire Ọmọ encompasses not merely biological fertility but the broader blessing of having children who survive, thrive, and bring honor to their family. This blessing is considered essential to a complete and fortunate life."
+      },
+      {
+        "heading": "Position Among the Ire",
+        "text": "Ire Ọmọ stands alongside other primary blessings such as Ire Ajé (wealth), Ire Àìkú (longevity), and Ire Aya/Ọkọ (spouse). When these blessings appear in divination, they indicate that the path before the client holds potential for fertility, successful childbearing, or the well-being of existing children. Specific offerings and observances may be prescribed to secure or protect this blessing."
+      },
+      {
+        "heading": "Spiritual Dimensions",
+        "text": "The blessing of children connects deeply to the relationship between the living and the unborn souls awaiting incarnation. Orí, one's personal destiny, must be aligned for children to come, and various Òrìṣà—particularly Ọ̀ṣun—are petitioned for fertility. The ancestors also play a crucial role, as children are often understood as returning spirits of the lineage."
+      }
+    ],
+    "tags": [
+      "ire",
+      "blessings",
+      "children",
+      "fertility",
+      "divination"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ire-aiku",
+    "language": "en",
+    "term": "Ire Aiku",
+    "pronunciation": "ee-REH ah-EE-koo",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ire-aiku.jpg",
+    "definition": "One of the fundamental blessings in Yorùbá cosmology, representing the blessing of longevity and freedom from untimely death.",
+    "body": [
+      {
+        "heading": "The Blessing of Long Life",
+        "text": "Ire Aiku stands as one of the most sought-after blessings within the Ifá tradition, representing not merely extended years but a life that reaches its natural and destined completion. This blessing encompasses protection from accidents, violence, disease, and all forces that might cut short one's time on earth before fulfilling one's orí's chosen destiny."
+      },
+      {
+        "heading": "Place Among the Primary Blessings",
+        "text": "Within the hierarchy of ire (blessings), Aiku often holds the position of primacy, for without life itself, no other blessing can be enjoyed. It is frequently invoked alongside Ire Owó (wealth), Ire Ọmọ (children), and Ire Àìsàn (health). During divination, when Ire Aiku appears, it signals that the spiritual forces are aligned to protect the individual's lifespan."
+      },
+      {
+        "heading": "Spiritual Significance",
+        "text": "The blessing of Aiku reflects the Yorùbá understanding that death before one's appointed time represents a profound spiritual disruption. Ancestors, Òrìṣà, and proper ritual observance all play roles in securing this blessing. Those who maintain alignment with their orí and honor their spiritual obligations are believed to strengthen their claim to a full lifespan."
+      }
+    ],
+    "tags": [
+      "blessing",
+      "longevity",
+      "divination",
+      "ire",
+      "destiny"
+    ],
+    "related": []
+  },
+  {
+    "slug": "egbe-orun",
+    "language": "en",
+    "term": "Ẹgbẹ́ Ọ̀run",
+    "pronunciation": "eh-GBEH oh-ROON",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/egbe-orun.jpg",
+    "definition": "The heavenly peer group or spiritual companions with whom a person's soul associated before incarnating into the physical world, believed to continue influencing one's earthly life.",
+    "body": [
+      {
+        "heading": "Spiritual Origin and Purpose",
+        "text": "In Yorùbá cosmology, before birth each soul belongs to a collective of spirit companions in ọ̀run (heaven). These ẹgbẹ́ are considered one's true family and age-mates from the spiritual realm. The bonds formed there are believed to persist after incarnation, with the heavenly group sometimes calling the embodied soul back to their company."
+      },
+      {
+        "heading": "Signs and Manifestations",
+        "text": "Individuals with strong ẹgbẹ́ ọ̀run connections may experience recurring dreams of gatherings with unfamiliar yet familiar faces, unexplained childhood illnesses, or difficulty forming lasting earthly relationships. Children who die young are sometimes understood as having been reclaimed by their spiritual companions. Recognition of these patterns often leads families to consult Ifá for guidance."
+      },
+      {
+        "heading": "Ritual Acknowledgment",
+        "text": "Propitiation of ẹgbẹ́ ọ̀run typically involves periodic offerings and ceremonies to honor the heavenly companions and negotiate the person's continued presence in the physical world. These rituals acknowledge the legitimacy of the spiritual bonds while establishing boundaries that allow the individual to fulfill their earthly destiny without premature return to ọ̀run."
+      }
+    ],
+    "tags": [
+      "spiritual companions",
+      "pre-birth existence",
+      "ọ̀run",
+      "childhood illness",
+      "destiny"
+    ],
+    "related": []
+  },
+  {
+    "slug": "opon-ifa",
+    "language": "en",
+    "term": "Opón Ifá",
+    "pronunciation": "oh-POHN ee-FAH",
+    "partOfSpeech": "noun",
+    "category": "Rituals & Ceremony",
+    "thumbnail": "/images/glossary/opon-ifa.jpg",
+    "definition": "The sacred divination tray used by Babaláwo during Ifá consultation, upon which ìyẹ̀rẹ̀ (divination powder) is spread and sacred signatures (odù) are marked.",
+    "body": [
+      {
+        "heading": "Form and Construction",
+        "text": "The Opón Ifá is traditionally carved from wood, often iroko or other sacred trees, and features a circular or rectangular shape with a raised border. The face of Èṣù is typically carved at the top edge, acknowledging his role as divine messenger between realms. Elaborate carvings around the border may depict odù symbols, mythological scenes, or geometric patterns that encode spiritual knowledge."
+      },
+      {
+        "heading": "Function in Divination",
+        "text": "During consultation, the Babaláwo spreads ìyẹ̀rẹ̀ osùn or ìyẹ̀rọ̀sùn (powdered camwood or termite dust) across the tray's surface. He then marks the odù signatures revealed through the manipulation of ikin (palm nuts) or the casting of the ọ̀pẹ̀lẹ̀ (divination chain). The tray serves as the sacred interface where divine communication becomes visible and interpretable."
+      },
+      {
+        "heading": "Spiritual Significance",
+        "text": "Beyond its practical function, the Opón Ifá represents the cosmic order itself—the circular form symbolizing the endless cycle of existence, and its surface becoming a temporary dwelling place for spiritual forces during consultation. The tray must be ritually consecrated and is treated with profound reverence, never placed on the ground carelessly or used for mundane purposes."
+      }
+    ],
+    "tags": [
+      "divination",
+      "sacred objects",
+      "Babaláwo",
+      "ritual implements",
+      "Ifá"
+    ],
+    "related": []
+  },
+  {
+    "slug": "iyerosun",
+    "language": "en",
+    "term": "Ìyẹ̀rosùn",
+    "pronunciation": "ee-yeh-ROH-soon",
+    "partOfSpeech": "noun",
+    "category": "Rituals & Ceremony",
+    "thumbnail": "/images/glossary/iyerosun.jpg",
+    "definition": "Ìyẹ̀rosùn is the sacred yellow powder derived from the iròsùn tree (Baphia nitida), used by Babaláwo to mark the odù signatures upon the divination tray during Ifá consultation.",
+    "body": [
+      {
+        "heading": "Source and Preparation",
+        "text": "The powder is obtained from the camwood tree, specifically from the dried and ground heartwood or sometimes from termite-processed wood dust found at the base of these trees. Its distinctive pale yellow color carries spiritual significance, representing the luminous interface between the visible and invisible worlds. The powder must be gathered and prepared with appropriate prayers and protocols to maintain its sacred efficacy."
+      },
+      {
+        "heading": "Function in Divination",
+        "text": "During Ifá consultation, the Babaláwo spreads ìyẹ̀rosùn across the surface of the ọpọ́n Ifá (divination tray) and marks the binary signatures of the odù that appear through the casting of ikin or ọ̀pẹ̀lẹ̀. These marks serve as a sacred script, recording the messages from Ọ̀rúnmìlà. The powder transforms the tray into a living document of divine communication, erased and rewritten with each new casting."
+      },
+      {
+        "heading": "Symbolic Dimensions",
+        "text": "Ìyẹ̀rosùn embodies the concept of àṣẹ made visible—the powder receives and holds the imprint of spiritual truth. Its ephemeral nature, easily disturbed by breath or touch, reminds practitioners of the delicate and precious nature of revealed wisdom. Some traditions associate its color with Ọ̀rúnmìlà himself and the clarity of prophetic vision."
+      }
+    ],
+    "tags": [
+      "divination",
+      "sacred materials",
+      "Ifá practice",
+      "ọpọ́n Ifá",
+      "Babaláwo"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ase-irunmole",
+    "language": "en",
+    "term": "Àṣẹ Irúnmọlẹ̀",
+    "pronunciation": "AH-sheh ee-ROON-moh-leh",
+    "partOfSpeech": "noun phrase",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/ase-irunmole.jpg",
+    "definition": "The divine authority and spiritual power possessed by the Irúnmọlẹ̀, the primordial divine beings who descended from Ọ̀run to participate in the creation and ordering of the earthly realm.",
+    "body": [
+      {
+        "heading": "Divine Authority of Primordial Beings",
+        "text": "Àṣẹ Irúnmọlẹ̀ represents the collective spiritual authority wielded by the original divine emissaries of Olódùmarè. These beings carry àṣẹ that predates human existence, having been endowed with creative and transformative power at the dawn of existence. Their àṣẹ operates at a cosmic level, governing natural phenomena, spiritual laws, and the fundamental principles that sustain reality."
+      },
+      {
+        "heading": "Distinction from Òrìṣà Àṣẹ",
+        "text": "While the terms Irúnmọlẹ̀ and Òrìṣà are sometimes used interchangeably, the àṣẹ of Irúnmọlẹ̀ is traditionally understood as the original, unmediated divine force from the four hundred primordial beings. This àṣẹ established the templates and pathways through which all subsequent spiritual power flows. Practitioners who invoke Àṣẹ Irúnmọlẹ̀ call upon this foundational cosmic authority."
+      },
+      {
+        "heading": "Liturgical Significance",
+        "text": "In Ifá liturgy and invocations, acknowledging Àṣẹ Irúnmọlẹ̀ establishes proper spiritual protocol and hierarchy. Prayers and rituals often begin by honoring this primordial àṣẹ before addressing specific Òrìṣà or ancestors. This ordering reflects the cosmological understanding that all spiritual authority derives from and remains connected to these original divine forces."
+      }
+    ],
+    "tags": [
+      "àṣẹ",
+      "Irúnmọlẹ̀",
+      "divine authority",
+      "cosmology",
+      "primordial beings"
+    ],
+    "related": []
+  },
+  {
+    "slug": "orun-rere",
+    "language": "en",
+    "term": "Ọ̀run Rere",
+    "pronunciation": "AW-roon REH-reh",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/orun-rere.jpg",
+    "definition": "Ọ̀run Rere, meaning \"good heaven\" or \"the good afterlife realm,\" refers to the favorable spiritual destination where ancestors who lived honorable lives dwell in peace and continue their existence in harmony with Olódùmarè.",
+    "body": [
+      {
+        "heading": "The Nature of Ọ̀run Rere",
+        "text": "In Yorùbá cosmology, Ọ̀run Rere represents the blessed abode reserved for those who fulfilled their earthly destiny (àyànmọ́) and maintained good character (ìwàpẹ̀lẹ̀) throughout their lives. This realm is characterized by perpetual tranquility, abundance, and proximity to the divine presence. Ancestors residing in Ọ̀run Rere become elevated spirits capable of interceding on behalf of their living descendants."
+      },
+      {
+        "heading": "Attaining Ọ̀run Rere",
+        "text": "Entry into Ọ̀run Rere is determined by how one lived on earth—specifically through ethical conduct, fulfillment of social responsibilities, and proper veneration of the Òrìṣà and ancestors. Those who die young or under tragic circumstances, or who lived wickedly, may find themselves in less favorable spiritual realms. The funeral rites performed by the living also influence the deceased's journey and ultimate spiritual destination."
+      }
+    ],
+    "tags": [
+      "afterlife",
+      "cosmology",
+      "ancestors",
+      "heaven",
+      "death",
+      "spirituality"
+    ],
+    "related": []
+  }
+]

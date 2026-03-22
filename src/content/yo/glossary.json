@@ -1,0 +1,1364 @@
+[
+    {
+        "slug": "ifa",
+        "language": "yo",
+        "term": "Ifá",
+        "pronunciation": "ee-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ifa.jpg",
+        "definition": "Ẹ̀kọ́ àti ètò àwádìí tí ó jẹ́ ìpìlẹ̀ ìmọ̀ àti ẹ̀mí ìṣan àṣà Yorùbá. Níbẹ̀ ni a ti ń rí àwọn ewì mímọ́, ìtàn ìní, àwọn òwe, àti ẹ̀kọ́ ìwà tí àwọn Babaláwo ń gbé karí.",
+        "body": [
+            {
+                "heading": "Ìṣẹ̀dá",
+                "text": "A da Ifá sí orúkọ Ọ̀rúnmìlà — Òrìṣà ìmọ̀ àti ìwò-ọjọ́ iwaju — tí ó sọ pé ó wà pẹlu Ọlọ́run nígbà tí ayé ń dá, ó sì jẹ́ elẹ́rìí ìpín gbogbo ẹ̀dá. Ohun tí ó gbé karí ni ó di àṣà ẹnu tí ó jẹ ẹ̀kọ́ ọgbọ́n àti ìdájọ́ tí ó ti dàgbà kọjá ìgbà tí àwòkọ́ṣe kọ́kọ́ rí àwọn ènìyàn."
+            },
+            {
+                "heading": "Ìmọ̀ Odù",
+                "text": "Corpus Ifá ní àwọn Odù 256 — ìwé tí ó jáde láti àwọn àmì 16 pàtàkì (Mẹjì) àti àwọn àmì 240 tó jáde láti inú wọn. Ọ̀kọ̀ọ̀kan Odù ní ọgọ́rọ̀ọ̀rún Ẹsẹ Ifá tí ó ní àwọn ìtàn, àwọn ìṣètò, òwe, àti ẹ̀kọ́ ìwà. Babaláwo ń lo Opèlè tàbí Ikin Ifá láti dá Odù tí ó bájẹ pọ̀ mọ́ ìbéèrè ẹni."
+            },
+            {
+                "heading": "Àṣà Tí Ó Ṣì Wà Láàyè",
+                "text": "UNESCO dá Ifá mọ̀ ní ọdún 2005 gẹ́gẹ́ bí Ohun-Àpèsìn ti Ẹ̀dá Ènìyàn (Intangible Cultural Heritage). Ifá kò ṣe ohun ìgbàanì nìkan — ó jẹ́ àṣà tí ó ṣì ń jẹ iléeṣẹ́ jáde ní Ìwọ̀ Oòrùn Áfríkà àti Diaspora: ní Kúbà (Lucumí / Santería), ní Brazil (Candomblé), àti àwọn ìpínlẹ̀ míì."
+            }
+        ],
+        "tags": [
+            "àwádìí",
+            "ìmọ̀-ọgbọ́n",
+            "àṣà-ẹnu",
+            "UNESCO",
+            "Odù"
+        ],
+        "related": [
+            "babalaawo",
+            "odu",
+            "orunmila"
+        ]
+    },
+    {
+        "slug": "babalaawo",
+        "language": "yo",
+        "term": "Babaláwo",
+        "pronunciation": "bah-bah-LAH-woh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/babalawo.jpg",
+        "definition": "Àlùfáà Ifá; ìtúmọ̀ rẹ̀ jẹ́ 'bàbá àwọn asírí.' Babaláwo ni ẹni tí a mọ̀ pé ó ti kọ ẹ̀kọ́ àwọn Odù 256 àti iṣẹ́ àwádìí Ifá lẹ́yìn ìdánimọ̀ pípẹ́.",
+        "body": [
+            {
+                "heading": "Ìdánimọ̀",
+                "text": "Ọ̀nà Babaláwo ń béèrè ìgbàgbọ́ tí ó gùn — ó sábà máa ń gbà ọdún méje tàbí jù bẹ́ẹ̀ lọ — lábẹ́ ẹni tó ti jẹ àlùfáà. Akẹ́kọ̀ọ́, tí a mọ̀ sí Ológún tàbí Aboríṣà nígbà ìgbẹ̀kẹ̀gbẹ́, máa ń bẹ̀rẹ̀ ìkẹ́kọ̀ọ́ rẹ̀ pẹ̀lú àwọn Odù àkọ́kọ́, àwọn ewébẹ̀ wọn, àwọn ẹbọ, àti àwọn ohun eléwọ̀."
+            },
+            {
+                "heading": "Àwọn Ipa",
+                "text": "Nínú àwùjọ Yorùbá, Babaláwo ń ṣiṣẹ́ gẹ́gẹ́ bí olùdáhùn-ìbéèrè, onísègùn, òpìtàn, olùrànlọ́wọ́, àti olùtọ́jú ìrántí àwùjọ. Wọ́n ń ṣàyẹ̀wò àìsàn ẹmí (àìsàn tí ó ní ìṣọ̀kan pẹ̀lú ẹ̀mí), wọ́n ń sọ àwọn ẹbọ (ẹbọ), wọ́n ń gbé àforíjì, wọ́n sì ń kópa nínú àwọn ìṣẹ̀lẹ̀ ìgbésí-ayé bíi ìmọ̀ ìmọ̀-ìbí, àjọdún ìsọ̀rúkọ, àti ìsìnkú."
+            },
+            {
+                "heading": "Àwọn Ohun-Èlò Àwádìí",
+                "text": "Babaláwo ń ṣiṣẹ́ pẹ̀lú ohun-èlò méjì pàtàkì: Opèlè — ẹwọ̀n àwádìí tí ó ní irúgbìn mẹjọ tí ó gbòmọ̀ àti tó gbòkè — àti Ikin Ifá, àwọn irúgbìn ọ̀rọ̀ mẹ́rìndínlógún tí a yàn. Ọ̀kọ̀ọ̀kan ìfolá ń mú ìkínkú méjì jáde tí a mọ̀ sí Odù, tí ó ṣí ẹnu àwọn Ẹsẹ Ifá tí ó tọ́ fún kíkà àti ìtúpalẹ̀."
+            }
+        ],
+        "tags": [
+            "àlùfáà",
+            "àwádìí",
+            "ìdánimọ̀",
+            "onísègùn"
+        ],
+        "related": [
+            "ifa",
+            "odu",
+            "orunmila"
+        ]
+    },
+    {
+        "slug": "odu",
+        "language": "yo",
+        "term": "Odù",
+        "pronunciation": "OH-doo",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/odu.jpg",
+        "definition": "Ọ̀kan lára àwọn Odù 256 nínú corpus kíkà Ifá, ọ̀kọ̀ọ̀kan ń ṣàpẹẹrẹ ìkínkú pàtó kan nínú ẹ̀kọ́ àwádìí tí ó sì ní àwọn ẹsẹ mímọ́, àwọn ìtàn, àwọn àṣẹ, àti àwọn òwe ọgọ́rọ̀ọ̀rún.",
+        "body": [
+            {
+                "heading": "Àwọn Àmì 256",
+                "text": "Ètò Odù ń bẹ̀rẹ̀ láti àwọn àmì pàtàkì 16 (Mẹjì) — ọ̀kọ̀ọ̀kan jẹ́ ìlọ́podà àmì kan pẹ̀lú ara rẹ̀ — tí wọ́n sì papọ̀ dá àwọn Odù àfikún 240, tí wọ́n wá ṣe àpapọ̀ ìkínkú 256. Àwọn orúkọ àwọn Odù pàtàkì pẹ̀lú: Ogbe, Oyeku, Iwori, Odi, Irosun, Owonrin, Obara, Okanran, Ogunda, Osa, Ika, Oturupọn, Otura, Irete, Ose, àti Ofun."
+            },
+            {
+                "heading": "Àwọn Ẹ̀mí Alàáyè",
+                "text": "Àwọn Odù kì í ṣe ìṣọ̀kan kíkà nìkan — a gbà gọ́ wọn gẹ́gẹ́ bí àwọn ẹ̀mí alàáyè tí ó ní ìhùwàsí, ìfẹ́, àti àwọn ohun eléwọ̀ tiwọn. Ọ̀kọ̀ọ̀kan ń darí àwọn agbègbè ìgbésí-ayé kan: Ogbe jẹ́ ìkọ̀kọ̀ pẹ̀lú ìmọ́lẹ̀ àti ìgbòkègbodò; Oyeku pẹ̀lú ikú àti ìparí; Ogunda pẹ̀lú irin, ọ̀nà, àti ìdásóko. Babaláwo gbọ́dọ̀ dàgbàsókè ìsopọ̀ aládááṣiṣẹ́ pẹ̀lú Odù kọ̀ọ̀kan ní àárọ̀ ìmọ́lẹ̀ ọdún."
+            },
+            {
+                "heading": "Ẹsẹ Ifá",
+                "text": "Nínú Odù kọ̀ọ̀kan wà àwọn Ẹsẹ Ifá tí kò ní ìpẹ̀kun — àwọn ẹsẹ kọ̀ọ̀kan tí ó ń sọ àwọn ìṣẹ̀lẹ̀ arọ, àwọn ìtàn ẹranko, àwọn ìpínlẹ̀ ìtàn, àti àwọn ìrẹ̀wẹ̀sì ìwà. Ẹsẹ kọ̀ọ̀kan ń parí pẹ̀lú ìpinnu tí ó fi hàn agbára ìtọ́sọ̀nà Ifá àti àwọn ìbákẹ́gbẹ́ àì-gbọràn. Àwọn ẹsẹ wọ̀nyí ni a ń kọ ẹ̀kọ́ rẹ̀ nípa ẹnu àti kíkà nígbà àwádìí."
+            }
+        ],
+        "tags": [
+            "àwádìí",
+            "àṣà-ẹnu",
+            "kíkà",
+            "corpus",
+            "ìtàn-àrọ"
+        ],
+        "related": [
+            "ifa",
+            "babalaawo",
+            "orunmila"
+        ]
+    },
+    {
+        "slug": "orunmila",
+        "language": "yo",
+        "term": "Ọ̀rúnmìlà",
+        "pronunciation": "oh-roon-MEE-lah",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/orunmila.jpg",
+        "definition": "Òrìṣà àti Elẹ́rìí Ìpín; olùjẹ̀rìí imọ̀-àkọsílẹ̀ ìgbàyé. Ọ̀rúnmìlà ni olúwa-ìmọ̀ Ifá, tí ó máa ń ṣiṣẹ́ gẹ́gẹ́ bí agbátẹrù fún àwọn ẹ̀dá ènìyàn níwájú Ọlọ́run.",
+        "body": [
+            {
+                "heading": "Orúkọ Àti Ìtumọ̀",
+                "text": "Ọ̀rúnmìlà ni orúkọ àtọ̀runwá tí ó túmọ̀ sí 'ọ̀run mọ̀ ẹni tí ó ní ìgbàlà' — ọ̀run àti ìpín la mọ̀ pẹ̀lú rẹ̀. A tún mọ̀ ọ́ sí Bọrọ̀pẹtẹ̀ (tí ó túmọ̀ sí ẹni tí ó bọ ará àwọn olódi sí ilẹ̀ pẹ̀lú ìmọ̀ rẹ̀), àti Àgbọnnìrègún ní àwọn ìpínlẹ̀ kan."
+            },
+            {
+                "heading": "Ipa Rẹ̀",
+                "text": "Gẹ́gẹ́ bí Òrìṣà ìmọ̀ àti ẹ̀kọ́-ọgbọ́n, Ọ̀rúnmìlà wà pẹlu Ọlọ́run nígbà tí ayé ti ń dá. Ó gbọ ojú ìpín gbogbo ẹ̀dá, bẹ́ẹ̀ ni ó sì mọ bí a ṣe lè yípadà ìpín tí kò dára pẹ̀lú ìtọ́sọ̀nà Ifá. Nítorí ìjẹ́pàtàkì tí ó ní bẹ́ẹ̀, àwọn Babaláwo ń ka à sí olùkọ́ni àkọ́kọ́ wọn."
+            },
+            {
+                "heading": "Àwọn Ẹbọ Àti Ìsìn",
+                "text": "Ẹni tó bá fẹ́ bọ Ọ̀rúnmìlà ń lo Ikin Ifá — àwọn irúgbìn ọ̀rọ̀ mẹ́rìndínlógún tí àwọn Babaláwo ń lo nínú àwádìí. Ọjọ́ isin rẹ̀ ni Ọjọ́ Bojú-Bójú (Thursday) ní ọ̀pọ̀lọpọ̀ ìpínlẹ̀ Yorùbá. Àwọn ẹbọ Rẹ̀ pẹ̀lú ẹ̀pà, ẹ̀wà, àti omi olóòtọ́."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "ìmọ̀-ọgbọ́n",
+            "ìgbàlà",
+            "divination"
+        ],
+        "related": [
+            "ifa",
+            "babalaawo",
+            "odu"
+        ]
+    },
+    {
+        "slug": "ase",
+        "language": "yo",
+        "term": "Àṣẹ",
+        "pronunciation": "ah-SHEH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ase.jpg",
+        "definition": "Agbára ẹ̀mí àti ibùdó ìyè tí ó ń darí ohun gbogbo; agbára láti mú kí ohun tí a bá fẹ́ rí bẹ́ẹ̀.",
+        "body": [
+            {
+                "heading": "Agbára Ìyè",
+                "text": "Àṣẹ jẹ́ agbára kòṣeémánìí tí Olódùmarè pín fún gbogbo ẹ̀dá—àwọn Òrìṣà, òkú rẹ, ènìyàn, ẹranko, àti igi. Òun gangan ni ó ń jẹ́ kí ìwàláàyè ṣeé ṣe ní ayé àti ọ̀run."
+            },
+            {
+                "heading": "Aṣẹ Ẹnu",
+                "text": "Bákan náà, Àṣẹ tún jẹ́ agbára ọ̀rọ̀ ẹnu, ìpinu, àti àṣẹ. Nígbà tí àgbàlagbà tàbí awo bá sa ọ̀fọ̀ tàbí súre, wọ́n ń mú agbára Àṣẹ wọn jáde láti ri pe ohun náà ṣẹ. Ọ̀rọ̀ ẹnu ṣe pàtàkì nínú Àṣẹ."
+            }
+        ],
+        "tags": [
+            "ìmọ̀-ọgbọ́n",
+            "agbára",
+            "àṣẹ-ẹnu"
+        ],
+        "related": [
+            "olodumare",
+            "orisa"
+        ]
+    },
+    {
+        "slug": "ebo",
+        "language": "yo",
+        "term": "Ẹbọ",
+        "pronunciation": "eh-BOH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/ebo.jpg",
+        "definition": "Ohun tí a gbélẹ̀ fún àyẹ̀wò ẹ̀mí, yálà láti dáàbò bo ara, yẹjú ibi, tabi yọrí ayọ̀ fún onítọ̀hún, gẹ́gẹ́bí Odù Ifá ti là á kalẹ̀.",
+        "body": [
+            {
+                "heading": "Ìdí Ẹbọ Rírú",
+                "text": "Ẹbọ rírú ni ọ̀nà àkọ́kọ́ tí a ń gbà padà sí ìwọ̀ntúnwọ̀nsì ẹ̀mí tàbí ti ti ara. Tí nǹkan kò bá dọ́gba fún ẹni, Ifá máa ń pè fún ẹbọ láti ṣàtúnṣe ìpín ẹni náà àti dídénà ọwọ́ ibi."
+            },
+            {
+                "heading": "Irúfẹ́ Ẹbọ",
+                "text": "Ẹbọ kò mọ sùúrù—ó le jẹ̀ oníṣẹ́ pẹ̀lú èso kékeré, epo, tàbí pẹ̀lú ẹran, ọtí, àti egbògi, Òrìṣà Èṣù ní a máa ń rán níṣẹ́ tí yóò gbé ẹbọ yí lọ sí ajùlé ọ̀run."
+            }
+        ],
+        "tags": [
+            "ìrúbọ",
+            "ìṣẹ̀dá",
+            "ìdáńdè"
+        ],
+        "related": [
+            "esu",
+            "ase"
+        ]
+    },
+    {
+        "slug": "opele",
+        "language": "yo",
+        "term": "Ọ̀pẹ̀lẹ̀",
+        "pronunciation": "aw-peh-leh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/opele.jpg",
+        "definition": "Ẹgbà Ìdáfá tí Babaláwo máa ń gbé lọwọ, tí ó ní hóró yanjàn ìjìnmẹ̀ ọ̀pẹ̀lẹ̀ mẹ́jọ fún yíya àwòrán Odù ni kíákíá.",
+        "body": [
+            {
+                "heading": "Ìṣàyẹ̀wò",
+                "text": "Ọ̀pẹ̀lẹ̀ ni hóró ewé ọ̀pẹ̀lẹ̀ mẹ́jọ tí a fi okùn so pọ̀. Bí Babaláwo bá da Ọ̀pẹ̀lẹ̀ sílẹ̀ lórí ẹní, ìgbòyẹ̀ (síṣí sílẹ̀) tàbí ìdóríṣòo (sísùn) àwọn hóró ọ̀pẹ̀lẹ̀ yí ló máa n da pọ̀ mú kí Babaláwo kà Odù kan ní pàtó."
+            },
+            {
+                "heading": "Lílo Rẹ̀",
+                "text": "Ọ̀pẹ̀lẹ̀ yá, kò fì jàfara gẹ́gẹ́bí Ikin; èyí jẹ́ kí ó wúlò dédé fún àwọn ìbéèrè jàgídíjàgan àti wíwádìí ojoojúmọ́, léyìn Ikin Ifá tí ńṣe fún nǹkan ńlá."
+            }
+        ],
+        "tags": [
+            "àwádìí",
+            "ohun-èlò"
+        ],
+        "related": [
+            "ikin",
+            "babalaawo",
+            "odu"
+        ]
+    },
+    {
+        "slug": "ikin",
+        "language": "yo",
+        "term": "Ikin Ifá",
+        "pronunciation": "ee-KEEN ee-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/ikin.jpg",
+        "definition": "Koro ọ̀pẹ Ifá mímọ́, tí ó jẹ́ àwòrán Ọ̀rúnmìlà, tó sì hàn pàtàkì àti iye kára fún dídáfá lójú Òrìṣà.",
+        "body": [
+            {
+                "heading": "Ìṣàpẹẹrẹ",
+                "text": "Ìtàn arọ́sọ fi yé wa pé nígbà tí Ọ̀rúnmìlà kúrò láyé lọ sókè ọ̀run, àwọn ọmọ rẹ̀ fẹ́ ibi i rẹ̀ láti maa gba ìmọ̀ràn. Ó yọ Ikin mẹ́rìndínlógún lójú wọn, pẹlu pé kí wọ́n máa fi béèrè ohun tóbá lù wọ́n gbogbo."
+            },
+            {
+                "heading": "Ìdáfá Ikin",
+                "text": "Ídí Ikin nínú awó kò rọrùn, Babaláwo á lu Ikin ni ó wọ́lẹ̀; sọ Ikin mẹ́rìndínlógún láti ọwọ́ kan sí ekejì. Iye Ikin t’óṣẹ́kù (ọ̀kan tàbí méjì) ní orí ọtún l’ódi wàtiwá pé yóò rọ ìtì ọ̀kọ̀ọ̀kan—èrú—sorí Ọpọ́n Ifá láti tò Odù."
+            }
+        ],
+        "tags": [
+            "àwádìí",
+            "ohun-èlò",
+            "asíwájú"
+        ],
+        "related": [
+            "opele",
+            "orunmila"
+        ]
+    },
+    {
+        "slug": "olodumare",
+        "language": "yo",
+        "term": "Olódùmarè",
+        "pronunciation": "oh-loh-doo-mah-reh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/olodumare.jpg",
+        "definition": "Ẹlẹ́dàá òkè, Ọlọ́run Olódùmarè t’ó jẹ oná rírí ohungbogbo; Aláṣẹ t’ó ga jùlọ, adágbogboayé.",
+        "body": [
+            {
+                "heading": "Alágbára Jùlọ",
+                "text": "Olódùmarè jẹ́ oga-ògo, kò dàbí àwọn Òrìṣà t’ókù tí a mọ ti wọ́n ní ojú-bọ. Kò sì ni kòni yàn, ìran enìyàn dípò maa pé un létètè. Nínú ògo Rẹ̀ pé òun ni ọ̀gága."
+            },
+            {
+                "heading": "Inagijẹ Áti Iyìn",
+                "text": "Wọ́n ń da mọ pelú orúkọ bí: Ọlọ́run (olórun), Ẹlẹ́dàá, áti bẹ́ẹ̀bẹ́ẹ̀ ni. Olódùmarè ni afúnni lẹ́mìí àti ohun amúyó wa kí á tó wá sí ayé gbá fún Orí wà."
+            }
+        ],
+        "tags": [
+            "ẹlẹ́dàá",
+            "ọlọ́run",
+            "olójú"
+        ],
+        "related": [
+            "orisa",
+            "orunmila"
+        ]
+    },
+    {
+        "slug": "ori",
+        "language": "yo",
+        "term": "Orí",
+        "pronunciation": "oh-REE",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ori.jpg",
+        "definition": "Orí ti inu wa; ó dúró fún ìṣètò ẹ̀mí, yíyàn ìpínlẹ̀ aṣẹ̀dá-ayé kí tò bi wà.",
+        "body": [
+            {
+                "heading": "Alábàkejì Ẹ̀mí",
+                "text": "Gẹ́gẹ́bí ìgbàgbọ́ Yorùbá, Orí inu dání ni ó ṣe pàtàkì jùlọ—ó gaju Òrìṣà, kòsi bi Òrìṣà fẹ ṣe sún kán-kán tí Orí onítọ̀hún kò gbà á. O fi han gẹgẹbì aṣeyorí."
+            },
+            {
+                "heading": "Ìpín Igbésí-ayé",
+                "text": "Kato wasílé ayé, ẹ̀mí ń kunlẹ̀ síwájú Olódùmarè l’áko láti pinu Orí-inú tirẹ̀. Ohun tí àwádìí Ifá fí n bẹ́ ni ìrànlọwọ láti darí wa dádọ afojúsùn kí á má bà kó bá Orí inú n wa iyanhàyan."
+            }
+        ],
+        "tags": [
+            "ìpín",
+            "orí",
+            "ìmọ̀-ọgbọ́n"
+        ],
+        "related": [
+            "olodumare",
+            "iwa-pele"
+        ]
+    },
+    {
+        "slug": "egungun",
+        "language": "yo",
+        "term": "Egúngún",
+        "pronunciation": "eh-goon-goon",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/egungun.jpg",
+        "definition": "Àpéra ọkàn àwọn babańlá, bábálúgbé tí a sábà ń gbé ní igbá alásọlá mímọ́ láti wa sùúrù gbé ìrànlọ́wọ́ wa.",
+        "body": [
+            {
+                "heading": "Ará Ọ̀run",
+                "text": "Bí bọ àwọn babańlá wà lára ohun ti ko gbọdọ ko níṣẹ̀ṣẹ̀ Yorùbá. Egúngún fídí so alaafia idile to wà ni aye ati ìran to ti lọ (babańlá). Ẹ̀mí babańlá ń sápamọ wà wá jé idabobo fun awọn ọmọ wọn."
+            },
+            {
+                "heading": "Alágboko Áṣo",
+                "text": "Nígbà odún Egúngún, awon awo fi egungun han gedegbe pelú irun aso; obinrin ko gbọdọ saare pẹlu aṣọ. Tí ẹni bọ wò yi jẹ bí i babańlá tí ó dewa yíyan ayé pẹlu ikilọ àti asure."
+            }
+        ],
+        "tags": [
+            "babańlá",
+            "ẹ̀mí",
+            "àṣà"
+        ],
+        "related": [
+            "orisa"
+        ]
+    },
+    {
+        "slug": "orisa",
+        "language": "yo",
+        "term": "Òrìṣà",
+        "pronunciation": "oh-ree-SHAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/orisa.jpg",
+        "definition": "Àwọn aṣojú àyẹyẹ Olódùmarè àti ìfihàn agbára ẹ̀dá ní ayé, tí a bọ̀wọ̀ fún tí a sì n ṣe bẹ fún pẹ̀lú.",
+        "body": [
+            {
+                "heading": "Agbára Ẹ̀dá",
+                "text": "O jiyàn pe èrindílógún (401) òrìṣà ló gbe ode-ayé léyin ọlọrun, Ọkọọkàn wọ́n du ro fun ẹni nkàn abanidapo laarin awújọ. Ṣàngó ń fi àwẹ̀ mona àti ìdájọ́; Ọbàtálá duro fún iseda omoènìyàn àti ìṣètó ayé."
+            },
+            {
+                "heading": "Alárinà Sí Ọlọ́run",
+                "text": "Pelupe Olódùmarè lógá-ògo tó da ayé ṣe, àwọn Òrìṣà ń de ojú ọ̀nà lojoojúmọ́. Lójú ẹṣin awon abòrìṣà ń ko isopo da Òrìṣà wọnyi nipa gbígbàdúrà pẹlú Ẹbọ kí a tó le yọní ibi ni."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "ẹ̀dá",
+            "ìsìn"
+        ],
+        "related": [
+            "olodumare",
+            "esu"
+        ]
+    },
+    {
+        "slug": "iwa-pele",
+        "language": "yo",
+        "term": "Ìwà Pẹ̀lẹ́",
+        "pronunciation": "ee-wah peh-leh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/iwa-pele.jpg",
+        "definition": "Ìwà iyì; ètó ọgbọ́n iwa ìnún, ibi tó ga jù ní ọgbọ́n Yorùbá, tí a fi ara rẹ le ẹ̀kọ́ surú àti ìwa dọ́gba.",
+        "body": [
+            {
+                "heading": "Odindi Iwa",
+                "text": "Ifá fun wá n’íkẹ́kọ sípe gbogbo adánwò, tàbí ìsìn laisi Ìwà Pẹ̀lẹ́ kó ní ẹ́sàn rẹ. Iwa rere je olórinrin to ga ni pípá ibi mo ati atunse ọ̀nà abayọrì ti ifun iye-inú ayé."
+            },
+            {
+                "heading": "Mímú Jade",
+                "text": "Ala Ìwà Pẹ̀lẹ́ sí kòni sùúrù. Jénikan fẹ ṣe atunse sí arẹ wó àti isópo ire laarin ẹní àti àdúgbó pelu Orí inu to jẹ ọkán-àya wa."
+            }
+        ],
+        "tags": [
+            "ìwà",
+            "ọgbọ́n-inú",
+            "sùúrù"
+        ],
+        "related": [
+            "ori"
+        ]
+    },
+    {
+        "slug": "esu",
+        "language": "yo",
+        "term": "Èṣù",
+        "pronunciation": "eh-SHOO",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/esu.jpg",
+        "definition": "Ojisẹ sàrépégbé ẹ̀mí, arọ́ọ́lé oní-ọ̀nà ńlá àti amúnisẹ idajọ tí o maa n gbe ẹbọ s’ọrun.",
+        "body": [
+            {
+                "heading": "Ojíṣẹ́ Àgbà",
+                "text": "Èṣù ní afokán rìnkiri tí ń mu iyàrá pọ tàbi sàyẹ́wo ìwá ẹnìyàn pẹ̀lú. Odúró leti isekise ayeyewo èkán ni ojukorita. Nítorí náà iye gbogbo ibánisọrọ pelu asá Òrìṣà le dọgbọ Èṣù la ri gba kọrìn."
+            },
+            {
+                "heading": "Àjùló",
+                "text": "Gegeb́i ifihan-ìsé oye gbésé, Èṣù kọ se abun ti ìgbésín èniyàn mo lẹ sọ. Èṣù ko se eṣú lenu olorun (gẹgẹbii Devil ti eya n pe), ojìse gédégbé Olódùmarè kan ni to gbasé pelu ìdájọ́ lórì èniyan ẹni to bá sé ìwá rere àti ìyà fun eni odi."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "ojíṣẹ́",
+            "ìdájọ́"
+        ],
+        "related": [
+            "ebo",
+            "orisa"
+        ]
+    },
+    {
+        "slug": "ogun",
+        "language": "yo",
+        "term": "Ògún",
+        "pronunciation": "oh-GOON",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/ogun.jpg",
+        "definition": "Òrìṣà oní-irin, ohun ìjà atáyan-ìjà, àti afagbá àṣèlú; gbajúmọ ti agbára imọ ìjinlẹ inu irin àti ìlà ọ̀nà.",
+        "body": [
+            {
+                "heading": "Alámọ̀nà Awá",
+                "text": "Ògún ni a gbà pé agbára tó gbọn. Títí i di isinsinyi ni gẹgẹb́i ti íkọ́rẹ, Ogun rìn lẹyin la atijọ fa irin kọja inu imu kuku laarin ọ̀run àti ayé pé ki awon Òrìṣà tókù wò ayé ba a lójú de."
+            },
+            {
+                "heading": "Ohun Èlò tàbí Irinṣẹ́",
+                "text": "Gbogbo agbẹdẹ, awakọsẹ, àti iyanrin dídá gbo wa pọ si Ògún to dúro pé gígi ni lilo imo ti yio mu ire ayé yi ni yá sọ sí ipe rẹ̀ to je atunse ohun lilo fun ènìyàn."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "irin",
+            "agbára"
+        ],
+        "related": [
+            "orisa"
+        ]
+    },
+    {
+        "slug": "obatala",
+        "language": "yo",
+        "term": "Ọbàtálá",
+        "pronunciation": "oh-bah-tah-lah",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/obatala.jpg",
+        "definition": "Òrìṣà tí ó ṣe ìṣẹ̀dá fọọṣú, mímọ́ tí ó mọ ọmọ-ènìyàn; àti baba nlá tí o duro fun ọgbọ́n tútù pọ.",
+        "body": [
+            {
+                "heading": "Olùdá Mẹ̀tá",
+                "text": "Bi àkọsílẹ̀, Olódùmarè fa asẹ le Ọbàtálá lati da ilẹ aye to wó àti fi amọ yí ará omọ-ènìyàn, ká tò dípe Olódùmarè fémí ṣi ín. Awon eeyan wowo pelé ugegebi baba fún awọn Òrìṣà ayé e lórùn fún e."
+            },
+            {
+                "heading": "Mimọ ti Iwarere",
+                "text": "Àsọ wunjẹ àfunfun pe fun Ọbàtálá gẹgẹbí iduro aworan isokàn ni mimọ, fun isọkàn inú rere alaṣé kan. A gbòrọ̀ o ni pe wón jò kí a jé Ìwà Pẹ̀lẹ́ kò ni rírí agbẹjẹ ati suru kan tí ípe ní Orí Tútù."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "ìṣẹ̀dá",
+            "mímọ́"
+        ],
+        "related": [
+            "olodumare",
+            "orisa",
+            "iwa-pele"
+        ]
+    },
+    {
+        "slug": "yemoja",
+        "language": "yo",
+        "term": "Yemọja",
+        "pronunciation": "yeh-moh-JAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/yemoja.jpg",
+        "definition": "Iyaa àwọn Òrìṣà pọ̀ jùlọ; tí a mọ si obìnrin to mọ́wó odo Ọgùn pẹ̀lú irú ikẹ àwárí bíyán gbé omọ àti alaabo wó omi.",
+        "body": [
+            {
+                "heading": "Iyaa Onile",
+                "text": "Yemọja mọ orúkọ ọ lẹ̀gá ìtúmọrẹ pe 'Iya tí àwọn ọmọ rẹ sán pọ ju eja lọ'. Yemọja gbóná bi gèlè n fun nitorí òógùn láti jé abójútó aye wa. Iyin gbé iyá fún ọpọlọpọ awọ̀n Òrìṣà jẹ n tò ń dàpe iye."
+            },
+            {
+                "heading": "Ipò ati Omi Lilo",
+                "text": "Yemọja dúró gegebí agbára odò lẹYorùbá ki ń sí àwárí ipa kùnlọ inu ríro àwo ti wón, iṣẹ bimo to fi fun inù obinrin si gbo. Ibudò kọkán mí tí omi wá, ohun ti iwa nbe rí Yemọja na si ni."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "omi",
+            "iyaa"
+        ],
+        "related": [
+            "orisa"
+        ]
+    },
+    {
+        "slug": "sango",
+        "language": "yo",
+        "term": "Ṣàngó",
+        "pronunciation": "shan-GO",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/sango.jpg",
+        "definition": "Òrìṣà alágbára to ni àrá, ìjì, ati àṣẹ ìdájọ́; Alaafin ile Ọ̀yọ́ tó kọ́kọ́ gba jùlọ ti a de le wó lẹyin iku.",
+        "body": [
+            {
+                "heading": "Ọba Tí Ó Di Òrìṣà",
+                "text": "Ṣàngó dúró fún iná abájọ, agbára akin, pẹlu yóò ti ibí yára dádajọ́ ìwà. Sẹyin ọjọ ogbóje ni obá karun ti Alaafin Ọyọ ti rù ipasẹ pẹlú áwọn odá àfẹ́kú gbèrù to de fi gbè de òrè mírán Òkú ọrun."
+            },
+            {
+                "heading": "Ìbínú Ápá Árá",
+                "text": "A si mọ si osé àkámọ̀gbá pelú àpá. Gbágbọ fi han nínú igi ìjá sùn ni ọ́fẹ àyé láti fi idajọ ti yára ba àwọn olè tàbí èni iyé kò fún lẹṣẹ àrà dídúró."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "àrá",
+            "ọba"
+        ],
+        "related": [
+            "orisa"
+        ]
+    },
+    {
+        "slug": "osun",
+        "language": "yo",
+        "term": "Ọ̀ṣun",
+        "pronunciation": "oh-SHOON",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí",
+        "thumbnail": "/images/glossary/osun.jpg",
+        "definition": "Òrìṣà oní omi tútù ojí; alafọta bimo, ẹwà àti tìré asòtọ kòsi wúlò fun ábo òkun odò áti ọrọ.",
+        "body": [
+            {
+                "heading": "Odò Alaafia",
+                "text": "Ọ̀ṣun fiyé nínú omi iwa to fa alè jẹ. Kí ń ṣe aṣapá rò lásán fún agbẹjẹ kàrún mọ ìyárí àṣeyorí gbágbọ aláwọ ìlu aṣapá ni. Ó má fi wón we lomi itutu lati wo inu iyun alaabó oníkán to lo ilẹ wọ́n."
+            },
+            {
+                "heading": "Ilu Átijé",
+                "text": "Àjọ iṣèkán dúro feti Ọṣun àwàlẹ̀ oṣẹtura ko ba tẹ si isé yio laisi itọju tí wón sí fún ájẹ idùpẹ pẹ̀lú aboyun awún ágbó."
+            }
+        ],
+        "tags": [
+            "òrìṣà",
+            "ẹwà",
+            "ọrọ̀"
+        ],
+        "related": [
+            "orisa"
+        ]
+    },
+    {
+        "slug": "odu-ifa",
+        "language": "yo",
+        "term": "Odù Ifá",
+        "pronunciation": "OH-doo ee-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/odu-ifa.jpg",
+        "definition": "Awọ̀n orí kíkà méjì-dín-lọ́ọ̀dúnrún (256) ti òde Ifá tó kówó ọgbọ́n, ìtàn titi ẹ̀kọ pẹ̀lù ogbédẹ igbòògùn Ifá gbogbo.",
+        "body": [
+            {
+                "heading": "Ewì Tí A Kò Kù Lábẹ́",
+                "text": "Odù Ifá dápọ mó gbogbo ìwé kọ ọgbọ́n yorùbá, ni a kó awọ̀n pàtìpáti sẹsẹ tàbì ìnú fún mẹfà lórì 16 lání yóba rẹ Mẹjì ati 240 Amúlù rùwà gba rùbọ ọn pé ni ogbà ibéèré ayé enìkàn dídámọ́."
+            },
+            {
+                "heading": "Ìpamọ́ Ógbọn-Inú",
+                "text": "A kó rẹ ló sínú gbó gbin-gbín gbèní ẹnu nitorí ẹfọwọyí àkòyàbá oye to n da arín ijinlẹ̀ lára awo. Ó pọ ní pípọ áti ko ju sáyé iró lọ."
+            }
+        ],
+        "tags": [
+            "kíkà",
+            "ìmọ̀-ọgbọ́n",
+            " corpus"
+        ],
+        "related": [
+            "odu",
+            "ifa"
+        ]
+    },
+    {
+        "slug": "awo",
+        "language": "yo",
+        "term": "Awo",
+        "pronunciation": "ah-WOH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/awo.jpg",
+        "definition": "Àṣírí ẹ̀mí, igbimọ; tàbí aṣípá oníyebíye agbéwọgbá fún gbogbo ìtan ijinlẹ̀ Ifá àti Òrìṣà.",
+        "body": [
+            {
+                "heading": "Àṣírí Tí Kò Kéré",
+                "text": "Awo lólú ìtumò tito n ti ògbẹ̀ rée pé o yée fi gbò fun eeyan tó bá ṣe akóni ojọ. O lẹyin pínnítín ìná tàáwó eégùn pẹ̀lú gbìgùn arín ìsẹ̀ ẹ̀dá sí asè."
+            },
+            {
+                "heading": "Odidi Ẹni",
+                "text": "Yio tú fa fi 'Awo' gbèyín àwọn isẹ ti oni iwa dápọ́ bábáláwó tàbí eléyín t’ofí n gbà gbìgbà igba pe oruko lókù fún ẹniti o gbà áwò ipe."
+            }
+        ],
+        "tags": [
+            "àṣírí",
+            "ìdánimọ̀",
+            "imo"
+        ],
+        "related": [
+            "babalaawo",
+            "ifa"
+        ]
+    },
+    {
+        "slug": "itefa",
+        "language": "yo",
+        "term": "Ìtẹ̀fá",
+        "pronunciation": "ee-teh-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/itefa.jpg",
+        "definition": "Àjọyọ̀ ìdánimọ̀ ńlá tí gbongbo n ṣètò ìgbẹkẹle ti a fi ifá bímọ titi di èèkàn Ifá to fihàn Ẹṣẹ́ Odù tirẹ̀ fún aayé rẹ́.",
+        "body": [
+            {
+                "heading": "Ìbálẹ̀sẹ̀ fún Ijinlẹ",
+                "text": "Ìtẹ̀fá dúró kókó àìlójú iwa laafin fún pìpa oṣú titi di àkóbẹ̀ ayé rẹ, gẹ́yín dáfá agba òjíse pẹlu okun laari Ifá ní tò bí ó mọ pe oju ìfihán Orí sọ fún."
+            },
+            {
+                "heading": "Oju Odù Olórí",
+                "text": "Ègbè ìhìn gbogbo ìtè fá n fi wálẹ fun ẹnikẹ́ni bí Ẹṣẹ́ Odù-olóri-ìwà ni ti a mọ pé òṣu rún n gbé sọ isé àbàjé (èwọ̀ tí o kò gbọ̀dọ jẹ tàbí ṣe, kí o jé ẹni tó ni tọrọ)."
+            }
+        ],
+        "tags": [
+            "ìdánimọ̀",
+            "ohun-èlò",
+            "ìsètò"
+        ],
+        "related": [
+            "ifa",
+            "odu-ifa",
+            "ori"
+        ]
+    },
+    {
+        "slug": "adifa",
+        "language": "yo",
+        "term": "Adífá",
+        "pronunciation": "ah-dee-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/adifa.jpg",
+        "definition": "Ìbéèrè dídáfá lọ sí awo tàbí ẹní tó bá ifá nitori àyẹ́wo ìpín ibùdó kábá.",
+        "body": [
+            {
+                "heading": "Aṣàbálójú Ifá",
+                "text": "Ténìyàn wó fẹ gbọ nitori iro lójúde, abọ̀wẹ̀ o tọ gbò pe òṣe 'Adífá' lati wa a wó isẹ áàre, tó ti dáfá ó si gbẹbọ pé ki a da ifá wa nínú ikin tàbi òpẹ́lẹ ki ìmò bá sísilé."
+            },
+            {
+                "heading": "Èlò Gbólóhùn Inú",
+                "text": "Nínú isé awo àtijó òpópónà, Ẹnjí gba wẹ pé kí a da pé isé 'A dí fá fún...' (A gbè wó pé awò a rà pẹ pé k'o ro ni ojojumọ), fún isé ibẹ̀ pè yio da ègbé Ifá han kọjá áfijẹ́sìn."
+            }
+        ],
+        "tags": [
+            "àwádìí",
+            "awo",
+            "isẹ"
+        ],
+        "related": [
+            "babalaawo",
+            "ifa"
+        ]
+    },
+    {
+        "slug": "akose",
+        "language": "yo",
+        "term": "Àkóṣe",
+        "pronunciation": "ah-koh-SHEH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipa àti Iṣẹ́",
+        "thumbnail": "/images/glossary/akose.jpg",
+        "definition": "Igbé iṣẹ̀lẹ̀ òmùsọ́ Ifá riri; ètò ohun ti fọta ìwá àbániyán fún lójú ogun tí o bá ogbó ẹgbógí pọ mọ́ asé fún ábé.",
+        "body": [
+            {
+                "heading": "Ohun Egbógi Tí Àkúnlẹ̀kàn",
+                "text": "Bi ojú bẹ pọ nínú iyán Ẹbọ sí awá sára, Àkóṣe o yí lo ibòkọ fún èlò rẹ gbè yín ti o lọ tì ikọ ewé, ipẹ́sẹ̀ ẹranko lati fífihàn ogun egbogi tí odù pín fun rírá sọná gírígírí."
+            },
+            {
+                "heading": "Ọ̀fọ̀ Kìkì Áṣè",
+                "text": "Nti gbógí yi wa ni àjásọ pẹlu o gbọdọ da mọ pelú isá-ọfọ tabi ògèdè tí ó ma bamu Òfọ iná áṣè awo ki gbọdọ ṣiṣẹ yí si ara isẹ awá ènìyàn ti o fé mú nǹkan wà fun a fẹsún tàbi áábo wa."
+            }
+        ],
+        "tags": [
+            "egbógi",
+            "àṣeyorí",
+            "àkóṣe"
+        ],
+        "related": [
+            "ase",
+            "ebo",
+            "odu-ifa"
+        ]
+    },
+    {
+        "slug": "ire",
+        "language": "yo",
+        "term": "Ire",
+        "pronunciation": "ee-REH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ire.jpg",
+        "definition": "Ire jẹ́ ìbùkún àti àlàáfíà tí ó wà nínú àyànmọ́ ènìyàn, tí ó fi ìṣọ̀kan pẹ̀lú ìfẹ́ Olódùmarè hàn.",
+        "body": [
+            {
+                "heading": "Oríṣiríṣi Ire",
+                "text": "Àwọn onímọ̀ Ifá mọ̀ pé ire púpọ̀ wà: ire ajé fún ọlà, ire ọmọ fún ìbímọ, ire aíkú fún ẹ̀mí gígùn, àti ire ogún fún ìṣẹ́gun. Ọ̀kọ̀ọ̀kan wọn jẹ́ apá pàtàkì nínú ìgbé ayé rere tí àwọn onífá ń wá nípasẹ̀ díídá Ifá."
+            },
+            {
+                "heading": "Ire nínú Díídá Ifá",
+                "text": "Nígbà tí babaláwo bá ń dá Ifá, yóò mọ̀ bóyá odù tí ó yọ jẹ́ ire tàbí ibi. Bí ire bá yọ, ẹni tí wọ́n ń dá fún yóò mọ irú ìbùkún tí ó wà fún un àti ohun tí ó yẹ kí ó ṣe láti gba ire náà. Ìmọ̀ ire mú ìtùnú wá, ó sì fi ọ̀nà hàn."
+            },
+            {
+                "heading": "Ìjìnlẹ̀ Ìtumọ̀ Ire",
+                "text": "Ire kì í ṣe oríre aláìnídìí, ṣùgbọ́n ipò tí ó nílò ìgbéga nípasẹ̀ ìwà rere, ìbọ̀wọ̀ fún orí ẹni, àti ìbágbépọ̀ dáradára pẹ̀lú ayé àti ọ̀run. Wíwá ire jẹ́ ìfọkànsìn ènìyàn sí ìṣọ̀kan pẹ̀lú àṣẹ, agbára ẹ̀dá Ọlọ́run."
+            }
+        ],
+        "tags": [
+            "ìbùkún",
+            "àlàáfíà",
+            "àyànmọ́",
+            "díídá Ifá"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ela",
+        "language": "yo",
+        "term": "Ẹlà",
+        "pronunciation": "EH-lah",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Òrìṣà àti Ẹ̀mí",
+        "thumbnail": "/images/glossary/ela.jpg",
+        "definition": "Ẹlà jẹ́ ẹ̀mí ìmọ́tótó àti ìgbàlà nínú ẹ̀sìn Yorùbá, ẹni tí a mọ̀ sí baba ẹ̀kọ́ Ifá àti olùdarí ìwà rere sí ayé.",
+        "body": [
+            {
+                "heading": "Ipò Rẹ̀ Nínú Ẹ̀dá",
+                "text": "Ẹlà jẹ́ ọ̀kan lára àwọn òjíṣẹ́ àkọ́kọ́ tí Olódùmarè rán sí ayé láti fi òfin àti ìwà rere lélẹ̀ fún ènìyàn. Ó ní ìbátan tímọ́tímọ́ pẹ̀lú ìwà, ó sì jẹ́ pé àwọn kan ń pè é ní baba Ọ̀rúnmìlà nínú ẹ̀mí. Iṣẹ́ rẹ̀ ni láti kọ́ ènìyàn pé ìwà rere kọ́kọ́ ṣáájú gbogbo etutu."
+            },
+            {
+                "heading": "Àjọṣe Pẹ̀lú Ifá",
+                "text": "Nínú ìtàn àròsọ, Ẹlà ni ẹni àkọ́kọ́ tí ó gbé ọgbọ́n àtọ̀runwá wá, tí ó sì fi í lé Ọ̀rúnmìlà lọ́wọ́ lẹ́yìn náà. Àwọn ìlà kan sọ pé Ẹlà àti Ọ̀rúnmìlà jẹ́ ọ̀kan náà nínú ìmọ́tótó ẹ̀mí, àwọn mìíràn sì gbà pé wọ́n yàtọ̀ ṣùgbọ́n wọ́n ní àjọṣe tó jinlẹ̀. Èyí fi hàn bí ìmọ́ ìpilẹ̀ṣẹ̀ ṣe sopọ̀ mọ́ ìṣe Ifá títí di òní."
+            },
+            {
+                "heading": "Pataki Nínú Àṣà",
+                "text": "A ń pe Ẹlà nínú àwọn ayẹyẹ kan gẹ́gẹ́ bí agbára ìwẹ̀nùmọ́ àti ẹlẹ́rìí ìlérí mímọ́. Wíwà rẹ̀ túmọ̀ sí ìpadàbọ̀ ìṣọ̀kan láàárín ọ̀run àti ayé. Àwọn olùfọkànsìn máa ń pe Ẹlà nígbà tí wọ́n bá fẹ́ wẹ̀ ibi tàbí ènìyàn mọ́ kúrò nínú ẹ̀gbin ẹ̀mí."
+            }
+        ],
+        "tags": [
+            "òrìṣà ìpilẹ̀ṣẹ̀",
+            "ìmọ́tótó",
+            "Ọ̀rúnmìlà",
+            "ẹ̀dá ayé"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ayanmo",
+        "language": "yo",
+        "term": "Àyànmọ́",
+        "pronunciation": "ah-YAHN-maw",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ayanmo.jpg",
+        "definition": "Àyànmọ́ ni ìpín tàbí àkọsílẹ̀ ìgbésí ayé tí ẹ̀mí èèyàn yàn níwájú Olódùmarè kí ó tó wá sí ayé.",
+        "body": [
+            {
+                "heading": "Yíyàn Ní Ọ̀run",
+                "text": "Gẹ́gẹ́ bí ìgbàgbọ́ Yorùbá, ẹ̀mí kọ̀ọ̀kan kúnlẹ̀ níwájú Olódùmarè láti yan àyànmọ́ rẹ̀ kí ó tó wọ inú ayé. Àyànmọ́ yìí ní ìwọ̀n ọjọ́ orí ẹni, ìwà, àṣeyọrí, àti ìdánwò tí yóò bá pàdé nínú ayé. Ìrántí yíyàn yìí máa ń pàdánù nígbà tí a bá dé ayé."
+            },
+            {
+                "heading": "Àjọṣe Pẹ̀lú Orí àti Ifá",
+                "text": "Àyànmọ́ ní ìbáṣepọ̀ tímọ́tímọ́ pẹ̀lú Orí, èyí tí ó jẹ́ olùtọ́jú àyànmọ́ ẹni. Nípasẹ̀ ìwádìí Ifá, èèyàn lè mọ nípa àyànmọ́ rẹ̀ kí ó sì mọ bí yóò ṣe rìn ìrìn-àjò ìgbésí ayé rẹ̀ lọ́nà tí ó bójú mu. Bí ó tilẹ̀ jẹ́ pé a kò lè yí àyànmọ́ padà pátápátá, ọgbọ́n àti ìwà rere lè ran ní lọ́wọ́ láti gbé e dára."
+            },
+            {
+                "heading": "Àyànmọ́ àti Òmìnira Ìfẹ́-inú",
+                "text": "Àyànmọ́ kò túmọ̀ sí pé èèyàn kò ní àṣàyàn. Ó kàn fi ààlà sí ibi tí òmìnira ẹni lè dé. Ọlọ́gbọ́n ni ẹni tí ó bá wá ọ̀nà láti mọ àyànmọ́ rẹ̀ kí ó sì bá a ṣiṣẹ́ pọ̀ dípò kí ó máa jà á."
+            }
+        ],
+        "tags": [
+            "àyànmọ́",
+            "ìpín",
+            "orí",
+            "ẹ̀mí"
+        ],
+        "related": []
+    },
+    {
+        "slug": "abiku",
+        "language": "yo",
+        "term": "Àbíkú",
+        "pronunciation": "ah-BEE-koo",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èmí àti Òrìṣà",
+        "thumbnail": "/images/glossary/abiku.jpg",
+        "definition": "Ọmọ tí a gbà pé ó ní àdéhùn pẹ̀lú àwọn ẹgbẹ́ ọ̀run rẹ̀ láti kú ní kékeré, tí yóò sì máa padà wá sí ìyá kannáà léraléra.",
+        "body": [
+            {
+                "heading": "Ìmọ̀ Nípa Àyànmọ́ Àbíkú",
+                "text": "Nínú ìgbàgbọ́ Yorùbá, àwọn ọmọ àbíkú wà láàrin ayé àti ọ̀run. Wọ́n ní àjọṣe pẹ̀lú ẹgbẹ́ ọ̀run wọn, àwùjọ àwọn ẹ̀mí tí wọ́n ti ṣe àdéhùn pẹ̀lú wọn. Àdéhùn yìí lè mú kí ọmọ náà padà sọ́run ní àkókò kan tí wọ́n ti pinnu tẹ́lẹ̀."
+            },
+            {
+                "heading": "Ìdámọ̀ àti Ìtọ́jú",
+                "text": "Àwọn ìdílé àti babaláwo máa ń lo oríṣiríṣi ọ̀nà láti mọ àwọn ọmọ àbíkú, bíi àmì ojú, àmì ara àrà, tàbí dídá Ifá wò. Àwọn etutu àti ìrúbọ ni a ń ṣe láti ya ọmọ náà kúrò lọ́wọ́ àwọn ẹgbẹ́ ọ̀run rẹ̀. Èyí fi hàn ìjìnlẹ̀ òye àti ìgbìyànjú àwọn baba ńlá wa láti bá àwọn agbára ẹ̀mí ṣe àdéhùn."
+            },
+            {
+                "heading": "Orúkọ Àbíkú àti Ààbò",
+                "text": "A máa ń sọ orúkọ pàtàkì fún àwọn ọmọ àbíkú gẹ́gẹ́ bí ààbò àti ẹ̀bẹ̀. Orúkọ bíi Málọmọ́, Kòkúmọ́, àti Dúrójaiyé jẹ́ oògùn ẹnu àti àdúrà òbí. A tún lè ṣe àmì díẹ̀ sí ara ọmọ náà kí a lè mọ̀ ọ́n tí ó bá padà wá nínú ìbí mìíràn."
+            }
+        ],
+        "tags": [
+            "ọmọ ẹ̀mí",
+            "àtúnwáyé",
+            "ikú ọmọdé",
+            "ẹgbẹ́ ọ̀run",
+            "etutu ààbò"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ibi",
+        "language": "yo",
+        "term": "Ibi",
+        "pronunciation": "ee-BEE",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ibi.jpg",
+        "definition": "Ibi jẹ́ ọ̀rọ̀ tó ń tọ́ka sí àìsàn, ikú, òfò, àti gbogbo ohun burúkú tí ó lòdì sí ire nínú ìgbàgbọ́ Yorùbá, tí ó sì jẹ́ apá kan ìwọ̀ntúnwọ̀nsì àgbáálá ayé.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ nínú Ẹ̀sìn Yorùbá",
+                "text": "Ibi kì í ṣe ohun burúkú ní ti ara rẹ̀ nìkan, ṣùgbọ́n ó jẹ́ agbára tí ó ń tako ire láti mú ìwọ̀ntúnwọ̀nsì bá ayé. Ó lè wá látàrí àìtẹ̀lé ẹ̀wọ̀, àìrúbọ, tàbí kí ènìyàn má bá orí rẹ̀ rìn. Àwọn Yorùbá gbàgbọ́ pé ibi lè yí padà nípasẹ̀ iṣẹ́ ẹ̀mí tó yẹ."
+            },
+            {
+                "heading": "Ibi nínú Ifá Díídá",
+                "text": "Nígbà tí babaláwo bá ń da Ifá, ó máa ń wá mọ̀ bóyá odù tó jade wá pẹ̀lú ibi tàbí ire. Tí ibi bá jade, babaláwo yóò sọ ẹbọ tí ènìyàn gbọdọ̀ rú láti yí ibi náà padà. Èyí fi hàn pé ènìyàn ní agbára láti yi àyànmọ́ rẹ̀ padà nípasẹ̀ ìṣe ẹ̀mí tó tọ́."
+            }
+        ],
+        "tags": [
+            "àìsàn",
+            "díídá",
+            "àyànmọ́",
+            "ẹbọ",
+            "ire"
+        ],
+        "related": []
+    },
+    {
+        "slug": "eleda",
+        "language": "yo",
+        "term": "Elédàá",
+        "pronunciation": "eh-LAY-dah",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/eleda.jpg",
+        "definition": "Elédàá ni olùdá ènìyàn kọ̀ọ̀kan, ẹni tí ó dá orí àti àyànmọ́ ènìyàn ṣáájú kí wọ́n tó wá sí ayé.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ Jíjinlẹ̀",
+                "text": "Nínú ìgbàgbọ́ Yorùbá, Elédàá jẹ́ apá kan Olódùmarè tí ó dá ọkàn ènìyàn kọ̀ọ̀kan. Èyí fi hàn pé àjọṣe tímọ́tímọ́ wà láàárín Ọlọ́run àti ènìyàn. Elédàá jẹ́ orísun ìwàláàyè ẹni kọ̀ọ̀kan, ó sì ń darí ìrìn àjò ẹ̀mí ènìyàn láti ọ̀run wá sí ayé."
+            },
+            {
+                "heading": "Àjọṣe Pẹ̀lú Orí",
+                "text": "Ṣáájú ìbí, ọkàn kọ̀ọ̀kan kúnlẹ̀ níwájú Elédàá láti gba àyànmọ́ rẹ̀. Májẹ̀mú yìí ló ń pinnu ọ̀nà ìgbésí ayé, ìwà, àti ohun tí ènìyàn lè ṣe. Bí a bá ń bọ Elédàá wa, a máa ń rí àlàáfíà àti ìmúṣẹ àyànmọ́ rere."
+            }
+        ],
+        "tags": [
+            "orí",
+            "àyànmọ́",
+            "ẹ̀dá",
+            "ìgbàgbọ́"
+        ],
+        "related": []
+    },
+    {
+        "slug": "agbara",
+        "language": "yo",
+        "term": "Agbara",
+        "pronunciation": "ah-GBAH-rah",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/agbara.jpg",
+        "definition": "Agbara jẹ́ okun tàbí agbára ẹ̀mí nínú ìgbàgbọ́ Yorùbá—ipá tó ń fún ohun gbogbo lágbára, tó sì ń mú àyípadà wá láàárín ayé àti ọ̀run.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ nínú Ẹ̀sìn",
+                "text": "Agbara ni ipá tí Olódùmarè fi fún àwọn Òrìṣà àti ènìyàn. Ó lè hàn gẹ́gẹ́ bí okun ara, àṣẹ ẹ̀mí, tàbí agbára oògùn. Àwọn babaláwo máa ń lo agbara fún ìdáfá àti ìwòsàn."
+            },
+            {
+                "heading": "Ìsọdá àti Ìfarahàn",
+                "text": "Agbara wá láti ọ̀dọ̀ Olódùmarè, ó sì ń ṣàn nípasẹ̀ àwọn Òrìṣà sí ayé. Àwọn ewé kan, ohun mímọ́, àti ibi pàtàkì ní agbara púpọ̀. Nínú iṣẹ́ Ifá, lílo agbara dáadáa ṣe pàtàkì fún ìwọ̀ntúnwọ̀nsì ayé."
+            }
+        ],
+        "tags": [
+            "agbára",
+            "àṣẹ",
+            "ẹ̀mí",
+            "Ifá"
+        ],
+        "related": []
+    },
+    {
+        "slug": "orun",
+        "language": "yo",
+        "term": "Ọ̀run",
+        "pronunciation": "AW-roon",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/orun.jpg",
+        "definition": "Ilẹ̀ àwọn ẹ̀mí àti ibùgbé Òrìṣà, àwọn baba ńlá, àti ẹ̀mí tí kò tíì bí—apa òkè ti ayé tí ó so mọ́ Ayé nígbà gbogbo.",
+        "body": [
+            {
+                "heading": "Ètò Ìṣẹ̀dá",
+                "text": "Ọ̀run jẹ́ ìdajì kan nínú méjì tí ó jẹ́ pàtàkì nínú ìmọ̀ ọgbọ́n Yorùbá, tí ó bá Ayé mu. Ọ̀run kìí ṣe ibì tí ó jìnnà, ṣùgbọ́n ó jẹ́ apá ayé tí a kò lè rí tí ó ń bá ayé ojú rí sọ̀rọ̀ nígbà gbogbo. Ọ̀run ní onírúurú ipò fún oríṣiríṣi ẹ̀mí àti àwọn tí ń dúró dé àtúnbí."
+            },
+            {
+                "heading": "Àwọn Olùgbé Ọ̀run",
+                "text": "Àwọn Òrìṣà ń gbé ní Ọ̀run, pẹ̀lú Egúngún àti ara ọ̀run. Olódùmarè ni olórí gbogbo Ọ̀run. Lẹ́yìn ikú, ẹ̀mí ènìyàn máa ń lọ sí Ọ̀run, níbi tí wọ́n ti lè padà wá sí Ayé nípasẹ̀ àtúnbí láàrin ìdílé wọn."
+            },
+            {
+                "heading": "Ìbáraẹnisọ̀rọ̀ Láàrin Àwọn Apá Méjèèjì",
+                "text": "Ifá ni ọ̀nà pàtàkì láti gba ìtọ́ni láti Ọ̀run. Nípasẹ̀ ààtò, ẹbọ, àti ìtumọ̀ Odù, àwọn onífá ń mú àṣẹ ṣàn láàrin Ọ̀run àti Ayé. Èyí ń mú ìwọ̀ntúnwọ̀nsì wá, ó sì ń ràn ènìyàn lọ́wọ́ láti gbé ìgbé ayé wọn ní ìbámu pẹ̀lú ètò àgbáyé."
+            }
+        ],
+        "tags": [
+            "ìṣẹ̀dá",
+            "ilẹ̀ òkú",
+            "apá ẹ̀mí",
+            "ọ̀run"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ofo",
+        "language": "yo",
+        "term": "Ofọ̀",
+        "pronunciation": "oh-FOH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àṣà àti Ìsìn",
+        "thumbnail": "/images/glossary/ofo.jpg",
+        "definition": "Ofọ̀ jẹ́ ọ̀rọ̀ àṣẹ tàbí èdè ìjìnlẹ̀ tí ó ní agbára láti mú ohun tí a fẹ́ ṣẹlẹ̀ nígbà tí a bá sọ ọ́ lọ́nà tó tọ́.",
+        "body": [
+            {
+                "heading": "Ìṣẹ̀dá àti Iṣẹ́",
+                "text": "Ofọ̀ kì í ṣe àdúrà lásán, ṣùgbọ́n ó jẹ́ ọ̀rọ̀ tí ó ní agbára láti ìgbà ìṣẹ̀dá ayé. Àwọn ọ̀rọ̀ wọ̀nyí ń ṣiṣẹ́ nítorí pé àwọn èdè kan, tí wọ́n bá papọ̀ mọ́ ìmọ̀ àti àṣà tó yẹ, lè yí ọ̀run àti ayé padà. Agbára ofọ̀ dá lórí ìdílé, ìṣípayá, àti ìwà rere ẹni tó ń sọ ọ́."
+            },
+            {
+                "heading": "Oríṣiríṣi Ofọ̀",
+                "text": "Ofọ̀ oríṣiríṣi wà fún àbójútó, ìwòsàn, àṣeyọrí, àti bíbá àwọn agbára ọ̀run sọ̀rọ̀. Àwọn kan jẹ́ ogún ìdílé, àwọn mìíràn sì máa ń fihàn nípasẹ̀ Ifá tàbí ìkọ́nilẹ́kọ̀ọ́ àṣà. Àwọn ọ̀rọ̀ náà sábà máa ń lo àkànlò èdè, ohùn tó péye, àti àròkọ tó so mọ́ òtítọ́ ìjìnlẹ̀."
+            },
+            {
+                "heading": "Ìbáṣepọ̀ pẹ̀lú Àṣẹ",
+                "text": "Ofọ̀ jẹ́ apá ọ̀rọ̀ sísọ ti àṣẹ, agbára ayé tí ó ń fún gbogbo ohun tó wà láyé lókun. Àwọn onímọ̀ mọ̀ pé ọ̀rọ̀ fúnra rẹ̀ ní agbára, ofọ̀ sì ń jí agbára ẹ̀mí tí ó sùn. Ìgbàgbọ́ yìí fi hàn pé àwọn Yorùbá gbà pé a dá ayé pẹ̀lú ọ̀rọ̀, àwọn ènìyàn sì jogún agbára ìṣẹ̀dá yìí látọ̀dọ̀ Olódùmarè."
+            }
+        ],
+        "tags": [
+            "ofọ̀",
+            "àṣẹ",
+            "ọ̀rọ̀ mímọ́",
+            "àṣà",
+            "agbára ẹ̀mí"
+        ],
+        "related": []
+    },
+    {
+        "slug": "otito",
+        "language": "yo",
+        "term": "Òtítọ́",
+        "pronunciation": "oh-TEE-toh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/otito.jpg",
+        "definition": "Ohun tó jẹ́ gidi, òdodo, àti ìwà tó dára tó ń fi hàn pé ènìyàn kò tan àwọn ẹlòmíràn jẹ tàbí kò pa irọ́.",
+        "body": [
+            {
+                "heading": "Ìpìlẹ̀ Ìmọ̀ Ọgbọ́n",
+                "text": "Òtítọ́ jẹ́ ọ̀kan lára àwọn ìwà rere tó ga jùlọ nínú àṣà Yorùbá. Kì í ṣe sísọ ohun tó ṣẹlẹ̀ nìkan ni, ṣùgbọ́n ó tún jẹ́ ìgbé ayé tó bá ayé òdodo mu. Ó so mọ́ ìwàpẹ̀lẹ́, torí pé ẹni tó ní ìwà rere gbọ́dọ̀ jẹ́ olòótọ́ nínú gbogbo ohun tó ń ṣe."
+            },
+            {
+                "heading": "Ìjìnlẹ̀ Ẹ̀mí",
+                "text": "Nínú ẹ̀sìn Ifá, Òtítọ́ jẹ́ ọ̀kan lára àwọn ìwà tí Olódùmarè fúnni ní àṣẹ láti máa hù. Ọ̀rúnmìlà jẹ́ olórí òtítọ́, àwọn tó ń sin ín sì gbọ́dọ̀ máa sọ òdodo nígbà gbogbo. Odù Ifá sọ pé irọ́ ń ba àṣẹ ẹni jẹ́, àmọ́ òtítọ́ ń mú kí orí ẹni gbé e."
+            },
+            {
+                "heading": "Lílo Nínú Àwùjọ",
+                "text": "Àwọn òwe Yorùbá pọ̀ tó ń gbé òtítọ́ lárugẹ: 'Òtítọ́ ní ń gbé ẹni.' Nínú ìjọba àtijọ́ àti ẹjọ́, a máa ń retí pé gbogbo ènìyàn yóò sọ òtítọ́, tí wọ́n bá sì búra, ẹ̀mí yóò dá wọn lẹ́jọ́ tí wọ́n bá pa irọ́. Ìlànà yìí ṣì ń darí ìgbésí ayé àwọn Yorùbá lónìí."
+            }
+        ],
+        "tags": [
+            "ìwà",
+            "òdodo",
+            "ẹ̀kọ́-ìwà",
+            "ìmọ̀-ọgbọ́n"
+        ],
+        "related": []
+    },
+    {
+        "slug": "egbe",
+        "language": "yo",
+        "term": "Ẹgbẹ́",
+        "pronunciation": "EH-gbeh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Òrìṣà àti Ẹ̀mí",
+        "thumbnail": "/images/glossary/egbe.jpg",
+        "definition": "Ẹgbẹ́ jẹ́ àwùjọ àwọn ẹ̀mí ẹlẹ́gbẹ́ tí ènìyàn bá ń gbé ní ọ̀run kí ó tó wá sí ayé—àwọn ọ̀rẹ́ ọkàn tí ìfẹ́ wọn jinlẹ̀ ju ti ara lọ.",
+        "body": [
+            {
+                "heading": "Ìpilẹ̀ṣẹ̀ àti Ìwà",
+                "text": "Nínú ìgbàgbọ́ Yorùbá, gbogbo ènìyàn ní àwùjọ ẹgbẹ́ ní ọ̀run kí wọ́n tó yan láti wá sí ayé. Àjọṣe ẹgbẹ́ yìí jẹ́ ìsopọ̀ ọkàn tí ó jinlẹ̀ tí kò parun lẹ́yìn ìbí. Ìfẹ́ láàárín ènìyàn àti ẹgbẹ́ rẹ̀ lè pọ̀ ju ti ìdílé ayé lọ."
+            },
+            {
+                "heading": "Ipa lórí Ìgbésí Ayé",
+                "text": "Àwọn ẹ̀mí ẹgbẹ́ lè nípa lórí àyànmọ́ ènìyàn, àjọṣe rẹ̀, àti ìdùnnú rẹ̀ ní ayé. Bí ènìyàn bá ń ní ìrora ọkàn tàbí kò lè bára dé pẹ̀lú àwọn ènìyàn ayé, babaláwo lè rí pé ọ̀ràn ẹgbẹ́ ló fa. Ìtọ́jú tí ó yẹ fún ẹgbẹ́ lè mú ìwọ̀ntúnwọ̀nsì padà."
+            },
+            {
+                "heading": "Àṣà Ìsìn Ẹgbẹ́",
+                "text": "Ifá máa ń fi hàn irú àjọṣe tí ènìyàn ní pẹ̀lú ẹgbẹ́ rẹ̀, yóò sì pàṣẹ ẹbọ tàbí àṣà tí yóò mú kí ìsopọ̀ náà dára. Àwọn àṣà wọ̀nyí ń ran ènìyàn lọ́wọ́ láti mú àlàáfíà wà láàárín ayé àti ọ̀run."
+            }
+        ],
+        "tags": [
+            "ẹ̀mí ẹlẹ́gbẹ́",
+            "àyànmọ́",
+            "ọ̀run",
+            "ìsopọ̀ ẹ̀mí"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ori-inu",
+        "language": "yo",
+        "term": "Orí Inú",
+        "pronunciation": "oh-REE ee-NOO",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ori-inu.jpg",
+        "definition": "Orí inú ni òrìṣà ènìyàn fúnra rẹ̀, ipò ẹ̀mí tí ó mú àyànmọ́ àti ìfẹ́ ọkàn ènìyàn wá sí ayé.",
+        "body": [
+            {
+                "heading": "Ìjìnlẹ̀ Ẹ̀mí",
+                "text": "Orí inú jẹ́ òrìṣà tí ó sún mọ́ ènìyàn jù gbogbo àwọn Òrìṣà mìíràn lọ. Ó jẹ́ ìbejì ẹ̀mí ti orí òde, ó sì ní àdéhùn tí ènìyàn bá Olódùmarè ṣe nípa iṣẹ́ ayé rẹ̀. Orí inú ń darí ìpinnu ènìyàn, ó sì ń pinnu bóyá àyànmọ́ yóò dára tàbí yóò pàdé ìdènà."
+            },
+            {
+                "heading": "Àjọṣe Pẹ̀lú Àyànmọ́",
+                "text": "Kí ènìyàn tó wá sí ayé, ọkàn rẹ̀ á yan orí rẹ̀ láti ilé iṣẹ́ Àjàlá, amọ̀kòkò ọ̀run. Yíyàn yìí ló ń pinnu ìwà pàtàkì ènìyàn àti ọ̀nà ìgbésí ayé rẹ̀. Orí tí a yàn dáadáa máa ń mú ìbùkún wá, àmọ́ èyí tí kò dára lè nílò orí bíbọ láti mú ìṣọ̀kan padà."
+            },
+            {
+                "heading": "Ìṣe Ìbọ̀rìṣà",
+                "text": "Orí ń gba ìtọ́jú lọ́pọ̀ ìgbà nípasẹ̀ àdúrà, ẹbọ omi àti àgbọn, àti àṣà pípé. Kò dà bí àwọn òrìṣà ìta, orí wà nítòsí nígbà gbogbo, ó sì máa ń dáhùn sí ẹ̀bẹ̀ olóòótọ́. Òwe Yorùbá náà pé 'Orí la bá bọ, à bá f'Òrìṣà sílẹ̀' fi hàn pé ó ṣe pàtàkì jù fún ènìyàn."
+            }
+        ],
+        "tags": [
+            "àyànmọ́",
+            "ẹ̀mí",
+            "ìgbàgbọ́ Yorùbá",
+            "òrìṣà ènìyàn"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ajogun",
+        "language": "yo",
+        "term": "Ajogun",
+        "pronunciation": "ah-JOH-goon",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Òrìṣà àti Ẹ̀mí",
+        "thumbnail": "/images/glossary/ajogun.jpg",
+        "definition": "Ajogun ni àwùjọ àwọn agbára búburú tàbí ọ̀tá ẹ̀mí nínú ìgbàgbọ́ Yorùbá tí wọ́n ń ja ogun láìdásílẹ̀ sí ẹ̀dá ènìyàn, tí wọ́n ń ṣojú ìdènà, àìsàn, àti ipa búburú tí ó ń dán ìwàláàyè àti ìdàgbàsókè ẹ̀mí wò.",
+        "body": [
+            {
+                "heading": "Àwọn Jagunjagun Mẹ́jọ Àkọ́kọ́",
+                "text": "Ẹ̀kọ́ Ifá ìbílẹ̀ ṣàpèjúwe Ajogun mẹ́jọ pàtàkì: Ikú, Àrùn, Òfò, Ègbà, Òràn, Èpè, Èwọn, àti Èṣe. Àwọn agbára wọ̀nyí ni a gbà pé wọ́n jẹ́ ẹ̀mí tó ní ìwà tiwọn kọ̀ọ̀kan àti ọ̀nà tí wọ́n fi ń kọlu àlàáfíà ènìyàn. Wọ́n máa ń pè wọ́n ní 'jagunjagun ọwọ́ òsì' ní ìyàtọ̀ sí àwọn Òrìṣà aláàánú."
+            },
+            {
+                "heading": "Ìwọ̀ntúnwọ̀nsì Ayé àti Àbò",
+                "text": "Ajogun ṣe iṣẹ́ pàtàkì nínú ẹ̀kọ́ ìṣẹ̀dá Yorùbá, wọ́n ń ṣojú ìtakò tí ó yẹ tí ó ń fún ìbùkún ní ìtumọ̀ tí ó sì ń mú ènìyàn gbìyànjú. Dídá Ifá sábà máa ń bá ìwà tàbí ìhalẹ̀ Ajogun kan pàtó sọ̀rọ̀, ó sì ń pàṣẹ ẹbọ àti ìwòsàn ẹ̀mí láti tù wọ́n nínú tàbí yí ipa wọn padà. Àwọn Òrìṣà, pàápàá jùlọ Ọ̀rúnmìlà nípasẹ̀ ọgbọ́n Ifá, ń fún ẹ̀dá ènìyàn ní ìmọ̀ láti bá àwọn ọ̀tá wọ̀nyí ṣe àdéhùn, láti yẹra fún wọn, tàbí láti borí wọn."
+            },
+            {
+                "heading": "Ìbáṣepọ̀ pẹ̀lú Àyànmọ́",
+                "text": "Nínú ìmọ̀ ọgbọ́n Ifá, wọ́n gbà pé Ajogun ń kọlu ènìyàn kọ̀ọ̀kan gẹ́gẹ́ bí àìlera tó wà nínú orí àti àyànmọ́ wọn. Ṣáájú ìbí, ọkàn gbọ́dọ̀ kọjá láàrín àgbègbè àwọn agbára wọ̀nyí, àwọn àṣàyàn tí a ṣe nígbà ìrìnàjò yẹn ló ń nípa lórí bí ènìyàn ṣe lè fara gba ìkọlù wọn ní gbogbo ìgbésí ayé. Ìlànà ẹ̀kọ́ ẹ̀sìn yìí tẹnu mọ́ ọn pé àìnísòrí kìí ṣe àìlètò tàbí ìjìyà lásán, ṣùgbọ́n ó wà láàrín ètò ẹ̀mí tí a lè lóye."
+            }
+        ],
+        "tags": [
+            "agbára búburú",
+            "ọ̀tá ẹ̀mí",
+            "ẹ̀kọ́ Ifá",
+            "ẹbọ",
+            "àbò ẹ̀mí"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ire-aje",
+        "language": "yo",
+        "term": "Ire Ajé",
+        "pronunciation": "ee-REH ah-JEH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ire-aje.jpg",
+        "definition": "Irú ire kan pàtó tí ó ń sọ̀rọ̀ nípa ọlà àti owó-wíwá, tí ó jẹ́ àlàáfíà tí ó mú ọrọ̀ àti ìlọsíwájú owó wá.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ àti Èrò",
+                "text": "Ire Ajé jẹ́ ọ̀kan lára àwọn irú ire tí a mọ̀ nínú ẹ̀kọ́ Ifá. Ajé kò kan owó nìkan ṣùgbọ́n ó kan gbogbo ohun tí ó mú ọlà wá, bíi ìṣòwò tí ó dára àti ìṣàn-wọlé tí ó tóótun. Nígbà tí ire yìí bá farahàn, ó túmọ̀ sí pé ọ̀nà ẹni dára fún ọrọ̀-wíwá."
+            },
+            {
+                "heading": "Ìjẹ́pàtàkì Nínú Ẹ̀sìn",
+                "text": "Nínú ẹ̀kọ́ Ifá, ọrọ̀ kì í yà sọ́tọ̀ kúrò nínú àlàáfíà ẹ̀mí—ó jẹ́ ìbùkún tí ó ń ran ènìyàn lọ́wọ́ láti ṣe ojúṣe sí ẹbí àti àwùjọ. Ire Ajé ní àjọṣe pẹ̀lú òrìṣà Ajé Ṣàlúgá, ẹni tí ó ń ṣàkóso ọrọ̀. Nígbà tí ire yìí bá jáde nínú díwọ́n, ó lè túmọ̀ sí pé ẹbọ àti ìṣe kan ṣe pàtàkì."
+            },
+            {
+                "heading": "Bí Ó Ṣe Ń Farahàn",
+                "text": "Ire Ajé máa ń farahàn nípasẹ̀ àǹfààní, ìṣòwò tí ó gbéṣẹ́, àti àkójọ ohun-ìní tí ó ń ṣèrànwọ́ ìpinnu ẹni. Àwọn onímọ̀ mọ̀ pé ọrọ̀ gbọ́dọ̀ tan káàkiri kí ó sì ṣàǹfààní fún àwọn ẹlòmíràn kí ìbùkún náà lè dúró. Ifá kọ́ni pé Ire Ajé gbọ́dọ̀ bá àwọn ire mìíràn mu, nítorí ọlà láìsí ìlera tàbí àlàáfíà kò pé."
+            }
+        ],
+        "tags": [
+            "ire",
+            "ọlà",
+            "ìbùkún",
+            "díwọ́n",
+            "ọrọ̀"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ire-omo",
+        "language": "yo",
+        "term": "Ire Ọmọ",
+        "pronunciation": "ee-REH AW-maw",
+        "partOfSpeech": "ọ̀rọ̀ orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ire-omo.jpg",
+        "definition": "Ire Ọmọ jẹ́ ìbùkún ọmọ bíbí, ọ̀kan lára àwọn oríṣiríṣi ire tí a mọ̀ nínú Ifá àti ìgbàgbọ́ Yorùbá.",
+        "body": [
+            {
+                "heading": "Ìbùkún Ìbímọ",
+                "text": "Nínú àṣà Yorùbá, ọmọ túmọ̀ sí ìtẹ̀síwájú ìdílé, ìrántí àwọn baba ńlá, àti ìmúṣẹ iṣẹ́ ayé ènìyàn. Ire Ọmọ kò kan ìbímọ nìkan, ṣùgbọ́n ó tún kan bí àwọn ọmọ ṣe ń gbé, tí wọ́n sì ń mú ọlá wá fún ìdílé wọn. Ìbùkún yìí ṣe pàtàkì fún ìgbésí ayé tó péye."
+            },
+            {
+                "heading": "Ipò Rẹ̀ Láàrín Àwọn Ire",
+                "text": "Ire Ọmọ wà pẹ̀lú àwọn ire mìíràn bíi Ire Ajé, Ire Àìkú, àti Ire Aya tàbí Ọkọ. Nígbà tí ire wọ̀nyí bá farahàn nínú dídá Ifá, wọ́n fi hàn pé ọ̀nà tó wà níwájú ènìyàn ní ànfàní ìbímọ àti àlàáfíà àwọn ọmọ. A lè pa ẹbọ tàbí ìrúbọ láṣẹ láti fi dí ìbùkún yìí múlẹ̀."
+            },
+            {
+                "heading": "Ìhà Ẹ̀mí",
+                "text": "Ìbùkún ọmọ so mọ́ àjọṣepọ̀ láàrín àwọn alààyè àti àwọn ẹ̀mí tó ń dúró láti padà wá sí ayé. Orí ènìyàn gbọ́dọ̀ bá àyànmọ́ rẹ̀ mu kí ọmọ lè dé, àwọn Òrìṣà—ní pàtàkì Ọ̀ṣun—ni a sì máa ń bẹ̀bẹ̀ fún ọmọ. Àwọn baba ńlá náà ní ipò pàtàkì nítorí àwọn ọmọ jẹ́ ẹ̀mí ìdílé tó ń padà wá."
+            }
+        ],
+        "tags": [
+            "ire",
+            "ìbùkún",
+            "ọmọ",
+            "ìbímọ",
+            "dídá Ifá"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ire-aiku",
+        "language": "yo",
+        "term": "Ire Aiku",
+        "pronunciation": "ee-REH ah-EE-koo",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ire-aiku.jpg",
+        "definition": "Ọ̀kan lára àwọn ìbùkún pàtàkì nínú àṣà Yorùbá, tí ó ń tọ́ka sí ẹ̀mí gígùn àti ààbò lọ́wọ́ ikú àìtọ́jọ́.",
+        "body": [
+            {
+                "heading": "Ìbùkún Ẹ̀mí Gígùn",
+                "text": "Ire Aiku jẹ́ ọ̀kan lára àwọn ìbùkún tí a ń wá jù lọ nínú ìṣe Ifá, kì í ṣe ọdún púpọ̀ nìkan ṣùgbọ́n ẹ̀mí tí yóò dé òpin rẹ̀ tí a yàn fún un. Ìbùkún yìí ń bo ènìyàn lọ́wọ́ ìjàǹbá, ìwà ipá, àìsàn, àti gbogbo ohun tí ó lè gé ẹ̀mí ènìyàn kù kí ó tó parí àyànmọ́ orí rẹ̀."
+            },
+            {
+                "heading": "Ipò Rẹ̀ Láàrin Àwọn Ìbùkún Pàtàkì",
+                "text": "Láàrin àwọn ire, Aiku sábà máa ń wà ní ipò àkọ́kọ́, nítorí láìsí ẹ̀mí, kò sí ìbùkún mìíràn tí a lè gbádùn. A sábà máa ń pe é papọ̀ pẹ̀lú Ire Owó, Ire Ọmọ, àti Ire Àìsàn. Nígbà tí Ire Aiku bá farahàn nínú dídá Ifá, ó ń fi hàn pé àwọn agbára ẹ̀mí ti ṣetò láti dáàbò bo ọjọ́ orí ẹni."
+            },
+            {
+                "heading": "Ìjìnlẹ̀ Ẹ̀mí Rẹ̀",
+                "text": "Ìbùkún Aiku ń fi ìmọ̀ Yorùbá hàn pé ikú ṣáájú àkókò tí a yàn jẹ́ ìdàrúdàpọ̀ ẹ̀mí tó jinlẹ̀. Àwọn Babalúwo, Òrìṣà, àti ìṣe ààtò tí ó yẹ ni gbogbo wọn ń kópa nínú dídá ìbùkún yìí múlẹ̀. Àwọn tí ó bá ń tẹ̀lé orí wọn tí wọ́n sì ń bọ̀wọ̀ fún ojúṣe ẹ̀mí wọn ni a gbà pé wọ́n ń fún ẹ̀tọ́ wọn sí ẹ̀mí gígùn lokun."
+            }
+        ],
+        "tags": [
+            "ìbùkún",
+            "ẹ̀mí gígùn",
+            "dídá Ifá",
+            "ire",
+            "àyànmọ́"
+        ],
+        "related": []
+    },
+    {
+        "slug": "egbe-orun",
+        "language": "yo",
+        "term": "Ẹgbẹ́ Ọ̀run",
+        "pronunciation": "eh-GBEH oh-ROON",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ẹ̀mí àti Òrìṣà",
+        "thumbnail": "/images/glossary/egbe-orun.jpg",
+        "definition": "Àwùjọ àwọn ẹ̀mí tí ẹ̀mí ènìyàn bá ń gbé ní ọ̀run kí ó tó wá sí ayé, tí wọ́n sì ń bá ènìyàn lò nígbà tí ó bá ti dé ayé.",
+        "body": [
+            {
+                "heading": "Ìpilẹ̀ṣẹ̀ àti Ìdí Rẹ̀",
+                "text": "Nínú ìgbàgbọ́ Yorùbá, ṣáájú bí ènìyàn ṣe wá sí ayé, ẹ̀mí rẹ̀ jẹ́ ọmọ ẹgbẹ́ àwùjọ àwọn ẹ̀mí kan ní ọ̀run. Àwọn ẹgbẹ́ wọ̀nyí ni a kà sí ẹbí tòótọ́ àti ọ̀gbà ènìyàn láti orí ẹ̀mí. Ìsopọ̀ tí wọ́n dá níbẹ̀ máa ń tẹ̀síwájú lẹ́yìn tí ènìyàn bá ti wá sí ayé."
+            },
+            {
+                "heading": "Àmì àti Ìfarahàn",
+                "text": "Àwọn tí ìsopọ̀ ẹgbẹ́ ọ̀run wọn lágbára lè máa lálá àwọn àpéjọ pẹ̀lú àwọn ojú tí wọn kò mọ̀ ṣùgbọ́n tí wọ́n fara jọ wọ́n. Àìsàn ọmọdé tí a kò lè ṣàlàyé àti ìṣòro láti ní àjọṣe tó pẹ́ ní ayé lè jẹ́ àmì. Àwọn ọmọ tí wọ́n kú lọ́mọdé, nígbà mìíràn a óye rẹ̀ pé ẹgbẹ́ wọn ti pè wọ́n padà."
+            },
+            {
+                "heading": "Ìtọ́jú àti Ètò Ìbọ̀rìṣà",
+                "text": "Ìtọ́jú ẹgbẹ́ ọ̀run máa ń ní ẹbọ àti àṣà láti bu ọlá fún àwọn ẹgbẹ́ ọ̀run àti láti dúnàádúrà kí ènìyàn lè wà ní ayé. Àwọn àṣà wọ̀nyí ń fi ìyì fún ìsopọ̀ ẹ̀mí náà nígbà tí wọ́n sì ń fi àlà sílẹ̀ kí ènìyàn lè parí iṣẹ́ àyànmọ́ rẹ̀ láyé."
+            }
+        ],
+        "tags": [
+            "ẹgbẹ́ ẹ̀mí",
+            "ọ̀run",
+            "àyànmọ́",
+            "àìsàn ọmọdé"
+        ],
+        "related": []
+    },
+    {
+        "slug": "opon-ifa",
+        "language": "yo",
+        "term": "Opón Ifá",
+        "pronunciation": "oh-POHN ee-FAH",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ohun Èlò Ìsìn",
+        "thumbnail": "/images/glossary/opon-ifa.jpg",
+        "definition": "Àtẹ mímọ́ tí Babaláwo fi ń ṣe ìwádìí Ifá, níbi tí wọ́n ti ń fi ìyẹ̀rẹ̀ sí, tí wọ́n sì ń kọ àmì odù sí.",
+        "body": [
+            {
+                "heading": "Ìrísí àti Bí a Ṣe Ń Ṣe É",
+                "text": "Wọ́n máa ń gbẹ́ Opón Ifá nínú igi mímọ́, irókò tàbí igi pàtàkì mìíràn. Ó lè jẹ́ róbótó tàbí onígun mẹ́rin, ó sì ní etí gíga ní àyíká. Ojú Èṣù wà ní orí opón nítorí pé Èṣù ni òjíṣẹ́ àwọn òrìṣà. Àwọn àwòrán tó wà lára opón máa ń fi ìmọ̀ àṣà àti ìtàn ìbílẹ̀ hàn."
+            },
+            {
+                "heading": "Iṣẹ́ Rẹ̀ Nínú Dídá Ifá",
+                "text": "Nígbà ìwádìí, Babaláwo máa ń fi ìyẹ̀rọ̀sùn tàbí ìyẹ̀rẹ̀ osùn bo ojú opón náà. Lẹ́yìn náà, ó máa ń kọ àmì odù tó bá farahan láti inú ìwá ikin tàbí jíjù ọ̀pẹ̀lẹ̀. Opón náà di ibi tí ìjùmọ̀ ọ̀run àti ayé ti ń ṣẹlẹ̀, tí a sì lè rí ohun tí Ifá ń sọ."
+            },
+            {
+                "heading": "Ìjìnlẹ̀ Ẹ̀mí Rẹ̀",
+                "text": "Opón Ifá kì í ṣe ohun èlò lásán—ó dúró fún ètò àgbáálá ayé. Ìrísí róbótó rẹ̀ jẹ́ àmì àyíká àìlópin ìwàláàyè. Nígbà dídá Ifá, opón máa ń di ibi ìsinmi àwọn agbára ẹ̀mí. A kò gbọdọ̀ fi opón sílẹ̀ lórí ilẹ̀ láìnítẹ̀, a sì gbọ́dọ̀ máa bọ̀wọ̀ fún un nígbà gbogbo."
+            }
+        ],
+        "tags": [
+            "dídá Ifá",
+            "ohun èlò mímọ́",
+            "Babaláwo",
+            "àṣà ìbílẹ̀"
+        ],
+        "related": []
+    },
+    {
+        "slug": "iyerosun",
+        "language": "yo",
+        "term": "Ìyẹ̀rosùn",
+        "pronunciation": "ee-yeh-ROH-soon",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Àṣà àti Ìsìn",
+        "thumbnail": "/images/glossary/iyerosun.jpg",
+        "definition": "Ìyẹ̀rosùn jẹ́ ìyẹ̀fun mímọ́ tí wọ́n ń fi samì odù lórí ọpọ́n Ifá nígbà tí Babaláwo bá ń da Ifá.",
+        "body": [
+            {
+                "heading": "Ìpilẹ̀ṣẹ̀ àti Ìmúra",
+                "text": "Wọ́n ń gba ìyẹ̀rosùn láti inú igi iròsùn, tí orúkọ rẹ̀ mìíràn jẹ́ osùn. Àwọ̀ pupa díẹ̀ tàbí àwọ̀ iyẹ̀fun rẹ̀ ní ìtumọ̀ jíjinlẹ̀ nínú ẹ̀sìn. A gbọ́dọ̀ ṣe àdúrà tó yẹ kí a tó kó ìyẹ̀rosùn jọ fún iṣẹ́ mímọ́."
+            },
+            {
+                "heading": "Iṣẹ́ Rẹ̀ nínú Dídá Ifá",
+                "text": "Nígbà ìdáfá, Babaláwo máa ń tẹ́ ìyẹ̀rosùn sórí ọpọ́n Ifá, yóò sì fi ìka samì odù tí ó bá jáde. Àwọn àmì wọ̀nyí jẹ́ ìwé mímọ́ tí ń fi ọ̀rọ̀ Ọ̀rúnmìlà hàn. Bí ẹni pé ọpọ́n náà di ibi tí ọ̀rọ̀ ọ̀run ti ń kọ sí ayé."
+            },
+            {
+                "heading": "Ìtumọ̀ Jíjinlẹ̀",
+                "text": "Ìyẹ̀rosùn dúró fún àṣẹ tí a lè rí—ó ń gba àmì òtítọ́ ọ̀run mú. Bí ó ṣe rọrùn láti pa àmì rẹ̀ run fi hàn pé ọgbọ́n tí a bá gba láti ọ̀run jẹ́ ohun tí a gbọ́dọ̀ pa mọ́ dáadáa. Àwọ̀ rẹ̀ ní àjọṣe pẹ̀lú Ọ̀rúnmìlà àti ìmọ́lẹ̀ ojú-inú."
+            }
+        ],
+        "tags": [
+            "ìdáfá",
+            "ohun èlò mímọ́",
+            "iṣẹ́ Ifá",
+            "ọpọ́n Ifá"
+        ],
+        "related": []
+    },
+    {
+        "slug": "ase-irunmole",
+        "language": "yo",
+        "term": "Àṣẹ Irúnmọlẹ̀",
+        "pronunciation": "AH-sheh ee-ROON-moh-leh",
+        "partOfSpeech": "ọ̀rọ̀ orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/ase-irunmole.jpg",
+        "definition": "Agbára àti àṣẹ mímọ́ tí àwọn Irúnmọlẹ̀ ní, àwọn ẹ̀dá ọ̀run àkọ́kọ́ tí wọ́n sọ̀kalẹ̀ láti ọ̀run wá sí ayé láti kópa nínú ìṣẹ̀dá àti ètò ayé.",
+        "body": [
+            {
+                "heading": "Àṣẹ Àwọn Ẹ̀dá Àkọ́kọ́",
+                "text": "Àṣẹ Irúnmọlẹ̀ jẹ́ àpapọ̀ agbára ẹ̀mí tí àwọn aṣojú ọ̀run Olódùmarè àkọ́kọ́ ní. Àwọn ẹ̀dá wọ̀nyí gbé àṣẹ tí ó ti wà ṣáájú ìwàláàyè ènìyàn, wọ́n sì ti gba agbára ìṣẹ̀dá àti ìyípadà láti ìbẹ̀rẹ̀ ìwàláàyè. Àṣẹ wọn ń ṣiṣẹ́ ní ìpele àgbáálá ayé, ó ń darí àwọn ìṣẹ̀lẹ̀ àdánidá, òfin ẹ̀mí, àti àwọn ìlànà pàtàkì tí ó ń mú ayé dúró."
+            },
+            {
+                "heading": "Ìyàtọ̀ Láàárín Àṣẹ Irúnmọlẹ̀ àti Àṣẹ Òrìṣà",
+                "text": "Bó tilẹ̀ jẹ́ pé wọ́n máa ń lo àwọn ọ̀rọ̀ Irúnmọlẹ̀ àti Òrìṣà ní ọ̀nà kan náà nígbà mìíràn, àṣẹ Irúnmọlẹ̀ ni a mọ̀ sí agbára ọ̀run àkọ́kọ́, tí kò ní aláàárín, láti ọwọ́ irínwó ẹ̀dá àkọ́kọ́. Àṣẹ yìí fi ìpìlẹ̀ àti ọ̀nà sílẹ̀ tí gbogbo agbára ẹ̀mí mìíràn ń san kọjá. Àwọn tí wọ́n ń pe Àṣẹ Irúnmọlẹ̀ ń pe agbára àgbáálá ayé ìpìlẹ̀ yìí."
+            },
+            {
+                "heading": "Ìjẹ́pàtàkì Nínú Ìjọsìn",
+                "text": "Nínú ìjọsìn Ifá àti àwọn ìpè, gbígba Àṣẹ Irúnmọlẹ̀ mọ́ ń fi ètò àti ìtòlẹ́sẹẹsẹ ẹ̀mí tó yẹ kalẹ̀. Àwọn àdúrà àti ààtò sábà máa ń bẹ̀rẹ̀ pẹ̀lú bíbọ̀wọ̀ fún àṣẹ àkọ́kọ́ yìí ṣáájú kí wọ́n tó bá Òrìṣà tàbí àwọn baba ńlá sọ̀rọ̀. Ìtòlẹ́sẹẹsẹ yìí ń fi òye àgbáálá ayé hàn pé gbogbo àṣẹ ẹ̀mí ti wá láti ọ̀dọ̀ àwọn agbára ọ̀run àkọ́kọ́ wọ̀nyí, wọ́n sì ṣì so mọ́ wọn."
+            }
+        ],
+        "tags": [
+            "àṣẹ",
+            "Irúnmọlẹ̀",
+            "àṣẹ ọ̀run",
+            "ìṣẹ̀dá",
+            "àwọn ẹ̀dá àkọ́kọ́"
+        ],
+        "related": []
+    },
+    {
+        "slug": "orun-rere",
+        "language": "yo",
+        "term": "Ọ̀run Rere",
+        "pronunciation": "AW-roon REH-reh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Èrọ Pàtàkì",
+        "thumbnail": "/images/glossary/orun-rere.jpg",
+        "definition": "Ọ̀run Rere jẹ́ ibùgbé àwọn tí wọ́n gbé ayé rere, tí wọ́n ṣe iṣẹ́ wọn lórí ilẹ̀ ayé pẹ̀lú ìwà rere, tí wọ́n sì ń bá àwọn baba ńlá àti Olódùmarè gbé ní àlàáfíà.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ Ọ̀run Rere",
+                "text": "Ọ̀run Rere jẹ́ ibi ìsinmi àwọn ẹ̀mí rere tí wọ́n ti parí ìrìn-àjò wọn lórí ilẹ̀ ayé. Ibẹ̀ ni àwọn baba ńlá tí wọ́n jẹ́ onígbàgbọ́ ọlọ́lá ń gbé. Wọ́n ń bá àwọn ọmọ wọn sọ̀rọ̀, wọ́n sì ń ràn wọ́n lọ́wọ́ láti ọ̀run."
+            },
+            {
+                "heading": "Bí A Ṣe Ń Dé Ọ̀run Rere",
+                "text": "Kí ènìyàn lè dé Ọ̀run Rere, ó gbọ́dọ̀ gbé ayé rẹ̀ pẹ̀lú ìwàpẹ̀lẹ̀ àti ìbọ̀wọ̀ fún àṣà àti Òrìṣà. Àwọn ìsìnkú tí àwọn alààyè ṣe fún òkú náà tún ṣe pàtàkì gan-an láti ran ẹ̀mí lọ́wọ́ láti dé ibi àlàáfíà yìí."
+            }
+        ],
+        "tags": [
+            "ọ̀run",
+            "àwọn baba ńlá",
+            "ìwà rere",
+            "ikú"
+        ],
+        "related": []
+    }
+]

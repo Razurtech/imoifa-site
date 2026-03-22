@@ -1,27 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --gold: #C9A84C;
+    --gold-light: #E2C370;
+    --ink-950: #0A0805;
+    --ink-900: #110E07;
+    --ink-800: #1A160D;
+    --ink-700: #241E12;
+    --text-primary: #F5EDD6;
+    --text-secondary: #D6C9A8;
+    --text-muted: #A89A78;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-ink-950 text-parchment font-sans antialiased;
+    background-image:
+      radial-gradient(ellipse at 20% 0%, rgba(201, 168, 76, 0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 100%, rgba(201, 168, 76, 0.04) 0%, transparent 50%);
+    min-height: 100vh;
+  }
+
+  ::selection {
+    background-color: rgba(201, 168, 76, 0.25);
+    color: #F5EDD6;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #110E07;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2E2618;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #C9A84C;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+@layer components {
+  .gold-rule {
+    @apply border-t border-gold/20;
+  }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  .section-label {
+    @apply text-gold text-xs font-mono uppercase tracking-[0.25em] mb-2;
+  }
+
+  .heading-serif {
+    @apply font-serif text-parchment leading-tight;
+  }
+
+  .card-base {
+    @apply bg-ink-800 border border-gold/10 rounded-sm transition-all duration-300;
+  }
+
+  .card-hover {
+    @apply hover:border-gold/30 hover:bg-ink-700 hover:shadow-lg hover:shadow-gold/5;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center gap-2 px-4 py-2 bg-gold text-ink-950 font-sans font-semibold text-sm rounded-sm
+           hover:bg-gold-light transition-colors duration-200;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 px-4 py-2 border border-gold/30 text-gold font-sans font-medium text-sm rounded-sm
+           hover:border-gold hover:bg-gold/5 transition-all duration-200;
+  }
+
+  .input-search {
+    @apply w-full bg-ink-800 border border-gold/20 rounded-sm px-4 py-2.5 text-parchment text-sm
+           placeholder:text-parchment-muted focus:outline-none focus:border-gold/60 focus:ring-1 focus:ring-gold/20
+           transition-all duration-200;
+  }
+
+  .tag-badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-sm text-xs font-mono
+           bg-gold/10 text-gold border border-gold/20 hover:bg-gold/15 transition-colors duration-150;
   }
 }
