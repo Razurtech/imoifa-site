@@ -1,5 +1,5 @@
-import enGlossary from "@/content/en/glossary.json";
-import yoGlossary from "@/content/yo/glossary.json";
+import fs from "fs";
+import path from "path";
 
 export type BodySection = {
     heading: string;
@@ -22,20 +22,27 @@ export type GlossaryEntry = {
 
 export type Locale = "en" | "yo";
 
-const glossaryMap: Record<Locale, GlossaryEntry[]> = {
-    en: enGlossary as GlossaryEntry[],
-    yo: yoGlossary as GlossaryEntry[],
-};
+function loadGlossary(locale: Locale): GlossaryEntry[] {
+    const filePath = path.join(
+        process.cwd(),
+        "src",
+        "content",
+        locale,
+        "glossary.json"
+    );
+    const raw = fs.readFileSync(filePath, "utf-8");
+    return JSON.parse(raw) as GlossaryEntry[];
+}
 
 export function getAllEntries(locale: Locale): GlossaryEntry[] {
-    return glossaryMap[locale] ?? [];
+    return loadGlossary(locale);
 }
 
 export function getEntryBySlug(
     locale: Locale,
     slug: string
 ): GlossaryEntry | undefined {
-    return glossaryMap[locale]?.find((e) => e.slug === slug);
+    return loadGlossary(locale).find((e) => e.slug === slug);
 }
 
 export function getAllTags(locale: Locale): string[] {
