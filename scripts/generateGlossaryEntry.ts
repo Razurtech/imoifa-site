@@ -32,6 +32,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import fs from "fs";
 import path from "path";
+import { execSync } from "child_process";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -280,6 +281,15 @@ async function processTerm(term: string, provider: AIProvider): Promise<void> {
     console.log(`  ✅  Added "${result.en.term}" (${slug}) to en and yo glossaries.`);
 }
 
+function runPublishPipeline(): void {
+    console.log("\n🧪  Running glossary parity check...");
+    execSync("npm run check:glossary", { stdio: "inherit" });
+    console.log("\n🏗️  Building Next.js app...");
+    execSync("npm run build", { stdio: "inherit" });
+    console.log("\n🚢  Rebuilding and starting containers...");
+    execSync("docker compose up -d --build", { stdio: "inherit" });
+}
+
 // ─── CLI Entry Point ──────────────────────────────────────────────────────────
 
 async function main(): Promise<void> {
@@ -308,6 +318,7 @@ async function main(): Promise<void> {
             process.exit(1);
         }
         await processTerm(term, provider);
+        runPublishPipeline();
         return;
     }
 
@@ -325,6 +336,7 @@ async function main(): Promise<void> {
             await processTerm(term, provider);
         }
 
+        runPublishPipeline();
         console.log("\n🏁  Batch complete.");
     }
 }

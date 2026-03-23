@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "check:glossary": "node scripts/checkGlossaryParity.js"
+    "check:glossary": "node scripts/checkGlossaryParity.js",
+    "glossary:add": "tsx scripts/addGlossaryEntry.ts",
+    "glossary:create": "tsx scripts/generateGlossaryEntry.ts --term"
   },
   "dependencies": {
     "next": "14.2.35",
@@ -23,6 +25,7 @@
     "eslint-config-next": "14.2.35",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }
