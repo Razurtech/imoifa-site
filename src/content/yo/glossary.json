@@ -1056,28 +1056,23 @@
         "term": "Orí Inú",
         "pronunciation": "oh-REE ee-NOO",
         "partOfSpeech": "orúkọ",
-        "category": "Àwọn Èrọ Pàtàkì",
+        "category": "Core Concepts",
         "thumbnail": "/images/glossary/ori-inu.jpg",
-        "definition": "Orí inú ni òrìṣà ènìyàn fúnra rẹ̀, ipò ẹ̀mí tí ó mú àyànmọ́ àti ìfẹ́ ọkàn ènìyàn wá sí ayé.",
+        "definition": "Ìmọ̀ àgbà inú ènìyàn tó dá ohun tó ṣe ìpilẹ̀ fún ìgbìmọ̀ dá, ní àwọn ohun ìlera tó ṣe àbáse fún ẹ̀mí tó máa ṣe ìtúmọ̀ orí ènìyàn.",
         "body": [
             {
-                "heading": "Ìjìnlẹ̀ Ẹ̀mí",
-                "text": "Orí inú jẹ́ òrìṣà tí ó sún mọ́ ènìyàn jù gbogbo àwọn Òrìṣà mìíràn lọ. Ó jẹ́ ìbejì ẹ̀mí ti orí òde, ó sì ní àdéhùn tí ènìyàn bá Olódùmarè ṣe nípa iṣẹ́ ayé rẹ̀. Orí inú ń darí ìpinnu ènìyàn, ó sì ń pinnu bóyá àyànmọ́ yóò dára tàbí yóò pàdé ìdènà."
+                "heading": "Ìbárahun Àti Orí Ènìyàn",
+                "text": "Àgbà orí ènìyàn nìyìn àti ohun tó dá àtìsí, ṣùgbọ́n orí inú nìi ẹnu àgbà tó máa ṣìṣẹ́ nínú ara ènìyàn kí ó tó lè máa ṣe iṣẹ́ ti orí naa. Orí inú jẹ ọ̀gbẹ́ ti ìwà tó máa gbé ẹ̀mí nítorí àṣìṣẹ àti àṣìṣẹ ilé ayé. Iyẹn sọ pé àkódì ènìyàn ìyẹn kò ṣe ohun tó dajọ tàbí tó dá ní ìbàmi; kọ́ orí inú ìjáde tí yóó máa ṣe ohun naa dáadáa."
             },
             {
-                "heading": "Àjọṣe Pẹ̀lú Àyànmọ́",
-                "text": "Kí ènìyàn tó wá sí ayé, ọkàn rẹ̀ á yan orí rẹ̀ láti ilé iṣẹ́ Àjàlá, amọ̀kòkò ọ̀run. Yíyàn yìí ló ń pinnu ìwà pàtàkì ènìyàn àti ọ̀nà ìgbésí ayé rẹ̀. Orí tí a yàn dáadáa máa ń mú ìbùkún wá, àmọ́ èyí tí kò dára lè nílò orí bíbọ láti mú ìṣọ̀kan padà."
-            },
-            {
-                "heading": "Ìṣe Ìbọ̀rìṣà",
-                "text": "Orí ń gba ìtọ́jú lọ́pọ̀ ìgbà nípasẹ̀ àdúrà, ẹbọ omi àti àgbọn, àti àṣà pípé. Kò dà bí àwọn òrìṣà ìta, orí wà nítòsí nígbà gbogbo, ó sì máa ń dáhùn sí ẹ̀bẹ̀ olóòótọ́. Òwe Yorùbá náà pé 'Orí la bá bọ, à bá f'Òrìṣà sílẹ̀' fi hàn pé ó ṣe pàtàkì jù fún ènìyàn."
+                "heading": "Ipa Rẹ̀ Nínú Gbogbo Ọjọ́ àti Iwa Ènìyàn",
+                "text": "Orí inú máa ṣàfihàn ènìyàn níṣẹ́ dídá, ní ìwà dáradára, àti ní àìrọ̀dàn orí. Nígbà tí ènìyàn tèlé orí inú wọ́n, wọ́n máa gbé iwa, èsin àti ìbànújẹ́ nínú ìpáilẹ̀ àti ìṣòro. Ìlálá orí inú láti inú ẹjọ́, àdúrá, àti àṣìṣẹ iwa jẹ́ ohun tó ní ìṣẹ́ púpọ̀ nínú ìgbéèká àti ìlọ́ìnú ènìyàn nínú òǹko Yorùbá."
             }
         ],
         "tags": [
-            "àyànmọ́",
-            "ẹ̀mí",
-            "ìgbàgbọ́ Yorùbá",
-            "òrìṣà ènìyàn"
+            "destiny",
+            "consciousness",
+            "wisdom"
         ],
         "related": []
     },

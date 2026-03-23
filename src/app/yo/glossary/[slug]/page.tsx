@@ -13,12 +13,23 @@ import TagBadge from "@/components/TagBadge";
 type Props = { params: { slug: string } };
 
 export async function generateStaticParams() {
-    return getAllEntries("yo").map((e) => ({ slug: e.slug }));
+    const yoEntries = getAllEntries("yo");
+    const enEntries = getAllEntries("en");
+
+    const slugs = Array.from(
+        new Set([...yoEntries.map((e) => e.slug), ...enEntries.map((e) => e.slug)])
+    );
+
+    return slugs.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-    const entry = getEntryBySlug("yo", params.slug);
+    const yoEntry = getEntryBySlug("yo", params.slug);
+    const enEntry = getEntryBySlug("en", params.slug);
+    const entry = yoEntry ?? enEntry;
+
     if (!entry) return { title: "Not Found" };
+
     return {
         title: `${entry.term} — Imoifa`,
         description: entry.definition,
@@ -26,23 +37,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default function YoGlossarySlugPage({ params }: Props) {
-    const entry = getEntryBySlug("yo", params.slug);
+    const yoEntry = getEntryBySlug("yo", params.slug);
+    const enEntry = getEntryBySlug("en", params.slug);
+    const entry = yoEntry ?? enEntry;
+
     if (!entry) notFound();
 
-    const enEntry = getEntryBySlug("en", params.slug);
-    const relatedEntries = getRelatedEntries("yo", entry.related ?? []);
+    const isFallback = !yoEntry && !!enEntry;
+    const relatedEntries = getRelatedEntries(yoEntry ? "yo" : "en", entry.related ?? []);
     const readingTime = getReadingTime(entry);
 
     return (
         <div className="max-w-4xl mx-auto px-6 py-12">
-            {/* Language badge */}
             <div className="mb-6">
                 <span className="text-xs text-gold/60 font-mono uppercase tracking-widest border border-gold/20 px-2.5 py-1 rounded-sm">
                     Yorùbá
                 </span>
             </div>
 
-            {/* Breadcrumb */}
             <nav className="mb-10 text-xs font-mono text-parchment-muted flex items-center gap-2 flex-wrap">
                 <Link href="/yo" className="hover:text-parchment transition-colors">Ilé</Link>
                 <span className="text-gold/30">/</span>
@@ -51,7 +63,17 @@ export default function YoGlossarySlugPage({ params }: Props) {
                 <span className="text-parchment">{entry.term}</span>
             </nav>
 
-            {/* Hero thumbnail */}
+            {isFallback && (
+                <div className="mb-8 p-4 border border-gold/20 bg-gradient-to-r from-gold/5 to-transparent rounded-sm">
+                    <p className="text-gold text-xs font-mono uppercase tracking-widest mb-1">
+                        Yorùbá Version Coming Soon
+                    </p>
+                    <p className="text-parchment-dim text-sm">
+                        This entry is not yet available in Yorùbá. Showing the English reference for now.
+                    </p>
+                </div>
+            )}
+
             {entry.thumbnail ? (
                 <div className="relative w-full h-56 md:h-72 rounded-sm overflow-hidden mb-10 bg-ink-800">
                     <Image
@@ -64,11 +86,9 @@ export default function YoGlossarySlugPage({ params }: Props) {
                     <div className="absolute inset-0 bg-gradient-to-t from-ink-950 via-ink-950/40 to-transparent" />
                 </div>
             ) : (
-                /* Decorative accent bar when no thumbnail */
                 <div className="w-full h-1 bg-gradient-to-r from-gold/40 via-gold/20 to-transparent rounded-full mb-10" />
             )}
 
-            {/* Article header */}
             <header className="mb-8">
                 <div className="flex items-center gap-3 mb-4 flex-wrap">
                     {entry.category && (
@@ -97,7 +117,6 @@ export default function YoGlossarySlugPage({ params }: Props) {
 
             <div className="gold-rule mb-10" />
 
-            {/* Definition */}
             <section className="mb-12">
                 <p className="section-label">Ìtumọ̀</p>
                 <p className="text-parchment text-xl leading-relaxed font-light">
@@ -105,7 +124,6 @@ export default function YoGlossarySlugPage({ params }: Props) {
                 </p>
             </section>
 
-            {/* Body — structured article sections */}
             {entry.body && entry.body.length > 0 && (
                 <section className="mb-12 space-y-10">
                     {entry.body.map((section, i) => (
@@ -124,7 +142,6 @@ export default function YoGlossarySlugPage({ params }: Props) {
                 </section>
             )}
 
-            {/* Tags */}
             {entry.tags.length > 0 && (
                 <section className="mb-10 pt-8 border-t border-gold/10">
                     <p className="section-label mb-3">Àwọn Àmì</p>
@@ -136,7 +153,6 @@ export default function YoGlossarySlugPage({ params }: Props) {
                 </section>
             )}
 
-            {/* Related Terms */}
             {relatedEntries.length > 0 && (
                 <section className="mb-10">
                     <p className="section-label mb-4">Àwọn Ọ̀rọ̀ Tó Ní Í Ṣe</p>
@@ -145,7 +161,7 @@ export default function YoGlossarySlugPage({ params }: Props) {
                             const href =
                                 relLocale === "yo"
                                     ? `/yo/glossary/${rel.slug}`
-                                    : `/glossary/${rel.slug}`;
+                                    : `/en/glossary/${rel.slug}`;
                             return (
                                 <Link
                                     key={rel.slug}
@@ -175,7 +191,6 @@ export default function YoGlossarySlugPage({ params }: Props) {
                 </section>
             )}
 
-            {/* Cross-language banner */}
             {enEntry && (
                 <div className="mt-12 p-5 border border-gold/20 bg-gradient-to-r from-gold/5 to-transparent rounded-sm flex items-start justify-between gap-4 flex-wrap">
                     <div className="flex-1 min-w-0">
@@ -185,13 +200,12 @@ export default function YoGlossarySlugPage({ params }: Props) {
                         <p className="text-parchment font-serif text-lg mb-0.5">{enEntry.term}</p>
                         <p className="text-parchment-dim text-sm line-clamp-2">{enEntry.definition}</p>
                     </div>
-                    <Link href={`/glossary/${entry.slug}`} className="btn-ghost shrink-0 self-center">
+                    <Link href={`/en/glossary/${entry.slug}`} className="btn-ghost shrink-0 self-center">
                         Read in English →
                     </Link>
                 </div>
             )}
 
-            {/* Back */}
             <div className="mt-12 pt-8 border-t border-gold/10">
                 <Link href="/yo/glossary" className="text-parchment-muted text-sm font-mono hover:text-parchment transition-colors">
                     ← Padà sí Àkójọ Ọ̀rọ̀

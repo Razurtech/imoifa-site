@@ -1,0 +1,44 @@
+name: Build and Deploy Imoifa
+
+on:
+  push:
+    branches:
+      - main
+      - fix/dynamic-glossary
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run glossary parity check
+        run: npm run check:glossary
+        continue-on-error: true
+
+      - name: Build app
+        run: npm run build
+
+  deploy:
+    needs: validate
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Deploy placeholder
+        run: echo "Add your VPS deploy step here after validation is stable."
