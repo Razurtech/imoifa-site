@@ -1464,5 +1464,133 @@
       "morality"
     ],
     "related": []
+  },
+  {
+    "slug": "aje",
+    "language": "en",
+    "term": "Àjẹ́",
+    "pronunciation": "ah-JEH",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/aje.jpg",
+    "definition": "Àjẹ́ refers to a powerful spiritual force associated with feminine mystical power, often translated as 'witch' but more accurately understood as women who possess extraordinary metaphysical abilities granted by Ìyàmi Òṣòròngà.",
+    "body": [
+      {
+        "heading": "Spiritual Significance",
+        "text": "Àjẹ́ represents one of the most potent and misunderstood spiritual forces in Yorùbá cosmology. Rather than the Western concept of witchcraft, àjẹ́ denotes an innate spiritual power that certain women possess, enabling them to operate between the visible and invisible realms. This power is neither inherently malevolent nor benevolent but reflects the moral orientation of its bearer."
+      },
+      {
+        "heading": "Connection to Ìyàmi",
+        "text": "The àjẹ́ are intimately connected to Ìyàmi Òṣòròngà, the primordial cosmic mothers who embody feminine àṣẹ. Initiation into this mystery often occurs through lineage, dreams, or direct spiritual encounter. In Ifá, the àjẹ́ are acknowledged as 'àwọn ìyá wa' (our mothers), whose power must be respected and propitiated for balance in the world."
+      },
+      {
+        "heading": "Cultural Context",
+        "text": "Colonial and missionary influences distorted the understanding of àjẹ́, conflating it with European notions of diabolical witchcraft. Traditional Yorùbá society, however, recognized the àjẹ́ as necessary cosmic agents whose power sustains and regulates the social and spiritual order. Babaláwo and other practitioners maintain protocols for honoring these forces."
+      }
+    ],
+    "tags": [
+      "feminine power",
+      "Ìyàmi",
+      "spiritual forces",
+      "Yorùbá cosmology",
+      "mystical power"
+    ],
+    "related": []
+  },
+  {
+    "slug": "aroko",
+    "language": "en",
+    "term": "Aroko",
+    "pronunciation": "ah-ROH-koh",
+    "partOfSpeech": "noun",
+    "category": "Core Concepts",
+    "thumbnail": "/images/glossary/aroko.jpg",
+    "definition": "A traditional Yorùbá system of symbolic communication using physical objects arranged or sent to convey specific messages, functioning as a form of non-verbal language.",
+    "body": [
+      {
+        "heading": "Communication Through Objects",
+        "text": "Aroko represents an indigenous Yorùbá method of encoding meaning within tangible items such as cowrie shells, feathers, kola nuts, peppers, or palm fronds. The selection, combination, and arrangement of these objects carry precise semantic content understood within the cultural context. This system allowed complex messages to be transmitted across distances or preserved for later interpretation."
+      },
+      {
+        "heading": "Cultural and Practical Applications",
+        "text": "Historically, aroko served diplomatic, romantic, commercial, and ceremonial purposes. A suitor might send particular items to communicate intentions to a beloved's family, while leaders could dispatch symbolic objects to convey warnings or peace offerings. The practice demonstrates the sophisticated semiotic systems developed within Yorùbá society independent of alphabetic writing."
+      },
+      {
+        "heading": "Relationship to Ifá",
+        "text": "Within Ifá tradition, the principle of aroko extends to divinatory practice, where the configuration of palm nuts, opele chain, or sacred objects communicates messages from Òrúnmìlà. The babalawo interprets these material signs just as one would decode an aroko message, revealing the deep integration of symbolic communication throughout Yorùbá spiritual and social life."
+      }
+    ],
+    "tags": [
+      "communication",
+      "symbolism",
+      "tradition",
+      "semiotics",
+      "messaging"
+    ],
+    "related": []
+  },
+  {
+    "slug": "ayan",
+    "language": "en",
+    "term": "Àyàn",
+    "pronunciation": "AH-yahn",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/ayan.jpg",
+    "definition": "Àyàn is the òrìṣà of drums and drumming, the divine patron of musicians who transmits sacred rhythms and enables communication between humans and the spiritual realm through percussive sound.",
+    "body": [
+      {
+        "heading": "Divine Origin of Drumming",
+        "text": "Àyàn is believed to inhabit the wood from which sacred drums are carved, particularly the àyàn tree (Distemonanthus benthamianus), which bears his name. When a drummer plays, Àyàn speaks through the instrument, transforming carved wood and stretched skin into a vessel for divine expression. This òrìṣà is inseparable from the technology of the drum itself."
+      },
+      {
+        "heading": "The Àyàn Lineage",
+        "text": "Families who carry the Àyàn tradition are hereditary drummers, bearing names such as Àyàndé, Àyànlọlá, or Àyàntúndé. These lineages maintain specialized knowledge of sacred rhythms, drum construction, and the oral poetry (oríkì) that praises both the deity and those summoned by drumming. The talking drum (dùndún) is particularly associated with Àyàn's power to replicate tonal speech."
+      },
+      {
+        "heading": "Ritual Function",
+        "text": "In Yorùbá religious practice, drums do not merely accompany ceremonies—they actively invoke the òrìṣà, guide possession, and regulate liturgical time. Àyàn's presence ensures that rhythm serves as a bridge between àiyé (the visible world) and ọ̀run (the spiritual realm). Without proper acknowledgment of Àyàn, sacred drumming loses its efficacy."
+      }
+    ],
+    "tags": [
+      "òrìṣà",
+      "drumming",
+      "dùndún",
+      "music",
+      "ritual"
+    ],
+    "related": []
+  },
+  {
+    "slug": "irunmole",
+    "language": "en",
+    "term": "Irúnmọlẹ̀",
+    "pronunciation": "ee-ROON-maw-leh",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/irunmole.jpg",
+    "definition": "The primordial divine beings who descended from Ọ̀run (heaven) to establish life and order on earth, considered the original spiritual forces created by Olódùmarè before the existence of the Òrìṣà.",
+    "body": [
+      {
+        "heading": "Cosmological Origin",
+        "text": "The Irúnmọlẹ̀ are understood as the four hundred and one (or in some traditions, four hundred plus one innumerable) celestial entities who participated in the creation and organization of the physical world. They preceded human existence and were directly fashioned by Olódùmarè to carry out divine will. Their descent to Ilé-Ayé (earth) marked the beginning of spiritual interaction with the material realm."
+      },
+      {
+        "heading": "Distinction from Òrìṣà",
+        "text": "While the terms Irúnmọlẹ̀ and Òrìṣà are sometimes used interchangeably in contemporary practice, traditional theology draws an important distinction. Irúnmọlẹ̀ refers specifically to the primordial spirits of heavenly origin, whereas Òrìṣà can include deified ancestors and humans who achieved divine status through extraordinary deeds. This distinction preserves the understanding of different orders of sacred beings within Yorùbá metaphysics."
+      },
+      {
+        "heading": "Role in Ifá Practice",
+        "text": "Within Ifá tradition, the Irúnmọlẹ̀ are invoked as witnesses and spiritual authorities whose àṣẹ (power) predates and underlies all earthly manifestations. Babaláwo acknowledge their primacy in prayers and rituals, recognizing them as the architects of cosmic law. Their narratives appear throughout the Odù Ifá, providing foundational teachings about the nature of existence."
+      }
+    ],
+    "tags": [
+      "primordial beings",
+      "cosmology",
+      "divine spirits",
+      "creation",
+      "Olódùmarè"
+    ],
+    "related": []
   }
 ]
