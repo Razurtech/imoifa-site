@@ -1567,5 +1567,36 @@
             "àṣẹ"
         ],
         "related": []
+    },
+    {
+        "slug": "obaluaye",
+        "language": "yo",
+        "term": "Obalúayé",
+        "pronunciation": "oh-bah-LOO-ah-yeh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Òrìṣà àti Ẹ̀mí",
+        "thumbnail": "/images/glossary/obaluaye.jpg",
+        "definition": "Obalúayé, tí orúkọ rẹ̀ túmọ̀ sí 'Ọba Tó Ní Ayé,' jẹ́ Òrìṣà àrùn àkóràn, ìwòsàn, àti agbára ìyípadà tí àìsàn ń mú wá. Ó ń ṣàkóso àjàkálẹ̀ àrùn àti ààlà láàárín àìsàn àti ìmúlàradà.",
+        "body": [
+            {
+                "heading": "Agbára àti Àmì Rẹ̀",
+                "text": "Obalúayé ló ní agbára lórí ṣànpọ́nná, àjàkálẹ̀ àrùn, àti gbogbo àìsàn tó ń tàn kálẹ̀. Agbára rẹ̀ lè pa run, ṣùgbọ́n ó tún lè mú ènìyàn láradá. Wọ́n so ó pọ̀ mọ́ ilẹ̀ gbígbóná, ìjọsìn rẹ̀ sì nílò ọ̀wọ̀ àti ẹbọ tó péye."
+            },
+            {
+                "heading": "Àwòrán àti Ìjọsìn",
+                "text": "Àwọn olùjọsìn mọ Obalúayé nípasẹ̀ àṣọ ìkò, aṣọ ìko tí ó fi ara rẹ̀ pamọ́, tí wọ́n sọ pé ó ń bo àmì àìsàn mímọ́ lára rẹ̀. Ẹbọ sí i pẹ̀lú guguru (dàndà), èwà, àti epo pupa. Ìjọsìn máa ń gbòòrò sí i nígbà àjàkálẹ̀ àrùn tàbí nígbà tí àwùjọ bá ń wá àbò."
+            },
+            {
+                "heading": "Àjọṣe pẹ̀lú Babalúaiyé",
+                "text": "Obalúayé àti Babalúaiyé, ọ̀pọ̀ ìgbà ni wọ́n gbà pé ọ̀kan náà ni wọ́n tàbí wọ́n jọra gan-an. Obalúayé tẹnu mọ́ ipò rẹ̀ gẹ́gẹ́ bí Ọba ilẹ̀ ayé, nígbà tí Babalúaiyé ('Baba, Olúwa Ilẹ̀') fi ìṣe baba àti olùdáàbò bò hàn. Àṣà àdúgbò àti ẹ̀yà ìjọsìn ní ilẹ̀ òkèèrè lè yà wọ́n sọ́tọ̀ tàbí so wọ́n pọ̀."
+            }
+        ],
+        "tags": [
+            "Òrìṣà",
+            "àrùn",
+            "ìwòsàn",
+            "ilẹ̀"
+        ],
+        "related": []
     }
 ]
