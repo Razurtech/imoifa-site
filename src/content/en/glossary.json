@@ -1623,5 +1623,65 @@
       "earth"
     ],
     "related": []
+  },
+  {
+    "slug": "oduduwa",
+    "language": "en",
+    "term": "Odùduwà",
+    "pronunciation": "oh-doo-doo-WAH",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/oduduwa.jpg",
+    "definition": "Odùduwà is the primordial Òrìṣà associated with the creation of the earth and the founding ancestor of the Yorùbá people, revered as the first divine king of Ilé-Ifẹ̀.",
+    "body": [
+      {
+        "heading": "Cosmological Role",
+        "text": "In Yorùbá creation narratives, Odùduwà descended from the heavens carrying sacred implements—including soil, a palm nut, and a five-toed fowl—to establish dry land upon the primordial waters. This act of creation centered at Ilé-Ifẹ̀ marks him as the earth deity complementary to Ọbàtálá, who shaped human forms. Some traditions describe Odùduwà as male, others as female, reflecting the deity's association with the foundational, maternal aspects of earthly existence."
+      },
+      {
+        "heading": "Historical and Political Significance",
+        "text": "Odùduwà serves as the mythic progenitor from whom all Yorùbá crowned rulers trace their legitimacy. The sixteen original kingdoms are said to have been founded by his children and grandchildren, establishing Ilé-Ifẹ̀ as the spiritual capital of Yorùbá civilization. The Oòni of Ifẹ̀ maintains direct ritual succession from Odùduwà, and annual festivals honor his memory as both deity and ancestor."
+      },
+      {
+        "heading": "Veneration Practices",
+        "text": "Devotion to Odùduwà involves offerings of white substances, cool water, and prayers for stability, prosperity, and ancestral connection. His worship intersects with the Ogbóni society, which guards earth-based mysteries. In diaspora communities, Odùduwà remains central to discussions of Yorùbá identity, cultural continuity, and the sacred relationship between humanity and the land."
+      }
+    ],
+    "tags": [
+      "Òrìṣà",
+      "creation",
+      "Ilé-Ifẹ̀",
+      "ancestry",
+      "kingship"
+    ],
+    "related": []
+  },
+  {
+    "slug": "olukoso",
+    "language": "en",
+    "term": "Olúkòso",
+    "pronunciation": "oh-LOO-koh-soh",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/olukoso.jpg",
+    "definition": "A praise name for Ṣàngó meaning 'Lord of Kòso,' referring to the town of Kòso where he is said to have ascended to the heavens and became deified as the Òrìṣà of thunder and lightning.",
+    "body": [
+      {
+        "heading": "Etymology and Significance",
+        "text": "The name Olúkòso derives from 'Olú' (lord, master) and 'Kòso,' the ancient town in present-day Oyo State, Nigeria. Kòso holds profound spiritual significance as the site where Ṣàngó, the fourth Aláàfin of Ọ̀yọ́, is believed to have departed the earthly realm. This epithet emphasizes his royal authority and his transformation from historical king to cosmic force."
+      },
+      {
+        "heading": "Connection to Ṣàngó's Legacy",
+        "text": "As Olúkòso, Ṣàngó embodies the power of righteous justice, the destructive force of lightning, and the commanding presence of thunder. Devotees invoke this name during ceremonies to honor his sovereignty and to call upon his protective and purifying energies. The title reminds practitioners that Ṣàngó's power transcends mortality, having been established through his mystical ascension at Kòso."
+      }
+    ],
+    "tags": [
+      "Ṣàngó",
+      "oriki",
+      "Òrìṣà",
+      "thunder",
+      "Ọ̀yọ́ Empire"
+    ],
+    "related": []
   }
 ]
