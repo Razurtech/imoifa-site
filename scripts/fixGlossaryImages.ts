@@ -36,7 +36,7 @@ for (const slugs of Object.values(hashMap)) {
 }
 
 // combine targets
-const targets = [...new Set([...missing, ...duplicates])];
+const targets = Array.from(new Set([...missing, ...duplicates]));
 
 console.log(`\n🔥 Regenerating ${targets.length} images...\n`);
 
