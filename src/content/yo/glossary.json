@@ -1658,5 +1658,37 @@
             "Ìjọba Ọ̀yọ́"
         ],
         "related": []
+    },
+    {
+        "slug": "osugbo",
+        "language": "yo",
+        "term": "Ọ̀ṣùgbó",
+        "pronunciation": "aw-SHOOG-boh",
+        "partOfSpeech": "orúkọ",
+        "category": "Àwọn Ipò àti Ìṣe",
+        "thumbnail": "/images/glossary/osugbo.jpg",
+        "definition": "Ẹgbẹ́ aṣírí alágbára kan láàárín àwọn Ìjẹ̀bú àti àwọn ẹ̀yà Yorùbá mìíràn tí ó ń ṣiṣẹ́ gẹ́gẹ́ bí ìgbìmọ̀ ìdájọ́ àti aṣòfin ìbílẹ̀, tí ó sì ní agbára ìṣèlú àti ti ẹ̀mí.",
+        "body": [
+            {
+                "heading": "Iṣẹ́ Ìṣèlú àti Ìdájọ́",
+                "text": "Ọ̀ṣùgbó ń ṣiṣẹ́ gẹ́gẹ́ bí ìgbìmọ̀ àwọn àgbà oníṣẹ̀ tí wọ́n ń dájọ́ ẹjọ́, tí wọ́n sì ń mú àṣà òfin ṣẹ. Ní ìgbà àtijọ́, agbára ẹgbẹ́ náà pọ̀ ju ti ọba lọ, ó sì ń ṣàkóso lórí àṣẹ ọba. Ìdájọ́ wọn jẹ́ ohun tó kẹ́yìn, ó sì gbé ìwọ̀n òfin àti ti ẹ̀mí."
+            },
+            {
+                "heading": "Ọmọ Ẹgbẹ́ àti Ipò",
+                "text": "Wíwọlé sí Ọ̀ṣùgbó nílò ìbẹ̀rẹ̀ àti sísanwó púpọ̀, èyí tó mú kí àwọn ènìyàn tó ní owó àti ipò nìkan lè wọlé. Ẹgbẹ́ náà ní ètò ipò tó le gan-an pẹ̀lú oríṣiríṣi ìpele, olúkúlùkù sì ní àǹfààní àti ojúṣe tirẹ̀. Àwọn ọmọ ẹgbẹ́ búra láti pa àṣírí ẹgbẹ́ náà mọ́."
+            },
+            {
+                "heading": "Ipá Ẹ̀mí",
+                "text": "Yàtọ̀ sí iṣẹ́ ìlú, Ọ̀ṣùgbó ní agbára ẹ̀mí tó jinlẹ̀ tó so mọ́ àwọn baba ńlá àti òrìṣà ilẹ̀. Agbára ẹgbẹ́ náà wá láti ìsopọ̀ rẹ̀ pẹ̀lú Ilẹ̀, ilẹ̀ mímọ́, àti agbára rẹ̀ láti pe ìyà ẹ̀mí sórí àwọn tó bá ru òfin àdúgbò jẹ́. Agbára méjì yìí mú Ọ̀ṣùgbó ṣe pàtàkì fún ìtọ́jú ètò àwùjọ."
+            }
+        ],
+        "tags": [
+            "ẹgbẹ́ aṣírí",
+            "Ìjẹ̀bú",
+            "ìjọba ìbílẹ̀",
+            "ìdájọ́",
+            "àṣà ìbílẹ̀"
+        ],
+        "related": []
     }
 ]

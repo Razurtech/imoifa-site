@@ -1683,5 +1683,37 @@
       "Ọ̀yọ́ Empire"
     ],
     "related": []
+  },
+  {
+    "slug": "osugbo",
+    "language": "en",
+    "term": "Ọ̀ṣùgbó",
+    "pronunciation": "aw-SHOOG-boh",
+    "partOfSpeech": "noun",
+    "category": "Roles & Practice",
+    "thumbnail": "/images/glossary/osugbo.jpg",
+    "definition": "A powerful secret society among the Ìjẹ̀bú and other Yorùbá subgroups that serves as a traditional judicial and legislative body, wielding significant political and spiritual authority.",
+    "body": [
+      {
+        "heading": "Political and Judicial Function",
+        "text": "Ọ̀ṣùgbó operates as a council of titled elders who adjudicate disputes, enforce customary laws, and make binding decisions affecting the community. The society historically held power even over kings, serving as a check on monarchical authority. Its judgments were considered final and carried both legal and spiritual weight."
+      },
+      {
+        "heading": "Membership and Hierarchy",
+        "text": "Admission into Ọ̀ṣùgbó requires initiation and payment of substantial fees, limiting membership to individuals of means and influence. The society maintains a strict internal hierarchy with various grades of membership, each carrying distinct privileges and responsibilities. Members are bound by oaths of secrecy regarding the society's inner workings and sacred rituals."
+      },
+      {
+        "heading": "Spiritual Dimensions",
+        "text": "Beyond its civic functions, Ọ̀ṣùgbó possesses profound spiritual authority connected to ancestral forces and earth deities. The society's power is believed to derive from its connection to Ilẹ̀, the sacred earth, and its ability to invoke spiritual sanctions against those who violate community norms. This dual authority made Ọ̀ṣùgbó an essential institution for maintaining social order."
+      }
+    ],
+    "tags": [
+      "secret society",
+      "Ìjẹ̀bú",
+      "governance",
+      "judicial authority",
+      "traditional institution"
+    ],
+    "related": []
   }
 ]
