@@ -1690,5 +1690,32 @@
             "àṣà ìbílẹ̀"
         ],
         "related": []
+    },
+    {
+        "slug": "akalamagbo",
+        "language": "yo",
+        "term": "Àkàlàmàgbò",
+        "pronunciation": "ah-KAH-lah-MAH-gboh",
+        "partOfSpeech": "orúkọ",
+        "category": "Òrìṣà àti Ẹ̀mí",
+        "thumbnail": "/images/glossary/akalamagbo.jpg",
+        "definition": "Ẹyẹ mímọ́ nínú àṣà Yorùbá tí ó ní ìbátan pẹ̀lú ọgbọ́n àwọn baba ńlá, díídá, àti agbára ẹ̀mí Ifá. Ó jẹ́ oníṣẹ́ láàárín ayé àti ọ̀run.",
+        "body": [
+            {
+                "heading": "Ìjẹ́pàtàkì Ẹ̀mí",
+                "text": "Àkàlàmàgbò ní ipò gíga nínú àṣà Ifá gẹ́gẹ́ bí ẹ̀dá tí ó fi ọgbọ́n àtijọ́ àti agbára àrà hàn. Ohùn rẹ̀ ní kùtùkùtù òwúrọ̀ jẹ́ àmì àsọtẹ́lẹ̀, bẹ́ẹ̀ sì ni wíwà rẹ̀ máa ń jẹ́ àmì tí ó nílò ìdáfá. Àwọ̀ dúdú rẹ̀ àti ìwà rẹ̀ so ó pọ̀ mọ́ àṣírí àwọn baba ńlá àti ìmọ̀ jíjìn."
+            },
+            {
+                "heading": "Ipò Nínú Ìṣe Àṣà",
+                "text": "Nínú àwọn ayẹyẹ, ìyẹ́ Àkàlàmàgbò àti àpẹẹrẹ rẹ̀ wà ní ojúbọ Ifá àti ti àwọn baba ńlá. Ẹyẹ náà ní ìbátan pẹ̀lú àjé, ó sì jẹ́ èwọ̀ láti pa á nínú ọ̀pọ̀lọpọ̀ àwùjọ Yorùbá. Àwòrán rẹ̀ ń pè àbò àti ìtọ́sọ́nà àwọn baba ńlá wá nígbà ìdáfá àti iṣẹ́ ẹ̀mí pàtàkì."
+            }
+        ],
+        "tags": [
+            "ẹyẹ mímọ́",
+            "Ifá",
+            "àwọn baba ńlá",
+            "ìdáfá"
+        ],
+        "related": []
     }
 ]

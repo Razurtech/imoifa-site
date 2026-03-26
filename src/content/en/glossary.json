@@ -1715,5 +1715,33 @@
       "traditional institution"
     ],
     "related": []
+  },
+  {
+    "slug": "akalamagbo",
+    "language": "en",
+    "term": "Àkàlàmàgbò",
+    "pronunciation": "ah-KAH-lah-MAH-gboh",
+    "partOfSpeech": "noun",
+    "category": "Deities & Spirits",
+    "thumbnail": "/images/glossary/akalamagbo.jpg",
+    "definition": "The Ground Hornbill, a sacred bird in Yorùbá cosmology associated with ancestral wisdom, divination, and the spiritual power of Ifá. It is revered as a messenger between the earthly and spiritual realms.",
+    "body": [
+      {
+        "heading": "Spiritual Significance",
+        "text": "The Àkàlàmàgbò holds profound importance in Ifá tradition as a creature embodying ancient wisdom and mystical authority. Its distinctive call at dawn is believed to carry prophetic messages, and its presence is often interpreted as an omen requiring careful divination. The bird's dark plumage and solemn demeanor connect it symbolically to the mysteries of the ancestors and the depths of esoteric knowledge."
+      },
+      {
+        "heading": "Role in Ritual Practice",
+        "text": "In ceremonial contexts, Àkàlàmàgbò feathers and symbolic representations appear in shrines dedicated to Ifá and the ancestors. The bird is associated with the àjé (mystical women of power) and is considered taboo to harm in many Yorùbá communities. Its image invokes protection and the channeling of ancestral guidance during divination sessions and important spiritual undertakings."
+      }
+    ],
+    "tags": [
+      "sacred animals",
+      "Ifá",
+      "ancestors",
+      "divination",
+      "omens"
+    ],
+    "related": []
   }
 ]
