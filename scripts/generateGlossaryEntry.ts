@@ -287,7 +287,7 @@ function runPublishPipeline(): void {
     console.log("\n🏗️  Building Next.js app...");
     execSync("npm run build", { stdio: "inherit" });
     console.log("\n🚢  Rebuilding and starting containers...");
-    execSync("docker compose up -d --build", { stdio: "inherit" });
+//    execSync("docker compose up -d --build", { stdio: "inherit" });
 }
 
 // ─── CLI Entry Point ──────────────────────────────────────────────────────────
