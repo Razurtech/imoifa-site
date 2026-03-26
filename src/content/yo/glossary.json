@@ -1717,5 +1717,36 @@
             "ìdáfá"
         ],
         "related": []
+    },
+    {
+        "slug": "ose-sango",
+        "language": "yo",
+        "term": "Òṣé Ṣàngó",
+        "pronunciation": "OH-sheh SHAHN-goh",
+        "partOfSpeech": "orúkọ",
+        "category": "Ààtò àti Ìsìn",
+        "thumbnail": "/images/glossary/ose-sango.jpg",
+        "definition": "Àáké méjì tí ó jẹ́ àmì mímọ́ ti Ṣàngó, Òrìṣà àrá àti mànàmáná, tí ó fi agbára rẹ̀ hàn láti ṣe ìdájọ́ àti láti jọba lórí iná àti ìjì.",
+        "body": [
+            {
+                "heading": "Ìtumọ̀ Àmì",
+                "text": "Òṣé Ṣàngó ní ojú méjì tí ó dúró fún edun àrá tí wọ́n gbàgbọ́ pé ó máa ń ṣubú látòkè ọ̀run nígbàtí mànàmáná bá san. Ìdọ́gba ojú méjì náà fi ìwọ̀ntúnwọ̀nsì hàn àti ìṣẹ̀dá àti ìparun tí ó wà nínú agbára Ṣàngó. Àwọn olùsìn mọ̀ pé ohun èlò yìí ni ara àṣẹ tí ó ń gba ọ̀nà àrá."
+            },
+            {
+                "heading": "Ìlò nínú Ìsìn",
+                "text": "Àwọn Olórìṣà Ṣàngó máa ń gbé Òṣé nígbà àjọ̀dún àti nígbà tí Ṣàngó bá gùn wọ́n. Wọ́n máa ń fi igi ṣe é, wọ́n sì máa ń fi owó eyo, àti ilẹ̀kẹ̀ aláwọ̀ pupa àti funfun ṣe é lọ́ṣọ̀ọ́. Ó jẹ́ ohun èlò ìsìn àti ọ̀nà láti mú wíwà Ṣàngó wá nígbà ìjọsìn."
+            },
+            {
+                "heading": "Àṣà àti Ìtàn",
+                "text": "Gẹ́gẹ́ bí àmì aṣẹ ọba nílẹ̀ Yorùbá, Òṣé Ṣàngó so mọ́ ìtàn Ṣàngó gẹ́gẹ́ bí Aláàfin Ọ̀yọ́ ẹlẹ́ẹ̀kẹrin. Àáké àrá yìí tẹnu mọ́ ọrọ̀ oyè ọba, ìdájọ́ òdodo, àti ìyà tí ó dúró de àwọn tí ń purọ́. Ní ilẹ̀ òkèèrè, àmì yìí ṣì jẹ́ pàtàkì nínú Candomblé, Santería, àti àwọn ìsìn mìíràn."
+            }
+        ],
+        "tags": [
+            "Ṣàngó",
+            "ohun èlò ìsìn",
+            "àmì Òrìṣà",
+            "àrá"
+        ],
+        "related": []
     }
 ]
