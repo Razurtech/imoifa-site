@@ -39,6 +39,10 @@ function getEntry(slug: string): GlossaryEntry {
 }
 
 function buildPrompt(entry: GlossaryEntry): string {
+  const slug = entry.slug.toLowerCase();
+  const category = (entry.category || "").toLowerCase();
+  const tags = (entry.tags || []).map((t) => t.toLowerCase());
+
   const context = [
     `Term: ${entry.term}`,
     entry.category ? `Category: ${entry.category}` : "",
@@ -49,21 +53,85 @@ function buildPrompt(entry: GlossaryEntry): string {
     .filter(Boolean)
     .join("\n");
 
-  return `
-Create a square editorial thumbnail for the Yoruba/Ifá glossary term "${entry.term}".
+  let visualDirection =
+    `Create a square editorial image for a serious Yoruba / Ifá cultural glossary archive.`;
 
-Requirements:
-- culturally respectful
-- symbolic, refined, archival, atmospheric
-- no text, no letters, no captions
-- not cartoonish
-- not a generic stock icon
-- visually distinct from other glossary entries
-- clean composition suitable for a premium cultural knowledge archive
-- 1:1 square composition
+  if (
+    category.includes("orisha") ||
+    category.includes("òrìṣà") ||
+    tags.includes("orisha") ||
+    tags.includes("òrìṣà")
+  ) {
+    visualDirection =
+      `Create a square editorial image for a serious Yoruba / Ifá cultural glossary archive. 
+Use a respectful symbolic scene rather than a fantasy character portrait. 
+Show sacred atmosphere through objects, materials, shrine context, environment, or ritual symbolism.`;
+  } else if (
+    category.includes("ritual") ||
+    category.includes("tool") ||
+    tags.includes("ritual") ||
+    tags.includes("tool") ||
+    tags.includes("divination")
+  ) {
+    visualDirection =
+      `Create a square museum-quality documentary image for a Yoruba / Ifá glossary archive.
+Focus on a realistic handcrafted ritual object or divination context with authentic materials and subtle atmosphere.`;
+  } else if (
+    category.includes("concept") ||
+    category.includes("philosophy") ||
+    category.includes("virtue") ||
+    tags.includes("concept") ||
+    tags.includes("philosophy")
+  ) {
+    visualDirection =
+      `Create a square symbolic editorial image for a Yoruba / Ifá glossary archive.
+Express the meaning through natural materials, light, texture, and atmosphere rather than literal character depiction.`;
+  }
+
+  const termSpecificHints: Record<string, string> = {
+    ogun: "forged iron, blacksmith tools, anvil, strength, earth tones, disciplined atmosphere",
+    "ose-sango": "thunder symbolism, carved wood, sacred staff symbolism, royal energy, deep reds, storm atmosphere",
+    sango: "thunder symbolism, carved wood, sacred staff symbolism, royal energy, deep reds, storm atmosphere",
+    obaluaye: "raffia texture, earth, healing symbolism, sacred stillness, humility, muted natural tones",
+    esu: "crossroads, pathway symbolism, messenger energy, balance, red and black accents, sacred ambiguity",
+    orunmila: "wisdom, divination, palm nuts, opon ifa, iyerosun powder, calm sacred atmosphere",
+    ifa: "divination tray, palm nuts, iyerosun, woven mat, carved wood, sacred order",
+    osugbo: "aged wood, earth tones, solemn ritual atmosphere, seniority, dignity, ancestral gravitas",
+  };
+
+  const hint = termSpecificHints[slug];
+
+  return `
+${visualDirection}
 
 Glossary context:
 ${context}
+
+Visual requirements:
+- culturally respectful
+- grounded in Yoruba / Ifá visual symbolism
+- archival, refined, atmospheric, and natural
+- realistic materials such as wood, brass, cloth, beads, calabash, raffia, carved surfaces, woven mat, earth textures
+- soft natural light or subtle dramatic daylight
+- elegant 1:1 square composition
+- visually distinct from other glossary entries
+- suitable for a premium cultural knowledge archive
+
+Strongly avoid:
+- text, letters, captions, symbols rendered as typography
+- cartoon style
+- generic stock icon look
+- glossy 3D render look
+- plastic-looking faces or objects
+- neon glow
+- fantasy magic effects
+- superhero poster style
+- random modern objects
+- overly saturated colors
+
+${hint ? `Term-specific emphasis:\n- ${hint}` : ""}
+
+The result should feel like a serious museum or editorial cultural archive image, not generic AI art.
 `.trim();
 }
 
